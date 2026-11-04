@@ -1,0 +1,1388 @@
+[
+ {
+  "id": "bei-zhouting",
+  "name": "新竹州廳",
+  "category": "國定古蹟",
+  "level": "國定古蹟",
+  "town": "北區",
+  "types": [
+   "衙署"
+  ],
+  "announced": "1998-06-23",
+  "address": "北區大同里中正路120號",
+  "lat": 24.8067078903843,
+  "lng": 120.968824017986,
+  "open": "服務時間：週一至週五8：00~12：00，13：00~17：00",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/19980622000001",
+  "caseId": "19980622000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-04-26/48c844bd-3d41-45fa-9990-fc93fddec120/F005新竹市新竹州廳(三級)(1).jpg"
+ },
+ {
+  "id": "bei-jinshidi",
+  "name": "進士第(鄭用錫宅第)",
+  "category": "國定古蹟",
+  "level": "國定古蹟",
+  "town": "北區",
+  "types": [
+   "宅第"
+  ],
+  "announced": "1985-08-19",
+  "address": "北區北門街163號",
+  "lat": 24.809436,
+  "lng": 120.965329,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20220803000001",
+  "caseId": "20220803000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2025-06-27/50e3e1d7-140d-4c74-ac51-0c31de73ca32/承20240403_093822地震後巡視 (12)0.jpg"
+ },
+ {
+  "id": "bei-menguoxiaotongxin",
+  "name": "北門國小同心堂",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "北區",
+  "types": [
+   "學校"
+  ],
+  "announced": "2021-12-29",
+  "address": "北區水田街33號",
+  "lat": 24.81358,
+  "lng": 120.96599,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20211230000004",
+  "caseId": "20211230000004",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-12-30/b9cb1558-d85c-4288-91d5-762d201c4bd3/北門國小同心堂-代表圖像.jpg"
+ },
+ {
+  "id": "bei-menguoxiaobailing",
+  "name": "北門國小百齡樓",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "北區",
+  "types": [
+   "學校"
+  ],
+  "announced": "2021-12-29",
+  "address": "北區水田街33號",
+  "lat": 24.81358,
+  "lng": 120.96599,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20211230000003",
+  "caseId": "20211230000003",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-12-30/16c84199-9b21-4645-911a-5bbc2eb90ff7/北門國小百齡樓-代表圖像.png"
+ },
+ {
+  "id": "bei-jilidi",
+  "name": "吉利第",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "北區",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2013-02-07",
+  "address": "北區新竹市北門街173號",
+  "lat": 24.809886,
+  "lng": 120.965399,
+  "open": "私人宅第,目前尚不開放參觀。",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20130207000001",
+  "caseId": "20130207000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-01/3251a48d-5e7e-4305-a8f2-402a3bcc0262/吉利第管維.jpg"
+ },
+ {
+  "id": "bei-zhouyiji",
+  "name": "周益記",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "北區",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2013-09-09",
+  "address": "北區新竹市北門街57號",
+  "lat": 24.806233,
+  "lng": 120.9657,
+  "open": "",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20130909000001",
+  "caseId": "20130909000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-31/98dd1d95-a23f-481a-818f-8fa979381bad/IMG_0956-代表圖.jpg"
+ },
+ {
+  "id": "bei-kanglangduanfang",
+  "name": "康朗段防空碉堡",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "北區",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2013-02-07",
+  "address": "北區新竹市康朗段283地號",
+  "lat": 24.823867,
+  "lng": 120.947474,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20130207000003",
+  "caseId": "20130207000003",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-04-30/088c06c2-59c1-4ed4-989c-6036f32f5b4f/1.jpg"
+ },
+ {
+  "id": "bei-kangleduanfangkong",
+  "name": "康樂段防空碉堡",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "北區",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2013-02-07",
+  "address": "北區新竹市康樂段396-1地號（新竹市東大路三段335巷42號旁）",
+  "lat": 24.823867,
+  "lng": 120.947474,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20130207000004",
+  "caseId": "20130207000004",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-04-30/48cf6233-c3b8-4961-aa56-91758178408e/1代表圖像.jpg"
+ },
+ {
+  "id": "bei-zhangshijiexiao",
+  "name": "張氏節孝坊",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "北區",
+  "types": [
+   "牌坊"
+  ],
+  "announced": "1985-08-19",
+  "address": "北區國華街87號旁",
+  "lat": 24.8168815007243,
+  "lng": 120.969941546255,
+  "open": "開放空間",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/19850819000005",
+  "caseId": "19850819000005",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-30/24d83319-319a-47b1-88e5-c5fb51c76a48/IMG_176629代表圖.jpg"
+ },
+ {
+  "id": "bei-shaonianxingwusuo",
+  "name": "新竹少年刑務所演武場",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "北區",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2012-07-27",
+  "address": "北區新竹市廣州街20巷18、20號",
+  "lat": 24.803876,
+  "lng": 120.959773,
+  "open": "週二-週日\n9：00-17：00\n休館日\n週一/民俗節日",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20120727000001",
+  "caseId": "20120727000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-10-27/4914e42a-8140-47b2-b454-eb7cd8bd55c6/20221011_124549.jpg"
+ },
+ {
+  "id": "bei-zhoutingfushujian",
+  "name": "新竹州廳附屬建築（市府檔案室）",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "北區",
+  "types": [
+   "辦公廳舍"
+  ],
+  "announced": "2021-12-29",
+  "address": "北區中正路120號",
+  "lat": 24.806749,
+  "lng": 120.968863,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20211230000006",
+  "caseId": "20211230000006",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-12-30/49c6b359-9731-4deb-bf42-1d71f34e1419/新竹州廳附屬建築市府檔案室-代表圖像.jpg"
+ },
+ {
+  "id": "bei-yisuo",
+  "name": "新竹市役所",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "北區",
+  "types": [
+   "衙署"
+  ],
+  "announced": "2001-05-31",
+  "address": "北區中央路116號",
+  "lat": 24.8063455913574,
+  "lng": 120.970086053087,
+  "open": "開放時間：開館時間：每週二～週日 上午9:00～下午5:00  \n(週一、民俗假日、佈撤展日及選舉日休館) 聯絡資訊： 館址：新竹市中央路116號  \nTEL：03-5247218",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20010531000003",
+  "caseId": "20010531000003",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-31/1a90759e-bac6-4df1-8638-2e2072c87219/IMG_0807-代表圖.jpg"
+ },
+ {
+  "id": "bei-xiaofangbowuguan",
+  "name": "新竹市消防博物館",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "北區",
+  "types": [
+   "辦公廳舍"
+  ],
+  "announced": "2018-09-04",
+  "address": "北區新竹市中山路4號",
+  "lat": 24.801768,
+  "lng": 120.96202300000004,
+  "open": "工程施工中，暫休館至114年12月31日止",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20181224000001",
+  "caseId": "20181224000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-01-29/4e5d4d26-6da1-45f5-b71e-f3b2746c8c34/新竹市消防博物館代表圖像2021.jpg"
+ },
+ {
+  "id": "bei-shuixiangong",
+  "name": "新竹水仙宮",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "北區",
+  "types": [
+   "寺廟"
+  ],
+  "announced": "1998-12-29",
+  "address": "北區長和里北門街135號",
+  "lat": 24.8085702196558,
+  "lng": 120.964988434093,
+  "open": "開放時間：04：00~22：00",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/19981229000001",
+  "caseId": "19981229000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-30/f3c81d2f-2deb-45f2-bb5b-7e9724a85d53/IMG_2912.jpg"
+ },
+ {
+  "id": "bei-shenshecanjijiqifu",
+  "name": "新竹神社殘蹟及其附屬建築",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "北區",
+  "types": [
+   "寺廟"
+  ],
+  "announced": "2001-05-31",
+  "address": "北區崧嶺路122號",
+  "lat": 24.7926571596203,
+  "lng": 120.952634623826,
+  "open": "未開放",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20010531000002",
+  "caseId": "20010531000002",
+  "officialImg": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/526/photo/新竹神社殘蹟及其附屬建築.jpg"
+ },
+ {
+  "id": "bei-duchenghuangmiao",
+  "name": "新竹都城隍廟",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "北區",
+  "types": [
+   "寺廟"
+  ],
+  "announced": "1985-08-19",
+  "address": "北區中山里中山路75號",
+  "lat": 24.8042280491335,
+  "lng": 120.965618922667,
+  "open": "24小時營業",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/19850819000003",
+  "caseId": "19850819000003",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-04-23/c85737ea-960f-43af-9df8-db51a32fbdb5/代表圖.jpg"
+ },
+ {
+  "id": "bei-zhengshijiamiao",
+  "name": "新竹鄭氏家廟",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "北區",
+  "types": [
+   "寺廟"
+  ],
+  "announced": "1985-08-19",
+  "address": "北區北門里北門街175號",
+  "lat": 24.8099648424304,
+  "lng": 120.965477057613,
+  "open": "",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/19850819000001",
+  "caseId": "19850819000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-30/11d02c6a-2229-421d-b385-d9e72a17c345/1代表圖.jpg"
+ },
+ {
+  "id": "bei-zhanghegong",
+  "name": "新竹長和宮",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "北區",
+  "types": [
+   "寺廟"
+  ],
+  "announced": "1985-08-19",
+  "address": "北區長和里北門街135號",
+  "lat": 24.8085341795405,
+  "lng": 120.964894898166,
+  "open": "開放時間：4：00-22：00",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/19850819000002",
+  "caseId": "19850819000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-24/c28f720f-2ac0-46c9-88c7-ab6f6b280bd6/代表圖.jpg"
+ },
+ {
+  "id": "bei-chunguandi",
+  "name": "春官第",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "北區",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2013-02-07",
+  "address": "北區新竹市北門街167號",
+  "lat": 24.809747,
+  "lng": 120.965364,
+  "open": "私人宅第,目前尚不開放參觀。",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20130207000002",
+  "caseId": "20130207000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-01/f2378681-174d-4b41-8fe0-47ea4a886795/IMG_9565-代表圖.jpg"
+ },
+ {
+  "id": "bei-likechengboshiguju",
+  "name": "李克承博士故居",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "北區",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2011-11-04",
+  "address": "北區新竹市勝利路199號",
+  "lat": 24.80153858958164,
+  "lng": 120.96417172061511,
+  "open": "李克承博士故居 a-moom\n營業時間：09:00-18:00 週一公休",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20111104000001",
+  "caseId": "20111104000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-31/de5e61c2-1618-48f8-b7c5-d84d90426c8c/IMG_1111-代表圖.jpg"
+ },
+ {
+  "id": "bei-yangshijiexiaofang",
+  "name": "楊氏節孝坊",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "北區",
+  "types": [
+   "牌坊"
+  ],
+  "announced": "1985-08-19",
+  "address": "北區石坊里石坊街4號旁",
+  "lat": 24.8030726891947,
+  "lng": 120.964536607063,
+  "open": "開放空間",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/19850819000007",
+  "caseId": "19850819000007",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-30/cb84d959-e29c-4f63-b4cf-8706580abcae/IMG_1149-代表圖.jpg"
+ },
+ {
+  "id": "bei-jingyeyuan",
+  "name": "淨業院",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "北區",
+  "types": [
+   "寺廟"
+  ],
+  "announced": "2025-09-03",
+  "address": "北區新竹市北區境福街141巷10號",
+  "lat": 24.8186651,
+  "lng": 120.959792,
+  "open": "\n",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20190419000002",
+  "caseId": "20190419000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-01/1293b8b0-37da-451e-a029-305a8555c28f/IMG_1707-代表圖.jpg"
+ },
+ {
+  "id": "bei-sushijiexiaofang",
+  "name": "蘇氏節孝坊",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "北區",
+  "types": [
+   "牌坊"
+  ],
+  "announced": "1985-08-19",
+  "address": "北區湳雅街147巷45弄",
+  "lat": 24.8195329444009,
+  "lng": 120.971669425988,
+  "open": "開放空間",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/19850819000006",
+  "caseId": "19850819000006",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-30/cd2e239e-adef-409a-b6ce-d4596ff86c6e/IMG_1742-代表圖.jpg"
+ },
+ {
+  "id": "bei-erbagongyuandiao",
+  "name": "兒八公園碉堡",
+  "category": "歷史建築",
+  "level": "",
+  "town": "北區",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2013-02-07",
+  "address": "北區新竹市康樂段532地號",
+  "lat": 24.823867,
+  "lng": 120.947474,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20130207000005",
+  "caseId": "20130207000005",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-04-30/bb2f903a-407a-4518-afdc-80930feeb8c8/1.jpg"
+ },
+ {
+  "id": "bei-neitianhougong",
+  "name": "內天后宮",
+  "category": "歷史建築",
+  "level": "",
+  "town": "北區",
+  "types": [
+   "寺廟"
+  ],
+  "announced": "2004-03-03",
+  "address": "北區西門街184號",
+  "lat": 24.8008222286101,
+  "lng": 120.96199433788,
+  "open": "全年上午五點到下午九點",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20040303000002",
+  "caseId": "20040303000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-03-30/aa6c299a-c1d1-4873-ae6d-9f928dffce7a/代表圖.jpg"
+ },
+ {
+  "id": "bei-difangfayuan",
+  "name": "原新竹地方法院",
+  "category": "歷史建築",
+  "level": "",
+  "town": "北區",
+  "types": [
+   "辦公廳舍"
+  ],
+  "announced": "2022-04-13",
+  "address": "北區中正路136號",
+  "lat": 24.808159,
+  "lng": 120.96785,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20220613000001",
+  "caseId": "20220613000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-06-13/bba8a9b9-78eb-46b5-abcb-d26dc4e5a3f2/DSC02267.jpg"
+ },
+ {
+  "id": "bei-taiyuandi",
+  "name": "太原第",
+  "category": "歷史建築",
+  "level": "",
+  "town": "北區",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2019-01-08",
+  "address": "北區新竹市西大路730號",
+  "lat": 24.8100051,
+  "lng": 120.9595855,
+  "open": "未開放",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20190121000001",
+  "caseId": "20190121000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-26/a16ccec7-7975-48aa-98d2-bb38eaf3dbba/圖片1.jpg"
+ },
+ {
+  "id": "bei-shifudalitang",
+  "name": "市府大禮堂",
+  "category": "歷史建築",
+  "level": "",
+  "town": "北區",
+  "types": [
+   "集會堂"
+  ],
+  "announced": "2021-12-29",
+  "address": "北區府後街43號",
+  "lat": 24.807438,
+  "lng": 120.969491,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20211230000007",
+  "caseId": "20211230000007",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-12-30/514e193a-3c06-4a15-ab5e-7e8f7194bbef/市府大禮堂-代表圖像.jpg"
+ },
+ {
+  "id": "bei-shaonianxingwusuo2",
+  "name": "新竹少年刑務所職務官舍群",
+  "category": "歷史建築",
+  "level": "",
+  "town": "北區",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2013-11-22",
+  "address": "北區新竹少年刑務所職務官舍群",
+  "lat": 24.823867,
+  "lng": 120.947474,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20131122000001",
+  "caseId": "20131122000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-25/f9bc9938-182f-4f59-9887-044892353589/新竹少年刑務所職務官舍群.jpg"
+ },
+ {
+  "id": "bei-jingchaju",
+  "name": "新竹市警察局(原新竹警察署)",
+  "category": "歷史建築",
+  "level": "",
+  "town": "北區",
+  "types": [
+   "衙署"
+  ],
+  "announced": "2022-07-20",
+  "address": "北區中山路1號",
+  "lat": 24.806374,
+  "lng": 120.968546,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20220823000001",
+  "caseId": "20220823000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-08-23/0b1e9201-8025-46ee-8b2d-f51959c649f4/E2E6A0A5-D1CE-4D69-BF08-C18BE0440687.jpg"
+ },
+ {
+  "id": "bei-dongdalujingchasu",
+  "name": "東大路警察宿舍",
+  "category": "歷史建築",
+  "level": "",
+  "town": "北區",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2021-05-18",
+  "address": "北區東大路二段81巷1弄3號、5號",
+  "lat": 24.812954,
+  "lng": 120.967687,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20210526000003",
+  "caseId": "20210526000003",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-05-26/0f0667c9-e8dd-4d70-804d-5b0bb37610cc/S__21799084.jpg"
+ },
+ {
+  "id": "bei-danshuishuiguanjiu",
+  "name": "淡水稅關舊港出張所",
+  "category": "歷史建築",
+  "level": "",
+  "town": "北區",
+  "types": [
+   "衙署"
+  ],
+  "announced": "2015-10-26",
+  "address": "北區新竹市北區舊港里30-1號",
+  "lat": 24.847271,
+  "lng": 120.940266,
+  "open": "不開放",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20190702000001",
+  "caseId": "20190702000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-25/e1ac12e7-821a-4153-ba8f-eba815f07ad6/1-代表圖.jpg"
+ },
+ {
+  "id": "bei-kongjunzhanshuzhan",
+  "name": "空軍499戰術戰鬥機聯隊作戰工事—防空洞編號9（E11）",
+  "category": "歷史建築",
+  "level": "",
+  "town": "北區",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2017-12-13",
+  "address": "北區新竹市中正路699號",
+  "lat": 24.8201266,
+  "lng": 120.95330680000006,
+  "open": "本防空洞位於空軍基地內，平時不開放參觀。",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20180306000005",
+  "caseId": "20180306000005",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-26/bf4bd6dd-feac-4d4e-b3a0-94fedba88e65/9-2.jpg"
+ },
+ {
+  "id": "bei-qinghuadaxuemeiyi",
+  "name": "清華大學梅貽琦校長墓園",
+  "category": "紀念建築",
+  "level": "",
+  "town": "北區",
+  "types": [
+   "墓葬"
+  ],
+  "announced": "2021-11-03",
+  "address": "北區光復路二段101號",
+  "lat": 24.792412,
+  "lng": 120.990024,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/commemorativeBuilding/20211207000002",
+  "caseId": "20211207000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-12-07/cfff2456-cc33-4717-ad44-53385717a152/DSC01770.jpg"
+ },
+ {
+  "id": "dong-huochezhan",
+  "name": "新竹火車站",
+  "category": "國定古蹟",
+  "level": "國定古蹟",
+  "town": "東區",
+  "types": [
+   "車站"
+  ],
+  "announced": "1998-06-23",
+  "address": "東區榮光里6鄰中華路2段445號",
+  "lat": 24.8017064922572,
+  "lng": 120.971832361263,
+  "open": "全天開放",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/19980623000001",
+  "caseId": "19980623000001",
+  "officialImg": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/5563/photo/F004新竹市新竹火車站(三級)(1).JPG"
+ },
+ {
+  "id": "dong-zhuqianchengyingxi",
+  "name": "竹塹城迎曦門",
+  "category": "國定古蹟",
+  "level": "國定古蹟",
+  "town": "東區",
+  "types": [
+   "城郭"
+  ],
+  "announced": "1985-08-19",
+  "address": "東區東門圓環",
+  "lat": 24.8042121356586,
+  "lng": 120.970198964244,
+  "open": "全天",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/19850819000054",
+  "caseId": "19850819000054",
+  "officialImg": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/5548/photo/F001新竹市竹塹城迎曦門(二級)(1).JPG"
+ },
+ {
+  "id": "dong-zhengyongximu",
+  "name": "鄭用錫墓",
+  "category": "國定古蹟",
+  "level": "國定古蹟",
+  "town": "東區",
+  "types": [
+   "墓葬"
+  ],
+  "announced": "1985-08-19",
+  "address": "東區育賢段33地號(重測前/光鎮里客雅段447-36地號)",
+  "lat": 24.7878954295906,
+  "lng": 120.970960531586,
+  "open": "位於新竹國軍文化園區，每日上午8時∼12時，下午1時∼5時開放",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/19850819000055",
+  "caseId": "19850819000055",
+  "officialImg": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/5560/photo/F003新竹市鄭用錫墓(二級)(1).JPG"
+ },
+ {
+  "id": "dong-taiwanyinxingxin",
+  "name": "原台灣銀行新竹支店",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "東區",
+  "types": [
+   "銀行"
+  ],
+  "announced": "2018-04-16",
+  "address": "東區東前街69號",
+  "lat": 24.803456,
+  "lng": 120.96701000000007,
+  "open": "未開放",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20180530000001",
+  "caseId": "20180530000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-01/d3a2441a-f195-44df-b489-24b8ed3f555a/IMG_1062-代表圖.jpg"
+ },
+ {
+  "id": "dong-zhuanmaijuxinzhu",
+  "name": "專賣局新竹支局",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "東區",
+  "types": [
+   "衙署"
+  ],
+  "announced": "2001-05-31",
+  "address": "東區東門街59號",
+  "lat": 24.8040158642241,
+  "lng": 120.972232592908,
+  "open": "臺灣菸酒公司 新竹營業所營業空間不開放",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20150121000001",
+  "caseId": "20150121000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-31/a479b2cd-267a-47b5-8c99-0a9b13329a9e/IMG_0726-代表圖.jpg"
+ },
+ {
+  "id": "dong-zhongxuexiaojiang",
+  "name": "新竹中學校講堂",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "東區",
+  "types": [
+   "集會堂"
+  ],
+  "announced": "2023-12-29",
+  "address": "東區學府路36號",
+  "lat": 24.795152,
+  "lng": 120.980181,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20240329000002",
+  "caseId": "20240329000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2024-03-29/3b5ef3de-8d8f-47dd-a78f-f46944ae2b70/LINE_ALBUM_20231218 文資審議委員會（竹中講堂）_231218_24.jpg"
+ },
+ {
+  "id": "dong-xinyongzuhe",
+  "name": "新竹信用組合",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "東區",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "1999-09-07",
+  "address": "東區大同路130號",
+  "lat": 24.8059686760659,
+  "lng": 120.967851184751,
+  "open": "市定古蹟新竹信用組合為金融業使用，營業時間為上午8點30分至下午4點。\n1.開放範圍：一、二樓營業空間。\n2.開放時間：營業時間為每週一至五8：30~16：00。\n3.參觀收費：無。\n4.導覽解說：無。",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/19990907000001",
+  "caseId": "19990907000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-30/168c817c-e98f-423f-8b0d-9113f03c7824/IMG_0908-代表圖.jpg"
+ },
+ {
+  "id": "dong-guoxiaobailinglou",
+  "name": "新竹國小百齡樓",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "東區",
+  "types": [
+   "學校"
+  ],
+  "announced": "2017-11-16",
+  "address": "東區新竹市興學街106號。",
+  "lat": 24.7968093,
+  "lng": 120.96636799999999,
+  "open": "未開放",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20180306000002",
+  "caseId": "20180306000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-01/6356c29f-cd6f-40b5-b018-c48e54d561ff/2-代表圖.jpg"
+ },
+ {
+  "id": "dong-zhoutushuguan",
+  "name": "新竹州圖書館",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "東區",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "1998-12-29",
+  "address": "東區文化街8號",
+  "lat": 24.805151051321,
+  "lng": 120.97118171807,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/19981229000002",
+  "caseId": "19981229000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-31/7bbf8cde-5dc3-4a1a-a415-052e9049e74f/IMG_0787-代表圖.jpg"
+ },
+ {
+  "id": "dong-zhoujingwububu",
+  "name": "新竹州警務部部長官舍",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "東區",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2016-02-03",
+  "address": "東區新竹市中央路132號",
+  "lat": 24.807197,
+  "lng": 120.971284,
+  "open": "由132糧倉營運中\n開放時間：\n週一未營業\n週二上午11:30 - 下午2:30 、下午6:00 - 下午10:00\n週三上午11:30 - 下午2:30\n週四上午11:30 - 下午2:30\n週五上午11:30 - 下午2:30\n週六上午11:30 - 下午2:30\n週日上午11:30 - 下午2:30",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20160203000001",
+  "caseId": "20160203000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-11-16/700bcb5c-e4e0-4ca4-8f09-f75a3e88e964/JNH_0607.jpg"
+ },
+ {
+  "id": "dong-shuidaoqushuikou",
+  "name": "新竹水道-取水口",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "東區",
+  "types": [
+   "產業"
+  ],
+  "announced": "2011-07-25",
+  "address": "東區新竹市東勢街4號",
+  "lat": 24.805381,
+  "lng": 120.993686,
+  "open": "週二-週日開館\n週一、選舉日及民俗節日休館\n09：00-12：00/13：00-17：00",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20110725000001",
+  "caseId": "20110725000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-10-27/f49dc754-ab91-48b7-9869-f82d421ddbeb/20221011_113122.jpg"
+ },
+ {
+  "id": "dong-shuidaoshuiyuandi",
+  "name": "新竹水道-水源地",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "東區",
+  "types": [
+   "產業"
+  ],
+  "announced": "2011-07-25",
+  "address": "東區博愛街1號",
+  "lat": 24.799442,
+  "lng": 120.980849,
+  "open": "「新竹水道-水源地」為水源重地，肩負供應新竹市自來水的重大責任，目前由自來水公司第三區管理處管理營運，不對外開放。",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20110725000002",
+  "caseId": "20110725000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-01/1e1f2c63-4e67-408f-9f47-4715f5538325/IMG_9429-代表圖.jpg"
+ },
+ {
+  "id": "dong-jinshansi",
+  "name": "新竹金山寺",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "東區",
+  "types": [
+   "寺廟"
+  ],
+  "announced": "1985-08-19",
+  "address": "東區仙水里金山寺路201號",
+  "lat": 24.777650664531,
+  "lng": 121.015135519031,
+  "open": "",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/19850819000057",
+  "caseId": "19850819000057",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-30/ecfb8a49-7cf5-43dd-a9ed-86771411f589/7代表圖.jpg"
+ },
+ {
+  "id": "dong-guandimiao",
+  "name": "新竹關帝廟",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "東區",
+  "types": [
+   "寺廟"
+  ],
+  "announced": "1985-08-19",
+  "address": "東區關帝里南門街109-1號",
+  "lat": 24.8025806841616,
+  "lng": 120.966633012261,
+  "open": "開放時間5：00-22：00",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/19850819000056",
+  "caseId": "19850819000056",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-24/87f7e4a9-617f-4ebd-848c-1a0ace49aaa1/IMG_1075-代表圖.jpg"
+ },
+ {
+  "id": "dong-gaozhongjiandao",
+  "name": "新竹高中劍道館(前新竹中學武道場)",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "東區",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2001-05-31",
+  "address": "東區學府路36號",
+  "lat": 24.7940868988121,
+  "lng": 120.981196541811,
+  "open": "校園未開放",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20010531000004",
+  "caseId": "20010531000004",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-31/695d5bbc-7bdf-4d25-a75b-7c4c0023d626/IMG_8109-代表圖.jpg"
+ },
+ {
+  "id": "dong-gaodengnvxuexiao",
+  "name": "新竹高等女學校講堂",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "東區",
+  "types": [
+   "集會堂"
+  ],
+  "announced": "2023-12-29",
+  "address": "東區中華路二段270號",
+  "lat": 24.804828,
+  "lng": 120.975603,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20240329000001",
+  "caseId": "20240329000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2024-03-29/9b4fb7a2-40f0-4762-9a96-bff2dcabf788/LINE_ALBUM_20231204審議會-八卦窯_竹女小禮堂_231205_7.jpg"
+ },
+ {
+  "id": "dong-lixijinxiaozifang",
+  "name": "李錫金孝子坊",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "東區",
+  "types": [
+   "牌坊"
+  ],
+  "announced": "1985-08-19",
+  "address": "東區明湖路486巷旁",
+  "lat": 24.7800921404622,
+  "lng": 120.967501312792,
+  "open": "開放空間",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/19850819000004",
+  "caseId": "19850819000004",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-30/5e0a7b4e-d61f-48ad-9e9f-ae4c68f9e589/IMG_9855-代表圖.jpg"
+ },
+ {
+  "id": "dong-zhulianlichuantong",
+  "name": "竹蓮里傳統聚落古井",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "東區",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2016-08-12",
+  "address": "東區南大路338巷29號",
+  "lat": 24.798525,
+  "lng": 120.970941,
+  "open": "公共空間",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20160812000001",
+  "caseId": "20160812000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-01/3cc3ddfd-45b6-43e5-803f-8139e5cb121a/IMG_0108-代表圖.jpg"
+ },
+ {
+  "id": "dong-xinzhipingxiao",
+  "name": "辛志平校長故居",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "東區",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2002-08-01",
+  "address": "東區東門街32 號",
+  "lat": 24.8042522985882,
+  "lng": 120.973899331987,
+  "open": "每週二至週日，上午9時至下午5時",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20020801000001",
+  "caseId": "20020801000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-31/79b0364c-38df-4c12-94d0-eaa75a8ee1d8/IMG_0652-代表圖.jpg"
+ },
+ {
+  "id": "dong-nandalujingchasu",
+  "name": "南大路警察宿舍",
+  "category": "歷史建築",
+  "level": "",
+  "town": "東區",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2016-02-03",
+  "address": "東區新竹市南大路145、147號及新竹市南大路162、166號",
+  "lat": 24.80027,
+  "lng": 120.974359,
+  "open": "開館時間：週三至週日10:00-18:00（最後入場時間17:30）（每周一、二休館，逢連續假日開館，連假後隔日休館。實際開館時間，以現場公告為主。)",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20160203000002",
+  "caseId": "20160203000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-07-01/aa3a6711-2a7a-46b8-9bda-bcd2e0ed79bd/IMG_7773-代表圖.jpg"
+ },
+ {
+  "id": "dong-zhouzizhihuiguan",
+  "name": "原新竹州自治會館",
+  "category": "歷史建築",
+  "level": "",
+  "town": "東區",
+  "types": [
+   "集會堂"
+  ],
+  "announced": "2017-09-06",
+  "address": "東區新竹市東大路1段2號",
+  "lat": 24.8012033,
+  "lng": 120.97813610000003,
+  "open": "開館時間：\n週二~ 週日 09:00~17:00\n每週一及除夕休館\n\n聯絡資訊：\n30068新竹市東大路一段2號\n聯絡電話：03-5626091\n傳真電話：03-5626093\n\n票價查詢：\n\n全票： 50元（一般民眾適用）\n優待票： 30元（軍、警、學生憑證購票或20人（含）以上團體適用）\n免票對象：\n1.新竹市民憑身份證、市民卡或駕照證明可免票入館。\n2.年滿65歲者及未滿6歲之兒童。\n3.身心障礙者憑手冊免票入館，其監護人或必要之陪伴者一人，憑該手冊得予免票入館。\n4.新竹市各國中、小學申請團體參觀。\n5.持有志工榮譽卡者。\n售票時間：\n週二 ~ 週日，每日 09:00至16:30",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20180301000001",
+  "caseId": "20180301000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2018-02-23/95eca348-00b7-4082-9d9d-0edd3ba6bfd0/IMG_8841.jpg"
+ },
+ {
+  "id": "dong-taiwanshengzhengfu",
+  "name": "台灣省政府糧食局新竹管理處",
+  "category": "歷史建築",
+  "level": "",
+  "town": "東區",
+  "types": [
+   "衙署"
+  ],
+  "announced": "2010-10-14",
+  "address": "東區民族路111號",
+  "lat": 24.8079205988149,
+  "lng": 120.976930600856,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20101129000002",
+  "caseId": "20101129000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-03-31/2b7e2cae-828d-4593-843d-490e7dec79fa/代表圖.jpg"
+ },
+ {
+  "id": "dong-taidianxinzhubian",
+  "name": "台電新竹變電所控制室",
+  "category": "歷史建築",
+  "level": "",
+  "town": "東區",
+  "types": [
+   "產業"
+  ],
+  "announced": "2020-08-27",
+  "address": "東區新竹市光復路一段566號",
+  "lat": 24.7887148,
+  "lng": 121.0082169,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20200929000001",
+  "caseId": "20200929000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-26/ade54afc-a391-44b7-89fc-e4e376b502ee/IMG_8037-代表圖.jpg"
+ },
+ {
+  "id": "dong-jianhuaguozhongdi",
+  "name": "建華國中第一棟",
+  "category": "歷史建築",
+  "level": "",
+  "town": "東區",
+  "types": [
+   "學校"
+  ],
+  "announced": "2017-11-16",
+  "address": "東區新竹市學府路2號",
+  "lat": 24.7939644,
+  "lng": 120.97672520000003,
+  "open": "歷史建築建華國中第一棟目前為校舍使用。\n1.開放範圍：校舍外圍。\n2.開放時間：室內無開放。\n3.參觀收費：無。\n4.導覽解說：無。",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20180306000003",
+  "caseId": "20180306000003",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-04/63345db0-5100-4c52-a0d6-00fc488619f0/IMG_7837-代表圖.jpg"
+ },
+ {
+  "id": "dong-gongyuanhupanliao",
+  "name": "新竹公園湖畔料亭",
+  "category": "歷史建築",
+  "level": "",
+  "town": "東區",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2017-09-06",
+  "address": "東區公園路265號",
+  "lat": 24.801897302144734,
+  "lng": 120.97945293277718,
+  "open": "週一公休",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20180301000002",
+  "caseId": "20180301000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-05-03/383c4d84-96bc-4585-9a96-9d3e4babd64f/代表圖.jpg"
+ },
+ {
+  "id": "dong-gonghuitang",
+  "name": "新竹公會堂",
+  "category": "歷史建築",
+  "level": "",
+  "town": "東區",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2011-04-06",
+  "address": "東區武昌街110號",
+  "lat": 24.8033394913966,
+  "lng": 120.967387260043,
+  "open": "111年10月22日啟用",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20110406000001",
+  "caseId": "20110406000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-25/42f59850-ec7f-47f4-a1af-b00f0a778bc0/建築物正面照片1.jpg"
+ },
+ {
+  "id": "dong-dongwuyuanjiudamen",
+  "name": "新竹動物園―舊大門、噴水池、黃魚鴞欄舍",
+  "category": "歷史建築",
+  "level": "",
+  "town": "東區",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2017-09-12",
+  "address": "東區新竹市公園路279號",
+  "lat": 24.8010707,
+  "lng": 120.97949790000007,
+  "open": "服務時間：除每週一及除夕外，全年開放早上9:00到下午5: 00\n連續假日遇週一則視為假日開園",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20180305000002",
+  "caseId": "20180305000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-05-03/51d90fdc-5c9d-4ca5-a94b-a42859c40dff/代表圖.jpg"
+ },
+ {
+  "id": "dong-zhoulixinzhushang",
+  "name": "新竹州立新竹商業學校日式宿舍",
+  "category": "歷史建築",
+  "level": "",
+  "town": "東區",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2026-03-02",
+  "address": "東區學府路128-2號",
+  "lat": 24.79669140058227,
+  "lng": 120.98585300571202,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20260312000001",
+  "caseId": "20260312000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2026-03-12/00aa146c-a523-48fe-b8ff-55153814be38/新聞稿_128-2號.jpg"
+ },
+ {
+  "id": "dong-kongmiao",
+  "name": "新竹市孔廟",
+  "category": "歷史建築",
+  "level": "",
+  "town": "東區",
+  "types": [
+   "寺廟"
+  ],
+  "announced": "2010-03-16",
+  "address": "東區新竹市公園路289號",
+  "lat": 24.7998741796123,
+  "lng": 120.978221808835,
+  "open": "週二~週日(國定假日休館)\n早上八點至下午五點",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20100316000002",
+  "caseId": "20100316000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-03-30/e45db8fc-d6d7-4461-ac92-73d66c93aaf0/代表圖.jpg"
+ },
+ {
+  "id": "dong-zhanhaocangku",
+  "name": "新竹站1-5號倉庫",
+  "category": "歷史建築",
+  "level": "",
+  "town": "東區",
+  "types": [
+   "產業"
+  ],
+  "announced": "2015-10-26",
+  "address": "東區新竹市花園街64號",
+  "lat": 24.804412,
+  "lng": 120.977462,
+  "open": "週二~週日10:00~18:00 （週一公休）",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20151026000001",
+  "caseId": "20151026000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-04-30/7a8d6080-5b31-40f2-a0e7-e763cdbafb75/代表圖.jpg"
+ },
+ {
+  "id": "dong-guancesuo",
+  "name": "新竹觀測所",
+  "category": "歷史建築",
+  "level": "",
+  "town": "東區",
+  "types": [
+   "機關"
+  ],
+  "announced": "2017-09-06",
+  "address": "東區新竹市公園路133號",
+  "lat": 24.799539,
+  "lng": 120.97569909999993,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20180305000001",
+  "caseId": "20180305000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-05-03/0d1d6714-41c6-4099-a988-4380b89efeba/代表圖.jpg"
+ },
+ {
+  "id": "dong-ribenhaijundiliu",
+  "name": "日本海軍第六燃料廠新竹支廠",
+  "category": "歷史建築",
+  "level": "",
+  "town": "東區",
+  "types": [
+   "產業"
+  ],
+  "announced": "2010-03-16",
+  "address": "東區新竹市建美路24巷6號週邊",
+  "lat": 24.8011844434887,
+  "lng": 120.998208180576,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20100316000003",
+  "caseId": "20100316000003",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-24/5a6e7c60-de10-4d38-b219-04f86a89c766/日本海軍第六燃料廠新竹支廠.jpg"
+ },
+ {
+  "id": "dong-ribenhaijundiliu2",
+  "name": "日本海軍第六燃料廠煉油廠遺存建築群",
+  "category": "歷史建築",
+  "level": "",
+  "town": "東區",
+  "types": [
+   "產業"
+  ],
+  "announced": "2014-08-12",
+  "address": "東區燃料廠房：位於新竹市建新路86號。大油槽：位於新竹市建功一路42 巷內。大廠房：位於新竹市建功一路14巷內。",
+  "lat": 24.799968,
+  "lng": 121.000062,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20140812000001",
+  "caseId": "20140812000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-25/a3f4be47-df9f-4704-ac07-8c3b05c8c8d8/大油槽照片1.jpg"
+ },
+ {
+  "id": "dong-ribenhaijundiliu3",
+  "name": "日本海軍第六燃料廠觸媒工廠",
+  "category": "歷史建築",
+  "level": "",
+  "town": "東區",
+  "types": [
+   "產業"
+  ],
+  "announced": "2019-03-07",
+  "address": "東區新竹市建功高中斜對面(光復段809-2地號)",
+  "lat": 24.7962591,
+  "lng": 121.00191199999995,
+  "open": "維修中",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20190612000001",
+  "caseId": "20190612000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2019-06-12/f4182b05-5887-49f6-aab3-16e4b2eefcf2/IMG_20181121_140031.jpg"
+ },
+ {
+  "id": "dong-youleguan",
+  "name": "有樂館",
+  "category": "歷史建築",
+  "level": "",
+  "town": "東區",
+  "types": [
+   "戲劇院"
+  ],
+  "announced": "2010-11-29",
+  "address": "東區中正路65號",
+  "lat": 24.8049115448659,
+  "lng": 120.969582273869,
+  "open": "營業時間 Open Hours \n週一、週三至週日（週二公休）\n影院 CINEMA｜依電影放映時刻表 \n書店BOOKS｜13:00-21:30 \n餐酒館 BISTRO｜18:00-24:00\n每周三傍晚更新當周五至下周四場次，若遇特殊狀況（如連假）則機動調整後公佈。 \n現由鴻梅文創志業股份有限公司營運管理，於111年1月底開幕。",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20101129000001",
+  "caseId": "20101129000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-03-31/cfc872fb-ca92-45b0-85a6-b2a57b088d65/代表圖.jpg"
+ },
+ {
+  "id": "dong-tingfuzhenducaotu",
+  "name": "汀甫圳渡槽-土地公坑溪、客雅溪、成德路",
+  "category": "歷史建築",
+  "level": "",
+  "town": "東區",
+  "types": [
+   "產業"
+  ],
+  "announced": "2015-10-26",
+  "address": "東區土地公坑溪渡槽：新竹市高峰路2巷伯爵社區與工研院食科所間。竹仔坑山北緣坡地。",
+  "lat": 24.813829,
+  "lng": 120.967475,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20151026000002",
+  "caseId": "20151026000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-25/d91001f3-a96d-4ecb-8d17-87ec49265f10/DSC01872.jpg"
+ },
+ {
+  "id": "dong-huangqingtaixue",
+  "name": "皇清太學生承志翁林公之墓",
+  "category": "歷史建築",
+  "level": "",
+  "town": "東區",
+  "types": [
+   "墓葬"
+  ],
+  "announced": "2023-06-14",
+  "address": "東區新竹市第一公墓內，新竹市仙宮段244地號。",
+  "lat": 24.787466401752173,
+  "lng": 120.9889997592207,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20231211000002",
+  "caseId": "20231211000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-12-11/7200f8a1-cfe6-4bde-b146-df042768de6f/S__3940480.jpg"
+ },
+ {
+  "id": "dong-zhuliansi",
+  "name": "竹蓮寺",
+  "category": "歷史建築",
+  "level": "",
+  "town": "東區",
+  "types": [
+   "寺廟"
+  ],
+  "announced": "2004-03-03",
+  "address": "東區竹蓮里竹蓮街100號",
+  "lat": 24.7988357293961,
+  "lng": 120.969980202385,
+  "open": "全年：上午5時至下午10時",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20040303000005",
+  "caseId": "20040303000005",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-03-30/1b95eb5c-d4c5-4c42-a9e0-a91a1581d463/代表圖.jpg"
+ },
+ {
+  "id": "dong-yuxianguozhongyin",
+  "name": "育賢國中音樂教室",
+  "category": "歷史建築",
+  "level": "",
+  "town": "東區",
+  "types": [
+   "學校"
+  ],
+  "announced": "2017-11-16",
+  "address": "東區新竹市南大路569號",
+  "lat": 24.7901418,
+  "lng": 120.9656076,
+  "open": "教學空間，未開放",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20180306000004",
+  "caseId": "20180306000004",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-25/f10b0b5c-01ba-4d48-8d2f-bdd85e703e9d/1-代表圖.jpg"
+ },
+ {
+  "id": "dong-jinchengxincun",
+  "name": "金城新村",
+  "category": "歷史建築",
+  "level": "",
+  "town": "東區",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "0113-10-17",
+  "address": "東區金城一路67、69號；金城一路71巷1、3、5、7、9、11、13號，及金城二路2、4、6、8、10、12號等共15戶。",
+  "lat": 24.794589,
+  "lng": 121.002695,
+  "open": "開放時間：\n開館時間：每週二至週日(108年8月1日起) \n       夏季(5月-10月)：11:00-19:00\n       冬季(11月-4月)：10:00-18:00\n休館時間：每週一、選舉日及民俗節日\n聯絡資訊：\n地　　址：新竹市東區建功里金城一路69號(金城一路、二路交叉口)\n電        話：03-5720825\n官        網：http://www.gvillage.tw/",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20151026000003",
+  "caseId": "20151026000003",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-04-30/93e82ba6-7b26-4202-95fc-6cda098f9d89/2.jpg"
+ },
+ {
+  "id": "xiangshan-jinshuiyangjiagu",
+  "name": "浸水楊家古厝",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "香山區",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2023-04-19",
+  "address": "香山區浸水南街14、16、18號",
+  "lat": 24.79919,
+  "lng": 120.92404,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20231211000001",
+  "caseId": "20231211000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-12-11/4765baf2-26b2-432a-9b86-04f40403a25f/DSC02793.jpg"
+ },
+ {
+  "id": "xiangshan-huochezhan",
+  "name": "香山火車站(前香山驛)",
+  "category": "市定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "香山區",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2001-05-31",
+  "address": "香山區中華路5段349巷2弄7號",
+  "lat": 24.7631260146099,
+  "lng": 120.913850536248,
+  "open": "火車站公共空間",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20010531000001",
+  "caseId": "20010531000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-31/8de4ce0b-12c8-4921-a861-23e337438563/IMG_9793-代表圖.jpg"
+ },
+ {
+  "id": "xiangshan-tianhougong",
+  "name": "香山天后宮",
+  "category": "歷史建築",
+  "level": "",
+  "town": "香山區",
+  "types": [
+   "寺廟"
+  ],
+  "announced": "2004-03-03",
+  "address": "香山區朝山里8鄰中華路五段420巷191號",
+  "lat": 24.7693326582901,
+  "lng": 120.914491953188,
+  "open": "全年6:00-20:00",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20040303000001",
+  "caseId": "20040303000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-03-30/131f0940-2d9c-4cc1-9e2e-759094a23d12/代表圖.jpg"
+ }
+]
