@@ -1,0 +1,1314 @@
+[
+ {
+  "id": "caotun-shougongyepinchen",
+  "name": "原手工業品陳列館",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "草屯鎮",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2022-02-09",
+  "address": "草屯鎮中正路573號",
+  "lat": 23.980042,
+  "lng": 120.69217,
+  "open": "09:00 -17:00，週一休館（若星期一適逢假日不休館）\n園區免費參觀（工藝體驗DIY及特定活動需另外收費）\n提供的活動:\n1.  專人導覽：僅供10人以上團體預約導覽。\n2.   DIY體驗：藍染、金工、竹藝、陶藝等，費用50至500元不等。\n※ 10人以上團體欲參加DIY體驗、兒童歡樂森林，請於參觀日前7天至官網預約\n\n",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20220223000001",
+  "caseId": "20220223000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2025-12-07/7b8a1de3-7a4e-4de6-b288-e7e413b1b9fe/原手工業品陳列館(北向外觀照).jpg"
+ },
+ {
+  "id": "caotun-yuemeicuolongde",
+  "name": "月眉厝龍德廟",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "草屯鎮",
+  "types": [
+   "寺廟"
+  ],
+  "announced": "1985-11-27",
+  "address": "草屯鎮碧峰里碧山路1158號",
+  "lat": 23.9712978294903,
+  "lng": 120.65041902094,
+  "open": "24小時",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20190501000002",
+  "caseId": "20190501000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-03-15/8cdd09b8-56e7-409a-ad04-aabf19292be0/月眉厝龍德廟.jpg"
+ },
+ {
+  "id": "caotun-dengyingshuyuan",
+  "name": "登瀛書院",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "草屯鎮",
+  "types": [
+   "書院"
+  ],
+  "announced": "1985-11-27",
+  "address": "草屯鎮新庄里史館路文昌巷30號",
+  "lat": 23.9887586151698,
+  "lng": 120.66747904754,
+  "open": "上午8：30至下午5：00",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/19851127000032",
+  "caseId": "19851127000032",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-03-16/5d850b23-818d-4e8d-b412-9170e5af5070/登瀛書院.jpg"
+ },
+ {
+  "id": "caotun-chaoyanggong",
+  "name": "草屯朝陽宮",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "草屯鎮",
+  "types": [
+   "寺廟"
+  ],
+  "announced": "2021-08-17",
+  "address": "草屯鎮史館路239號",
+  "lat": 23.983499,
+  "lng": 120.663974,
+  "open": "週一至週日07:00 – 21:00",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20211104000001",
+  "caseId": "20211104000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-04-08/eb6ad99e-c200-47b9-ac2a-c75951e45b08/草屯朝陽宮.jpg"
+ },
+ {
+  "id": "caotun-dunluntang",
+  "name": "草屯燉倫堂",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "草屯鎮",
+  "types": [
+   "祠堂"
+  ],
+  "announced": "1993-02-05",
+  "address": "草屯鎮加老里加老路269-1號",
+  "lat": 24.000986,
+  "lng": 120.655069,
+  "open": "上午8：00至下午5：00",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/19930205000003",
+  "caseId": "19930205000003",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2024-07-17/76c516b7-76d1-49bf-a91d-52d969d4b999/草屯燉倫堂.jpg"
+ },
+ {
+  "id": "caotun-chongshantang",
+  "name": "崇善堂",
+  "category": "歷史建築",
+  "level": "",
+  "town": "草屯鎮",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2002-01-29",
+  "address": "草屯鎮草溪路168 號",
+  "lat": 23.9565085609792,
+  "lng": 120.674109514703,
+  "open": "私人空間",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20020129000005",
+  "caseId": "20020129000005",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-09-11/73d79ecd-2eee-4fd2-9b67-6e21432fcdcc/崇善堂.jpg"
+ },
+ {
+  "id": "caotun-furongtang",
+  "name": "敷榮堂",
+  "category": "歷史建築",
+  "level": "",
+  "town": "草屯鎮",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2002-01-29",
+  "address": "草屯鎮新庄里芬草路二段752號",
+  "lat": 23.9960471188372,
+  "lng": 120.664998476808,
+  "open": "私人空間",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20020129000006",
+  "caseId": "20020129000006",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2024-05-16/d1c27fb3-07d3-4a6a-862c-a0e6394c5384/敷榮堂.jpg"
+ },
+ {
+  "id": "caotun-xinzhuangguoxiaori",
+  "name": "新庄國小日治宿舍",
+  "category": "歷史建築",
+  "level": "",
+  "town": "草屯鎮",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2009-04-23",
+  "address": "草屯鎮南投縣草屯鎮新庄里新庄三路32號",
+  "lat": 23.995360813658,
+  "lng": 120.668955002445,
+  "open": "",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20090423000002",
+  "caseId": "20090423000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-09-08/adc16334-e343-4bc6-8d34-9fbbaf4068bf/新庄國小日治宿舍.jpg"
+ },
+ {
+  "id": "caotun-xinzhuangguoxiaoli",
+  "name": "新庄國小禮堂",
+  "category": "歷史建築",
+  "level": "",
+  "town": "草屯鎮",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2004-12-21",
+  "address": "草屯鎮芬草路219號",
+  "lat": 23.9952651346611,
+  "lng": 120.667439930773,
+  "open": "上午8:00至下午4:00",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20041221000002",
+  "caseId": "20041221000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-09-09/14f98ec9-4253-451a-a80e-a24bb672dea1/新庄國小禮堂.jpg"
+ },
+ {
+  "id": "caotun-bifengguominxiao",
+  "name": "碧峰國民小學禮堂",
+  "category": "歷史建築",
+  "level": "",
+  "town": "草屯鎮",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2002-08-01",
+  "address": "草屯鎮立人路439 號",
+  "lat": 23.9693711639761,
+  "lng": 120.666089543514,
+  "open": "上午8:00至下午5:00",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20020801000003",
+  "caseId": "20020801000003",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-09-12/89490ee4-9283-4ebd-b475-5a26fd7f709c/碧峰國小禮堂.jpg"
+ },
+ {
+  "id": "caotun-guominxiaoxueli",
+  "name": "草屯國民小學禮堂",
+  "category": "歷史建築",
+  "level": "",
+  "town": "草屯鎮",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2002-08-01",
+  "address": "草屯鎮玉峰里玉屏路210 號",
+  "lat": 23.9817802545728,
+  "lng": 120.687270756905,
+  "open": "上午8:00至下午4:00",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20020801000002",
+  "caseId": "20020801000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2024-05-09/c201cf23-bbe7-4b19-b413-bf359eb1d935/草屯國小禮堂整體外觀及周邊環境.jpg"
+ },
+ {
+  "id": "caotun-caoxiedunyashe",
+  "name": "草鞋墩雅舍",
+  "category": "歷史建築",
+  "level": "",
+  "town": "草屯鎮",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2022-03-15",
+  "address": "草屯鎮中正路579-3、579-4號",
+  "lat": 23.979278,
+  "lng": 120.688929,
+  "open": "整修中",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20220322000001",
+  "caseId": "20220322000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-10-01/e1b1b190-521e-48f9-a942-671f175f21b6/草鞋墩雅舍.jpg"
+ },
+ {
+  "id": "nantou-taiwanshengzhengfu",
+  "name": "臺灣省政府",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "南投市",
+  "types": [
+   "衙署"
+  ],
+  "announced": "2011-04-13",
+  "address": "南投市中興新村省府路1號",
+  "lat": 23.9583227479793,
+  "lng": 120.687278753838,
+  "open": "週一到週五上午8:00 - 下午12:00 、下午1:00 - 下午5:00",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20110513000002",
+  "caseId": "20110513000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-04-11/7fabe3f0-9048-4a85-9cd4-9301ac9567c5/臺灣省政府.jpg"
+ },
+ {
+  "id": "nantou-lantianshuyuan",
+  "name": "藍田書院",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "南投市",
+  "types": [
+   "書院"
+  ],
+  "announced": "1985-11-27",
+  "address": "南投市南投縣南投市崇文里文昌街140號",
+  "lat": 23.907231167841,
+  "lng": 120.684731579049,
+  "open": "上午8：30至下午5：00",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20190501000003",
+  "caseId": "20190501000003",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-02-17/cad06896-f400-4db4-b8c5-ae969c218854/藍田書院.jpg"
+ },
+ {
+  "id": "nantou-zhongxinghuitang",
+  "name": "中興會堂",
+  "category": "歷史建築",
+  "level": "",
+  "town": "南投市",
+  "types": [
+   "集會堂"
+  ],
+  "announced": "2011-04-13",
+  "address": "南投市南投市中興新村光榮北路1號",
+  "lat": 23.949205721944,
+  "lng": 120.696204463618,
+  "open": "上午8:00至下午5：00",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20110413000005",
+  "caseId": "20110413000005",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2024-08-19/a78938fa-30d1-4a82-8151-a11302e4a19d/中興會堂.jpg"
+ },
+ {
+  "id": "nantou-zhonghuadianxin",
+  "name": "中華電信中興服務中心",
+  "category": "歷史建築",
+  "level": "",
+  "town": "南投市",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2011-04-13",
+  "address": "南投市南投市中興新村光華路7號",
+  "lat": 23.9562712796507,
+  "lng": 120.688212410912,
+  "open": "上午8:00至下午5:00",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20110413000009",
+  "caseId": "20110413000009",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-03-15/7795f278-f9a5-4ca6-a5d4-5bd9a6da0f45/中華電信中興服務中心.jpg"
+ },
+ {
+  "id": "nantou-jiaotongbujiaotong",
+  "name": "交通部交通事業管理小組(原臺灣省政府交通處)",
+  "category": "歷史建築",
+  "level": "",
+  "town": "南投市",
+  "types": [
+   "辦公廳舍"
+  ],
+  "announced": "2011-04-13",
+  "address": "南投市南投市中興新村省府路6號",
+  "lat": 23.9574843902339,
+  "lng": 120.686142060317,
+  "open": "上午8:00至下午5:00",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20190507000002",
+  "caseId": "20190507000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-09-13/9af2cd7f-1089-49e3-8511-3b9a9e0feae6/交通部交通事業管理小組(原臺灣省政府交通處).jpg"
+ },
+ {
+  "id": "nantou-shizhongshangong",
+  "name": "南投市中山公園「聚芳館」",
+  "category": "歷史建築",
+  "level": "",
+  "town": "南投市",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2004-12-21",
+  "address": "南投市龍泉里民生街2號",
+  "lat": 23.9110592759122,
+  "lng": 120.688224199928,
+  "open": "上午8:00至下午5:00",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20041221000001",
+  "caseId": "20041221000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2024-05-15/96fce3d3-8518-479f-84a8-567049c97b39/南投市中山公園聚芳館.jpg"
+ },
+ {
+  "id": "nantou-shinonghui",
+  "name": "南投市農會",
+  "category": "歷史建築",
+  "level": "",
+  "town": "南投市",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2002-01-29",
+  "address": "南投市龍井街62 號",
+  "lat": 23.9081468928478,
+  "lng": 120.687007909529,
+  "open": "農會信用部及分部營業到 下午16:00止 。中午不休息 。\n其他部門營業時間早上08:00-12:00下午13:30-17:00止。",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20020129000003",
+  "caseId": "20020129000003",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-03-09/188dc563-571c-4f9b-9b78-5e381afe5931/南投市農會.jpg"
+ },
+ {
+  "id": "nantou-shuiwuchuzhangsuo",
+  "name": "南投稅務出張所",
+  "category": "歷史建築",
+  "level": "",
+  "town": "南投市",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2009-04-23",
+  "address": "南投市南投市康壽里中山街260號",
+  "lat": 23.9107560417343,
+  "lng": 120.684303241052,
+  "open": "週一、週二 未營業\n週三、週四營業時間為上午9:00 - 下午17:00\n週五至週六營業時間為上午11:00 - 下午8:00\n",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20190509000001",
+  "caseId": "20190509000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-08-18/3a432922-365f-42d1-a9e0-7327e5d70521/南投稅務出張所.jpg"
+ },
+ {
+  "id": "nantou-guojiawenguanxue",
+  "name": "國家文官學院中區培訓中心中正堂(原臺灣省政府訓練團中正堂)",
+  "category": "歷史建築",
+  "level": "",
+  "town": "南投市",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2011-04-13",
+  "address": "南投市南投市中興新村光明路1號",
+  "lat": 23.937547876101,
+  "lng": 120.702446364132,
+  "open": "上午8:00至下午5:00",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20110413000010",
+  "caseId": "20110413000010",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-03-14/09d21320-da35-47f4-b913-3117dd8f339a/國家文官學院中區培訓中心中正堂.jpg"
+ },
+ {
+  "id": "nantou-qigancuo",
+  "name": "旗杆厝",
+  "category": "歷史建築",
+  "level": "",
+  "town": "南投市",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2002-01-29",
+  "address": "南投市復興路321 號",
+  "lat": 23.9105537846683,
+  "lng": 120.685723872683,
+  "open": "居住空間",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20020129000002",
+  "caseId": "20020129000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-11-23/a9faf607-9902-4b2b-aae3-97a02e983699/旗杆厝.jpg"
+ },
+ {
+  "id": "nantou-wudedianjiqifushu",
+  "name": "武德殿及其附屬建築群",
+  "category": "歷史建築",
+  "level": "",
+  "town": "南投市",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2002-01-29",
+  "address": "南投市彰南路2 段65 號",
+  "lat": 23.9094159841329,
+  "lng": 120.683986068675,
+  "open": "上午9:00至下午5:00",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20020129000004",
+  "caseId": "20020129000004",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-03-25/9e47c142-d707-4f3e-8e89-31aeb0e11a46/武德殿及其附屬建築群.jpg"
+ },
+ {
+  "id": "nantou-jisigongyezhang",
+  "name": "祭祀公業張琯溪公宗祠",
+  "category": "歷史建築",
+  "level": "",
+  "town": "南投市",
+  "types": [
+   "祠堂"
+  ],
+  "announced": "2002-01-29",
+  "address": "南投市平和里南陽路196 巷20 號",
+  "lat": 23.9139598098972,
+  "lng": 120.688107534175,
+  "open": "上午8:00至下午5:00",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20020129000001",
+  "caseId": "20020129000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-09-19/8c078b02-1349-4443-aac9-36132e9ad0aa/祭祀公業張琯溪公宗祠.jpg"
+ },
+ {
+  "id": "nantou-jingjibuzhongbuban",
+  "name": "經濟部中部辦公室(原臺灣省政府建設廳)",
+  "category": "歷史建築",
+  "level": "",
+  "town": "南投市",
+  "types": [
+   "辦公廳舍"
+  ],
+  "announced": "2011-04-13",
+  "address": "南投市54003南投縣南投市省府路４號",
+  "lat": 23.9578837981617,
+  "lng": 120.686261066417,
+  "open": "為辦公廳舍，上班時間為:上午8:00至下午5:00",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20110413000002",
+  "caseId": "20110413000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-04-22/8fee4264-ddab-4153-818e-3de3039f6772/經濟部中部辦公室.jpg"
+ },
+ {
+  "id": "nantou-taiwanxinshengbao",
+  "name": "臺灣新生報中興新村辦事處(原館)",
+  "category": "歷史建築",
+  "level": "",
+  "town": "南投市",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2011-04-13",
+  "address": "南投市南投市中興新村光華路121號",
+  "lat": 23.9501846906611,
+  "lng": 120.693662173991,
+  "open": "週二公休\n週一、三、四、五、六、日9:30~17:30\n",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20110413000006",
+  "caseId": "20110413000006",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-03-09/1ab017fb-1a29-4739-a979-15d199b14163/台灣新生報辦事處(原館).jpg"
+ },
+ {
+  "id": "nantou-taiwanshengzhengzi",
+  "name": "臺灣省政資料館(舊館及貴賓招待所)",
+  "category": "歷史建築",
+  "level": "",
+  "town": "南投市",
+  "types": [
+   "博物館"
+  ],
+  "announced": "2011-04-13",
+  "address": "南投市南投市中興新村中正路2號",
+  "lat": 23.9558071806719,
+  "lng": 120.686380980266,
+  "open": "國定假日、星期一不開放參觀外，其餘日開放時間：上午09:00~下午05:00。\n歡迎機關、學校、團體組團參觀，請於參觀前7日預約申請。\n團體導覽預約電話：(049)2350530轉1659 莊小姐。",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20110413000007",
+  "caseId": "20110413000007",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-05-20/9f48e48d-590e-4321-a709-0a613e730f90/台灣省政資料館正面.jpg"
+ },
+ {
+  "id": "nantou-taiwanyinxingzhong",
+  "name": "臺灣銀行中興新村分行",
+  "category": "歷史建築",
+  "level": "",
+  "town": "南投市",
+  "types": [
+   "銀行"
+  ],
+  "announced": "2011-04-13",
+  "address": "南投市南投市中興新村光華路11號",
+  "lat": 23.9558081444722,
+  "lng": 120.688508006506,
+  "open": "上午9:00至下午3:30",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20110413000003",
+  "caseId": "20110413000003",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-03-15/69da4bb1-2aaf-42a6-b49c-6c7bc8decbf8/台灣銀行中興新村分行.jpg"
+ },
+ {
+  "id": "nantou-lantianyashe",
+  "name": "藍田雅舍",
+  "category": "歷史建築",
+  "level": "",
+  "town": "南投市",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2020-07-17",
+  "address": "南投市南投縣南投市彰南路2段83號",
+  "lat": 23.9099609,
+  "lng": 120.6836377,
+  "open": "平時不開放參觀，可提前來電向南投縣政府文化局預約。",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20201020000002",
+  "caseId": "20201020000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-10-11/2f1a1237-afe0-4407-aff3-d7399d31dcb2/藍田雅舍建築主體.jpg"
+ },
+ {
+  "id": "nantou-xingzhengyuanren",
+  "name": "行政院人事行政局地方人事行政處(原臺灣省政府人事處)",
+  "category": "歷史建築",
+  "level": "",
+  "town": "南投市",
+  "types": [
+   "辦公廳舍"
+  ],
+  "announced": "2011-04-13",
+  "address": "南投市南投市中興新村省府路2號",
+  "lat": 23.9582941565283,
+  "lng": 120.68640198426,
+  "open": "為辦公廳舍，上班時間為:上午8:00至下午5:00",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20110413000011",
+  "caseId": "20110413000011",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-04-22/b99a32b1-afd5-49cc-afd8-8a19e9807fc4/行政院人事行政局地方人事行政處(原臺灣省政府人事處).jpg"
+ },
+ {
+  "id": "nantou-xingzhengyuannong",
+  "name": "行政院農業委員會水土保持局(原臺灣省政府水土保持局)",
+  "category": "歷史建築",
+  "level": "",
+  "town": "南投市",
+  "types": [
+   "辦公廳舍"
+  ],
+  "announced": "2011-04-13",
+  "address": "南投市南投市中興新村光華路 6 號",
+  "lat": 23.9555860263891,
+  "lng": 120.687364702823,
+  "open": "為辦公廳舍，上班時間為:週一至週五上午8:00至下午5:00",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20110413000004",
+  "caseId": "20110413000004",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-03-15/2da88a62-9d09-45a9-9a78-aef76e5eb610/行政院農業委員會水土保持局.jpg"
+ },
+ {
+  "id": "nantou-xingzhengyuannong2",
+  "name": "行政院農業委員會農糧署(原臺灣省政府農林廳)",
+  "category": "歷史建築",
+  "level": "",
+  "town": "南投市",
+  "types": [
+   "辦公廳舍"
+  ],
+  "announced": "2011-04-13",
+  "address": "南投市中興新村光華路8號",
+  "lat": 23.9551504397662,
+  "lng": 120.687772152092,
+  "open": "上午8:00至下午5:00",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20110413000001",
+  "caseId": "20110413000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-04-22/20b49c92-2a20-4f24-b192-66855b007627/行政院農業委員會農糧署.jpg"
+ },
+ {
+  "id": "nantou-zhongxingxincunwen",
+  "name": "中興新村文化景觀",
+  "category": "文化景觀",
+  "level": "文化景觀",
+  "town": "南投市",
+  "types": [
+   "歷史事件場所"
+  ],
+  "announced": "2011-04-12",
+  "address": "南投市位於南投縣南投市中興新村都市計畫區內，北鄰草屯鎮界；東鄰虎山山麓；西鄰中正路、省府路與東閔路；南至南內轆地區",
+  "lat": 23.946566,
+  "lng": 120.693783,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/culturalLandscape/20110412000002",
+  "caseId": "20110412000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-04-22/09773a8c-28cf-4523-a5d7-ae66f75c445a/中興新村文化景觀.jpg"
+ },
+ {
+  "id": "mingjian-xiandinggujiyongji",
+  "name": "縣定古蹟永濟義渡碑(名間鄉)",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "名間鄉",
+  "types": [
+   "碑碣"
+  ],
+  "announced": "2006-07-11",
+  "address": "名間鄉名間鄉濁水村福興宮左側",
+  "lat": 23.853470303340274,
+  "lng": 120.67750539999997,
+  "open": "24小時。",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20190116000001",
+  "caseId": "20190116000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-09-19/28a49904-db4e-4bd9-81ab-c4706707fc1b/永濟義渡碑(名間鄉).jpg"
+ },
+ {
+  "id": "mingjian-chenxingzongqinhui",
+  "name": "南投縣陳姓宗親會西水祠",
+  "category": "歷史建築",
+  "level": "",
+  "town": "名間鄉",
+  "types": [
+   "祠堂"
+  ],
+  "announced": "2002-01-29",
+  "address": "名間鄉新街村客庄巷1 號",
+  "lat": 23.8766337197059,
+  "lng": 120.694476860856,
+  "open": "須提前來電預約，請洽南投縣政府文化局",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20020129000007",
+  "caseId": "20020129000007",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-09-15/2cfa337a-6a64-4945-a71b-3627edc6226b/南投縣陳姓宗親會西水祠.jpg"
+ },
+ {
+  "id": "jiji-mingxinshuyuan",
+  "name": "明新書院",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "集集鎮",
+  "types": [
+   "書院"
+  ],
+  "announced": "1985-11-27",
+  "address": "集集鎮永昌里東昌巷4號",
+  "lat": 23.8275658186746,
+  "lng": 120.799517675155,
+  "open": "上午8：00至下午5：00",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/19851127000033",
+  "caseId": "19851127000033",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-05-09/c2d54e00-5eed-43a1-917d-b1fa65f18b5a/明新書院.jpg"
+ },
+ {
+  "id": "jiji-tianxingyaojiqifu",
+  "name": "添興窯及其附屬設施",
+  "category": "歷史建築",
+  "level": "",
+  "town": "集集鎮",
+  "types": [
+   "產業"
+  ],
+  "announced": "2009-07-10",
+  "address": "集集鎮南投縣集集鎮田寮里楓林巷10號",
+  "lat": 23.8328780423471,
+  "lng": 120.755273526438,
+  "open": "週四休息，其餘每日上午9:00 - 下午5:30",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20090710000001",
+  "caseId": "20090710000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2024-08-21/b0184cea-f1ea-41e8-8e59-8d8740a2cb6b/添興窯及其附屬設施(蛇窯內部空間).jpg"
+ },
+ {
+  "id": "jiji-linweichenzhaiyong",
+  "name": "集集林尾陳宅永福堂",
+  "category": "歷史建築",
+  "level": "",
+  "town": "集集鎮",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2004-12-21",
+  "address": "集集鎮集集鎮林尾路566號",
+  "lat": 23.8236093418288,
+  "lng": 120.770136892546,
+  "open": "須提前來電預約，請洽南投縣政府文化局",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20041221000004",
+  "caseId": "20041221000004",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-04-11/a5eb7db3-e511-4184-b9ea-6af12d798b49/集集林尾陳宅永福堂.jpg"
+ },
+ {
+  "id": "jiji-zhangnaochuzhang",
+  "name": "集集樟腦出張所建築群",
+  "category": "歷史建築",
+  "level": "",
+  "town": "集集鎮",
+  "types": [
+   "產業"
+  ],
+  "announced": "2019-01-02",
+  "address": "集集鎮南投縣集集鎮民生路57號",
+  "lat": 23.829135,
+  "lng": 120.786779,
+  "open": "上午8時至下午5時",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20190122000002",
+  "caseId": "20190122000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-09-09/5454f9d9-78ec-4b58-ab88-bab0958d8911/集集樟腦出張所.jpg"
+ },
+ {
+  "id": "jiji-huochezhan",
+  "name": "集集火車站",
+  "category": "歷史建築",
+  "level": "",
+  "town": "集集鎮",
+  "types": [
+   "車站"
+  ],
+  "announced": "2004-12-21",
+  "address": "集集鎮集集鎮民生路75號",
+  "lat": 23.8265384171713,
+  "lng": 120.784885229581,
+  "open": "全日開放。人員售票及諮詢服務時間為上午8:00至下午5:00，其餘時間可於車上購票。",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20041221000003",
+  "caseId": "20041221000003",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-10-02/d1f846f6-8fad-49a5-9a7b-94d1fda8f35d/集集火車站.jpg"
+ },
+ {
+  "id": "jiji-guan",
+  "name": "集集館",
+  "category": "歷史建築",
+  "level": "",
+  "town": "集集鎮",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2017-10-18",
+  "address": "集集鎮南投縣集集鎮和平里8鄰集集街142號",
+  "lat": 23.8279064,
+  "lng": 120.78123069999992,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20181004000003",
+  "caseId": "20181004000003",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-04-20/7219994c-b29c-4ccd-963f-0e2d1e6750b7/集集館.jpg"
+ },
+ {
+  "id": "zhushan-batongguangudao",
+  "name": "八通關古道",
+  "category": "國定古蹟",
+  "level": "國定古蹟",
+  "town": "竹山鎮",
+  "types": [
+   "碑碣"
+  ],
+  "announced": "1987-04-17",
+  "address": "竹山鎮至花蓮縣玉里鎮（清光緒元年所開闢之古道）",
+  "lat": 23.5519864840732,
+  "lng": 120.948867959834,
+  "open": "",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/19870417000001",
+  "caseId": "19870417000001",
+  "officialImg": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/37604/photo/96b0b3c4-2efd-4817-afeb-67c7479a3efa.jpg"
+ },
+ {
+  "id": "zhushan-sheliaojingsheng",
+  "name": "竹山社寮敬聖亭",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "竹山鎮",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2006-07-11",
+  "address": "竹山鎮社寮里集山路1段1738號",
+  "lat": 23.8144564643986,
+  "lng": 120.722278900606,
+  "open": "24小時",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20190425000002",
+  "caseId": "20190425000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-07-12/7e81dd0d-830e-4591-9352-6d74d252958d/竹山社寮敬聖亭.jpg"
+ },
+ {
+  "id": "zhushan-lianxinggong",
+  "name": "竹山連興宮",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "竹山鎮",
+  "types": [
+   "寺廟"
+  ],
+  "announced": "2000-08-09",
+  "address": "竹山鎮竹山里下橫街28號",
+  "lat": 23.7562743992568,
+  "lng": 120.68516819352,
+  "open": "上午8：00至下午9：00",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20190426000002",
+  "caseId": "20190426000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-04-19/ad14fdba-f20d-4881-807c-ec763f972c37/竹山連興宮.jpg"
+ },
+ {
+  "id": "zhushan-longenzhensuiqu",
+  "name": "竹山隆恩圳隧渠",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "竹山鎮",
+  "types": [
+   "產業"
+  ],
+  "announced": "2006-07-11",
+  "address": "竹山鎮富州里(吊橋頭集集攔河埯南端)",
+  "lat": 23.8161026546838,
+  "lng": 120.761955709523,
+  "open": "24小時",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20060711000002",
+  "caseId": "20060711000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-03-15/a69eb07b-41f0-4650-8215-f9537a28e3a4/竹山隆恩圳隧渠.jpg"
+ },
+ {
+  "id": "zhushan-xiandinggujiyongji",
+  "name": "縣定古蹟永濟義渡碑(竹山鎮)",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "竹山鎮",
+  "types": [
+   "碑碣"
+  ],
+  "announced": "2006-07-11",
+  "address": "竹山鎮竹山鎮社寮紫南宮前廣場",
+  "lat": 23.8169654359012,
+  "lng": 120.72285501771,
+  "open": "24小時。",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20190123000001",
+  "caseId": "20190123000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2024-04-17/1d66e113-00dd-43ea-be56-f4f7033152df/竹山永濟義渡碑及周邊環境.jpg"
+ },
+ {
+  "id": "zhushan-taizhongyanyechang",
+  "name": "台中菸葉場竹山輔導站(原專賣局臺中支局竹山葉煙草收納場)",
+  "category": "歷史建築",
+  "level": "",
+  "town": "竹山鎮",
+  "types": [
+   "產業"
+  ],
+  "announced": "2005-10-21",
+  "address": "竹山鎮南投縣竹山鎮竹山里祖師街32號",
+  "lat": 23.7573519351418,
+  "lng": 120.685848807186,
+  "open": "週一:上午11:00 - 下午8:30\n週二:未營業\n週三:上午11:00 - 下午8:30\n週四:上午11:00 - 下午8:30\n週五:上午11:00 - 下午8:30\n週六:上午11:00 - 下午8:30\n週日:上午11:00 - 下午8:30\n",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20190502000002",
+  "caseId": "20190502000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-03-15/453d6fe1-45b4-4562-876e-85bb33f6af56/台中菸葉場竹山輔導站.jpg"
+ },
+ {
+  "id": "zhushan-ganquanjingjishi",
+  "name": "甘泉井及石頭公",
+  "category": "歷史建築",
+  "level": "",
+  "town": "竹山鎮",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2004-12-21",
+  "address": "竹山鎮山崇里第二鄰頂溝巷38-39號對面",
+  "lat": 23.8054365892732,
+  "lng": 120.727370030588,
+  "open": "上午8:00至下午5:00",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20060623000002",
+  "caseId": "20060623000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-08-30/0d3bc2a3-3181-47d4-a166-724ff173d549/甘泉井及石頭公.jpg"
+ },
+ {
+  "id": "zhushan-sheliaogucang",
+  "name": "社寮穀倉",
+  "category": "歷史建築",
+  "level": "",
+  "town": "竹山鎮",
+  "types": [
+   "產業"
+  ],
+  "announced": "2005-10-21",
+  "address": "竹山鎮南投縣竹山鎮社寮里集山路一段1762巷2號",
+  "lat": 23.8137958257487,
+  "lng": 120.722361958667,
+  "open": "上午8:00至下午5:00",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20110415000003",
+  "caseId": "20110415000003",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-09-07/9d780279-a914-4e98-b06f-254f814b3ff8/社寮穀倉.jpg"
+ },
+ {
+  "id": "zhushan-shensheniaojujizhu",
+  "name": "竹山神社鳥居及竹山神社附屬設施",
+  "category": "歷史建築",
+  "level": "",
+  "town": "竹山鎮",
+  "types": [
+   "牌坊"
+  ],
+  "announced": "2018-06-06",
+  "address": "竹山鎮南投縣竹山鎮公所路100號",
+  "lat": 23.7578635,
+  "lng": 120.67169949999993,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20190502000001",
+  "caseId": "20190502000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-09-01/e4981612-f594-47f4-ae38-7e70620db2f4/竹山神社及其附屬設施.jpg"
+ },
+ {
+  "id": "zhushan-junyisuozuozhanzhi",
+  "name": "竹山郡役所作戰指揮所(防空壕)",
+  "category": "歷史建築",
+  "level": "",
+  "town": "竹山鎮",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2019-04-17",
+  "address": "竹山鎮竹山里大禮路12巷1號旁",
+  "lat": 23.757801,
+  "lng": 120.682102,
+  "open": "24小時",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20190424000001",
+  "caseId": "20190424000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-08-30/302e92a2-c268-4fee-8aab-da6dfd4f2422/竹山郡役所作戰指揮所(防空壕)入口.jpg"
+ },
+ {
+  "id": "zhushan-chenshanshulaozhai",
+  "name": "陳善述老宅",
+  "category": "歷史建築",
+  "level": "",
+  "town": "竹山鎮",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2021-08-17",
+  "address": "竹山鎮集山路一段1135巷25號",
+  "lat": 23.812771,
+  "lng": 120.73242,
+  "open": "須提前來電預約，請洽南投縣政府文化局",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20210908000001",
+  "caseId": "20210908000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2024-06-07/291e46b6-5c91-41f2-bd46-3bd8d1ba7fbd/陳善述老宅.jpg"
+ },
+ {
+  "id": "zhushan-chenjiagucuo",
+  "name": "陳家古厝（武秀才陳獻瑞家宅）",
+  "category": "歷史建築",
+  "level": "",
+  "town": "竹山鎮",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2002-01-29",
+  "address": "竹山鎮中央里集山路1 段1135 巷42 號",
+  "lat": 23.8128517744446,
+  "lng": 120.731969379487,
+  "open": "",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20020129000009",
+  "caseId": "20020129000009",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2024-05-21/6f37e84f-e9ab-4038-b2c3-16f45870bfcd/陳家古厝(武秀才陳獻瑞家宅).jpg"
+ },
+ {
+  "id": "zhushan-linpigongmu",
+  "name": "林圮公墓",
+  "category": "紀念建築",
+  "level": "",
+  "town": "竹山鎮",
+  "types": [
+   "墓葬"
+  ],
+  "announced": "2018-04-25",
+  "address": "竹山鎮南投縣竹山鎮育英路33號",
+  "lat": 23.755756,
+  "lng": 120.6795902,
+  "open": "24小時。",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/commemorativeBuilding/20181003000001",
+  "caseId": "20181003000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-05-09/16db7fd3-d36b-4918-987f-3b15bdcbc5c4/林圮公墓.jpg"
+ },
+ {
+  "id": "lugu-linfengchijurenmu",
+  "name": "林鳳池舉人墓",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "鹿谷鄉",
+  "types": [
+   "墓葬"
+  ],
+  "announced": "1985-11-27",
+  "address": "鹿谷鄉南投縣鹿谷鄉初鄉村中村巷23號",
+  "lat": 23.7689263572598,
+  "lng": 120.738024431701,
+  "open": "上午8:30至下午4：00",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/19851127000034",
+  "caseId": "19851127000034",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-05-05/2cf58ece-39b2-4a54-97fb-f14baffbfd98/林鳳池舉人墓.jpg"
+ },
+ {
+  "id": "lugu-shengjiting",
+  "name": "鹿谷聖蹟亭",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "鹿谷鄉",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2006-07-11",
+  "address": "鹿谷鄉南投縣鹿谷鄉鹿谷村中正路164-1號",
+  "lat": 23.7514062184218,
+  "lng": 120.748709360653,
+  "open": "24小時",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20060711000004",
+  "caseId": "20060711000004",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-09-19/dd8ce113-8aea-458b-a5c8-622097c42b3b/鹿谷聖蹟亭.jpg"
+ },
+ {
+  "id": "shuili-linquguanlichushui",
+  "name": "南投林區管理處水里工作站所轄木造辦公廳舍",
+  "category": "歷史建築",
+  "level": "",
+  "town": "水里鄉",
+  "types": [
+   "辦公廳舍"
+  ],
+  "announced": "2023-03-03",
+  "address": "水里鄉民生路140巷5號",
+  "lat": 23.812646,
+  "lng": 120.856407,
+  "open": "修復中，不開放參觀。",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20230428000003",
+  "caseId": "20230428000003",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2024-02-24/c1f17fbf-c959-44ea-a341-2e1279848fcf/南投林區管理處水里工作站所轄木造辦公廳舍.jpg"
+ },
+ {
+  "id": "shuili-zhenchangxingyegu",
+  "name": "振昌興業股份有限公司建築群",
+  "category": "歷史建築",
+  "level": "",
+  "town": "水里鄉",
+  "types": [
+   "產業"
+  ],
+  "announced": "2005-10-21",
+  "address": "水里鄉車埕村民權巷36號、34號、101號",
+  "lat": 23.8348423543739,
+  "lng": 120.865540189817,
+  "open": "上午8:00至下午5:00",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20051021000001",
+  "caseId": "20051021000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-05-10/f2bdda68-c94d-411d-8249-6a7aec17d090/振昌興業股份有限公司建築群.jpg"
+ },
+ {
+  "id": "shuili-laijiagucuo",
+  "name": "賴家古厝",
+  "category": "歷史建築",
+  "level": "",
+  "town": "水里鄉",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2002-01-29",
+  "address": "水里鄉永興村林朋巷141、142、143 號",
+  "lat": 23.7832285968635,
+  "lng": 120.864028765675,
+  "open": "須提前預約，請洽南投縣政府文化局",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20020129000008",
+  "caseId": "20020129000008",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2024-12-16/2a1dede7-802a-4b35-a930-3acacf91c2e5/賴家古厝(三合院整體建築外觀) (1).jpg"
+ },
+ {
+  "id": "guoxing-xiangbeigangxishi",
+  "name": "國姓鄉北港溪石橋(糯米橋)",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "國姓鄉",
+  "types": [
+   "橋樑"
+  ],
+  "announced": "1994-08-18",
+  "address": "國姓鄉北港村第10鄰",
+  "lat": 24.0584740455345,
+  "lng": 120.906460413386,
+  "open": "24小時",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/19940818000001",
+  "caseId": "19940818000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2024-11-20/6bf34ecf-8daf-43ea-8e1d-0cfb78d11efa/國姓鄉北港溪石橋(糯米橋).jpg"
+ },
+ {
+  "id": "guoxing-xiangnangangcunlin",
+  "name": "國姓鄉南港村–林屋伙房",
+  "category": "歷史建築",
+  "level": "",
+  "town": "國姓鄉",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2009-04-23",
+  "address": "國姓鄉南投縣國姓鄉南港村16鄰南港路40-1號",
+  "lat": 23.9438675861245,
+  "lng": 120.865725042478,
+  "open": "須提前來電預約，請洽南投縣政府文化局",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20090423000004",
+  "caseId": "20090423000004",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-09-02/4e67a07d-0064-4cfe-830a-f3618aa06819/國姓鄉南港村–林屋伙房.jpg"
+ },
+ {
+  "id": "puli-guolizhongxingda",
+  "name": "國立中興大學實驗林管理處埔里連絡站(原北海道帝國大學農學部附屬台灣演習林辦公室)",
+  "category": "歷史建築",
+  "level": "",
+  "town": "埔里鎮",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2011-04-15",
+  "address": "埔里鎮南投縣埔里鎮隆生路86 號",
+  "lat": 23.9582707278788,
+  "lng": 120.968026296001,
+  "open": "上午8:00至下午5:00",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20110415000001",
+  "caseId": "20110415000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-09-13/f249ef7e-cf0d-47a0-91f8-f4fe90f6673a/國立中興大學實驗林管理處埔里連絡站(原北海道帝國大學農學部附屬台灣演習林辦公室).jpg"
+ },
+ {
+  "id": "puli-nancunyiminci",
+  "name": "埔里南村義民祠",
+  "category": "歷史建築",
+  "level": "",
+  "town": "埔里鎮",
+  "types": [
+   "寺廟"
+  ],
+  "announced": "2021-08-04",
+  "address": "埔里鎮南村里南村路8-1號",
+  "lat": 23.963823,
+  "lng": 120.944578,
+  "open": "上午8時至下午5時",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20210908000002",
+  "caseId": "20210908000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-08-18/4a4335dc-fb06-4c1f-855d-95a41ba4ca9b/埔里南村義民祠.jpg"
+ },
+ {
+  "id": "puli-huangzhai",
+  "name": "埔里黃宅",
+  "category": "歷史建築",
+  "level": "",
+  "town": "埔里鎮",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2002-08-01",
+  "address": "埔里鎮鐵山里鐵山路1 巷5 號",
+  "lat": 23.9765542419739,
+  "lng": 120.938722003387,
+  "open": "須提前來電預約，請洽南投縣政府文化局",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20020801000004",
+  "caseId": "20020801000004",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2024-12-16/646fe9a2-46ee-43e8-af4a-f76b37ea219a/埔里黃宅(整體建築正面外觀) jpg.jpg"
+ },
+ {
+  "id": "puli-damalinkaoguyizhi",
+  "name": "大馬璘考古遺址",
+  "category": "考古遺址",
+  "level": "縣(市)定考古遺址",
+  "town": "埔里鎮",
+  "types": [],
+  "announced": "2018-11-20",
+  "address": "埔里鎮南投縣埔里鎮愛蘭里，位於烏牛欄聚落南側，醒靈寺西側，南港溪右岸階崖上方",
+  "lat": 23.96915,
+  "lng": 120.944872,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/archaeologicalSite/20091030000002",
+  "caseId": "20091030000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-09-15/2cfdcc30-f355-4145-aed4-864a2ec7c2f3/大馬璘考古遺址入口.jpeg"
+ },
+ {
+  "id": "puli-shuiwakukaoguyizhi",
+  "name": "水蛙窟考古遺址",
+  "category": "考古遺址",
+  "level": "縣(市)定考古遺址",
+  "town": "埔里鎮",
+  "types": [],
+  "announced": "2018-11-20",
+  "address": "埔里鎮南投縣埔里鎮史港里史港坑段",
+  "lat": 23.999306,
+  "lng": 120.952669,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/archaeologicalSite/20030307000001",
+  "caseId": "20030307000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-10-02/aa345f62-8124-49e7-8501-7d083724a1a8/水蛙窟考古遺址.jpg"
+ },
+ {
+  "id": "puli-fudingjinkaoguyi",
+  "name": "覆鼎金考古遺址",
+  "category": "考古遺址",
+  "level": "縣(市)定考古遺址",
+  "town": "埔里鎮",
+  "types": [],
+  "announced": "2021-11-12",
+  "address": "埔里鎮隆生路111巷76號對面",
+  "lat": 23.951336,
+  "lng": 120.965114,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/archaeologicalSite/20211216000001",
+  "caseId": "20211216000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-12-14/ba154819-25a1-4b88-8723-786ffe58b9a3/覆鼎金考古遺址.jpeg"
+ },
+ {
+  "id": "yuchi-xingzhengyuannong",
+  "name": "行政院農業委員會茶業改良場魚池分場",
+  "category": "歷史建築",
+  "level": "",
+  "town": "魚池鄉",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2004-12-21",
+  "address": "魚池鄉南投縣魚池鄉水社村中山路270巷13號",
+  "lat": 23.8769084742011,
+  "lng": 120.913469883016,
+  "open": "為工作區域，不開放參觀",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20110415000002",
+  "caseId": "20110415000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-10-02/d765d11a-da1e-4000-96c1-a303e7adfb38/行政院農業委員會茶業改良場魚池分場.jpg"
+ },
+ {
+  "id": "yuchi-linyuanshitoucuo",
+  "name": "林淵石頭厝",
+  "category": "紀念建築",
+  "level": "",
+  "town": "魚池鄉",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2018-05-03",
+  "address": "魚池鄉南投縣魚池鄉共和村中興巷6號",
+  "lat": 23.8995564,
+  "lng": 120.97601629999997,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/commemorativeBuilding/20181004000004",
+  "caseId": "20181004000004",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2024-02-29/e4a9fb81-f61c-40b9-919c-236abd844077/林淵石頭厝.jpg"
+ },
+ {
+  "id": "yuchi-tousheguritanfu",
+  "name": "頭社古日潭浮田文化景觀",
+  "category": "文化景觀",
+  "level": "文化景觀",
+  "town": "魚池鄉",
+  "types": [
+   "其他人類與自然互動而形成之景觀"
+  ],
+  "announced": "2020-02-05",
+  "address": "魚池鄉魚池鄉平和段791、804、806及807等地號",
+  "lat": 23.8285362,
+  "lng": 120.9026378,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/culturalLandscape/20200205000001",
+  "caseId": "20200205000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2025-12-16/99bace6c-45d0-48c3-b54b-78e12cb282a5/頭社古日潭浮田文化景觀.jpg"
+ },
+ {
+  "id": "renai-qubingkaoguyizhi",
+  "name": "曲冰考古遺址",
+  "category": "考古遺址",
+  "level": "國定考古遺址",
+  "town": "仁愛鄉",
+  "types": [],
+  "announced": "2019-05-13",
+  "address": "仁愛鄉萬豐村，土名稱Qais的河階地上。",
+  "lat": 23.95505,
+  "lng": 121.079631,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/archaeologicalSite/20190522000002",
+  "caseId": "20190522000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-03-18/ed81bb7d-a6de-43b8-b817-5e8c6700246a/曲冰遺址現況.jpg"
+ },
+ {
+  "id": "renai-taiyaminzuqiyuandi",
+  "name": "Sbayan泰雅民族起源地",
+  "category": "文化景觀",
+  "level": "重要文化景觀",
+  "town": "仁愛鄉",
+  "types": [
+   "神話傳說之場域"
+  ],
+  "announced": "2025-07-14",
+  "address": "仁愛鄉瑞岩段第1524地號",
+  "lat": 24.11648892462767,
+  "lng": 121.15587365146105,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/culturalLandscape/20250725000003",
+  "caseId": "20250725000003",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2025-07-30/2056887f-774f-47b6-9834-acd3f4625943/1.jpeg",
+  "extraLinks": [
+   {
+    "title": "文資局官方資料（2016 年南投縣登錄文化景觀）",
+    "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/culturalLandscape/20160818000001"
+   }
+  ]
+ },
+ {
+  "id": "xinyi-nanzaijiaomanshe",
+  "name": "楠仔腳蔓社學堂遺蹟",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "信義鄉",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "1988-02-26",
+  "address": "信義鄉望美村部落",
+  "lat": 23.617969722794,
+  "lng": 120.884199483649,
+  "open": "24小時",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/19880226000001",
+  "caseId": "19880226000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-04-29/184a2ed1-d897-45f6-8260-d2657978168a/楠仔腳蔓社學堂遺蹟.jpg"
+ }
+]
