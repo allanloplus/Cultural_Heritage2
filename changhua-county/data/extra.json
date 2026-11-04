@@ -1,0 +1,62 @@
+{
+ "intro": [
+  {"who": "A", "text": "嗨，我是 Allan Lo！今天我們來到臺灣的穀倉，也是古早人說「一府二鹿三艋舺」的那個鹿，彰化縣。"},
+  {"who": "R", "text": "我是阿拉蕾！彰化我知道，有八卦山大佛、鹿港老街，還有一顆一顆超大的彰化肉圓！"},
+  {"who": "A", "text": "肉圓先等一下。彰化的有形文化資產一共172處，有國定古蹟、縣定古蹟、歷史建築、聚落建築群、考古遺址和文化景觀。"},
+  {"who": "R", "text": "國定古蹟有幾處？"},
+  {"who": "A", "text": "8處！彰化市有孔子廟、元清觀、聖王廟和扇形車庫，鹿港有龍山寺和天后宮，還有和美的道東書院、秀水的益源大厝。"},
+  {"who": "R", "text": "那文資最多的地方是哪裡？"},
+  {"who": "A", "text": "彰化市有41處，鹿港鎮有32處，員林、北斗、社頭也不少，廟宇、宗祠、書院和日式宿舍特別多。"},
+  {"who": "R", "text": "我還知道，很久以前這裡是巴布薩族、洪雅族等平埔族的家園，彰化市以前叫做半線！"},
+  {"who": "A", "text": "沒錯。清代的彰化縣城、八堡圳和鹿港港口，日治的縱貫線和扇形車庫，一層一層疊出今天的彰化。很多古厝還有人住，記得在外面欣賞就好。"},
+  {"who": "R", "text": "彰化平原地勢平坦，景點分散，建議開車。準備好了嗎？從彰化車站出發囉！"}
+ ],
+ "timeIntro": [
+  {"who": "R", "text": "Allan，彰化的時光地圖要看什麼？"},
+  {"who": "A", "text": "先看十七世紀，那時荷蘭人沒有真正統治彰化，這裡是大肚王國和平埔族各社的天地，半線社就在今天的彰化市。"},
+  {"who": "A", "text": "清代設彰化縣，先種竹子當城牆，後來改築磚城；鹿港成為大港口，八堡圳灌溉整片平原。日治以後都會疊上當年的老地圖。"},
+  {"who": "R", "text": "那我要找找看，彰化縣城的四座城門，今天變成哪幾條馬路了！"},
+  {"who": "A", "text": "好，把老地圖的透明度拉一拉，城牆的影子就在地圖上！"}
+ ],
+ "planIntro": [
+  {"who": "A", "text": "彰化縣地勢平坦，但景點分散在彰化市、鹿港、員林、社頭、田中、二水和北斗，建議開車；彰化市區和鹿港老街，停好車就可以走路串遊。"},
+  {"who": "R", "text": "彰化沒有 YouBike，不過縣府有自己的公共自行車，彰化市、員林和鹿港都借得到！"},
+  {"who": "A", "text": "高鐵彰化站在田中，臺鐵縱貫線有彰化、員林、田中和二水站，二水還是集集線小火車的起點。鹿港沒有火車，要開車或搭客運。"},
+  {"who": "R", "text": "中午記得留肚子給彰化肉圓、爌肉飯，還有鹿港的蚵仔煎和麵線糊！"}
+ ],
+ "gameIntro": [
+  {"who": "R", "text": "磺溪遊戲場開張！問答王、時光排序、猜猜我是誰、翻翻樂，還有磺溪擲骰大冒險！"},
+  {"who": "A", "text": "題目從孔子廟、扇形車庫，一路考到鹿港龍山寺、八堡圳和西螺大橋北段，看你能不能全部答對。"},
+  {"who": "R", "text": "Allan，這次擲骰子我一定贏你！"},
+  {"who": "A", "text": "哈哈，那就從彰化車站出發，比比看吧！"}
+ ],
+ "reactions": [
+  {"who": "R", "text": "答對了！你根本就是彰化通！"},
+  {"who": "A", "text": "正確答案！給你一個大大的讚。"},
+  {"who": "R", "text": "哎呀，答錯了，沒關係，看看解說再挑戰！"},
+  {"who": "A", "text": "可惜！差一點點，下次一定行。"},
+  {"who": "R", "text": "換我擲骰子囉！看我的！"},
+  {"who": "A", "text": "恭喜你贏了！今天的彰化肉圓和爌肉飯算我的！"},
+  {"who": "R", "text": "耶！這一局是我贏了，要不要再來一局？"},
+  {"who": "A", "text": "平手！你們兩個都是文資高手。"},
+  {"who": "R", "text": "時光排序完成！你從牛埔的史前遺址一路排到今天的鹿港，好厲害！"},
+  {"who": "A", "text": "恭喜集到新的護照印章！"},
+  {"who": "R", "text": "全部配對成功，記憶力滿分！"},
+  {"who": "A", "text": "嗯，這一題我們一起看看解說。"}
+ ],
+ "starts": [
+  {"id": "changhua", "name": "臺鐵彰化車站", "lat": 24.08157, "lng": 120.53839},
+  {"id": "hsr", "name": "高鐵彰化站（田中）", "lat": 23.87394, "lng": 120.57479},
+  {"id": "lukang", "name": "鹿港市區（鹿港老街）", "lat": 24.05634, "lng": 120.43261},
+  {"id": "yuanlin", "name": "臺鐵員林車站", "lat": 23.95899, "lng": 120.56965},
+  {"id": "ershui", "name": "臺鐵二水車站", "lat": 23.81329, "lng": 120.6184},
+  {"id": "gps", "name": "我的目前位置", "lat": null, "lng": null},
+  {"id": "pick", "name": "在地圖上點選出發點", "lat": null, "lng": null}
+ ],
+ "plans": {
+  "1": {"name": "一日：彰化市（扇形車庫、孔子廟、八卦山）與鹿港（龍山寺、天后宮、老街）", "days": [["zhanghua-shanxingcheku", "zhanghua-yuanqingguan", "zhanghua-kongzimiao", "zhanghua-baguashandafu", "zhanghua-nanyaogong", "lugang-longshansi", "lugang-shiyilou", "lugang-aimen", "lugang-tianhougong"]]},
+  "2": {"name": "二日：彰化市一天 ＋ 和美道東書院、秀水益源大厝與鹿港一天", "days": [["zhanghua-shanxingcheku", "zhanghua-yuanqingguan", "zhanghua-shengwangmiao", "zhanghua-dingguangfumiao", "zhanghua-kongzimiao", "zhanghua-shiwudedian", "zhanghua-baguashandafu", "zhanghua-baguashanyinqiao", "zhanghua-baguashanhongmao", "zhanghua-nanyaogong"], ["hemei-daodongshuyuan", "xiushui-maxingchenzhai", "lugang-longshansi", "lugang-jinmenguan", "lugang-shiyilou", "lugang-aimen", "lugang-yuzhenzhai", "lugang-rimaoxing", "lugang-tianhougong", "lugang-xinzugong"]]},
+  "3": {"name": "三日：彰化市、鹿港 ＋ 員林、社頭、田中、二水八堡圳、北斗與溪州西螺大橋北段", "days": [["zhanghua-shanxingcheku", "zhanghua-yuanqingguan", "zhanghua-shengwangmiao", "zhanghua-dingguangfumiao", "zhanghua-kongzimiao", "zhanghua-shiwudedian", "zhanghua-baguashandafu", "zhanghua-baguashanyinqiao", "zhanghua-baguashanhongmao", "zhanghua-nanyaogong"], ["hemei-daodongshuyuan", "xiushui-maxingchenzhai", "lugang-longshansi", "lugang-jinmenguan", "lugang-shiyilou", "lugang-aimen", "lugang-yuzhenzhai", "lugang-rimaoxing", "lugang-tianhougong", "lugang-xinzugong"], ["yuanlin-xingxianshuyuan", "yongjing-yusanguan", "shetou-doushanci", "tianzhong-chenshishoushan", "ershui-chezhan", "ershui-babaozhenqushuikou", "beidou-hongzhuanshichang", "beidou-baojiashiwusuo", "xizhou-xiluodaqiao"]]}
+ },
+ "food": []
+}
