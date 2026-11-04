@@ -62,11 +62,13 @@
  "zhanghua-shanxingcheku": [
   {
    "file": "Chunghua fan-shaped garage.jpg",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Chunghua_fan-shaped_garage.jpg",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chunghua_fan-shaped_garage.jpg/500px-Chunghua_fan-shaped_garage.jpg",
    "page": "https://commons.wikimedia.org/wiki/File:Chunghua_fan-shaped_garage.jpg",
    "artist": "essolo",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "local": "img/zhanghua-shanxingcheku-0.webp",
+   "small": "img/zhanghua-shanxingcheku-0-s.webp"
   }
  ],
  "zhanghua-shengwangmiao": [
@@ -84,11 +86,13 @@
  "zhanghua-nanyaogong": [
   {
    "file": "Nanyao.jpg",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Nanyao.jpg",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nanyao.jpg/500px-Nanyao.jpg",
    "page": "https://commons.wikimedia.org/wiki/File:Nanyao.jpg",
    "artist": "WiDE",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "local": "img/zhanghua-nanyaogong-0.webp",
+   "small": "img/zhanghua-nanyaogong-0-s.webp"
   }
  ],
  "zhanghua-jingchashu": [
@@ -454,21 +458,25 @@
  "lugang-tianhougong": [
   {
    "file": "Lugang Mazu Temple overview 20050730.jpg",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Lugang_Mazu_Temple_overview_20050730.jpg",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Lugang_Mazu_Temple_overview_20050730.jpg/500px-Lugang_Mazu_Temple_overview_20050730.jpg",
    "page": "https://commons.wikimedia.org/wiki/File:Lugang_Mazu_Temple_overview_20050730.jpg",
    "artist": "Original uploader was Kerry7374 at zh.wikipedia",
    "license": "Public domain",
-   "licenseUrl": ""
+   "licenseUrl": "",
+   "local": "img/lugang-tianhougong-0.webp",
+   "small": "img/lugang-tianhougong-0-s.webp"
   }
  ],
  "lugang-longshansi": [
   {
    "file": "Lukang Lung-shan Temple 2004.jpg",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Lukang_Lung-shan_Temple_2004.jpg",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Lukang_Lung-shan_Temple_2004.jpg/500px-Lukang_Lung-shan_Temple_2004.jpg",
    "page": "https://commons.wikimedia.org/wiki/File:Lukang_Lung-shan_Temple_2004.jpg",
    "artist": "a-giâu.",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "local": "img/lugang-longshansi-0.webp",
+   "small": "img/lugang-longshansi-0-s.webp"
   }
  ],
  "lugang-dingjiagucuo": [
@@ -486,11 +494,13 @@
  "lugang-sanshanguowangmiao": [
   {
    "file": "鹿港三山國王廟.jpg",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/a0/%E9%B9%BF%E6%B8%AF%E4%B8%89%E5%B1%B1%E5%9C%8B%E7%8E%8B%E5%BB%9F.jpg",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%E9%B9%BF%E6%B8%AF%E4%B8%89%E5%B1%B1%E5%9C%8B%E7%8E%8B%E5%BB%9F.jpg/500px-%E9%B9%BF%E6%B8%AF%E4%B8%89%E5%B1%B1%E5%9C%8B%E7%8E%8B%E5%BB%9F.jpg",
    "page": "https://commons.wikimedia.org/wiki/File:%E9%B9%BF%E6%B8%AF%E4%B8%89%E5%B1%B1%E5%9C%8B%E7%8E%8B%E5%BB%9F.jpg",
    "artist": "Pbdragonwang",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/lugang-sanshanguowangmiao-0.webp",
+   "small": "img/lugang-sanshanguowangmiao-0-s.webp"
   }
  ],
  "lugang-gonghuitang": [
@@ -520,11 +530,13 @@
  "lugang-chenghuangmiao": [
   {
    "file": "Chenghuang Temple, Lukang.jpg",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/18/Chenghuang_Temple%2C_Lukang.jpg",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Chenghuang_Temple%2C_Lukang.jpg/500px-Chenghuang_Temple%2C_Lukang.jpg",
    "page": "https://commons.wikimedia.org/wiki/File:Chenghuang_Temple,_Lukang.jpg",
    "artist": "Suzuki1314 at Chinese Wikipedia",
    "license": "Public domain",
-   "licenseUrl": ""
+   "licenseUrl": "",
+   "local": "img/lugang-chenghuangmiao-0.webp",
+   "small": "img/lugang-chenghuangmiao-0-s.webp"
   }
  ],
  "lugang-wenwumiao": [
@@ -626,11 +638,13 @@
  "lugang-youluxuan": [
   {
    "file": "鹿港友鹿軒.jpg",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/04/%E9%B9%BF%E6%B8%AF%E5%8F%8B%E9%B9%BF%E8%BB%92.jpg",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/%E9%B9%BF%E6%B8%AF%E5%8F%8B%E9%B9%BF%E8%BB%92.jpg/500px-%E9%B9%BF%E6%B8%AF%E5%8F%8B%E9%B9%BF%E8%BB%92.jpg",
    "page": "https://commons.wikimedia.org/wiki/File:%E9%B9%BF%E6%B8%AF%E5%8F%8B%E9%B9%BF%E8%BB%92.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/lugang-youluxuan-0.webp",
+   "small": "img/lugang-youluxuan-0-s.webp"
   }
  ],
  "lugang-hexingpaichusuo": [
@@ -648,11 +662,13 @@
  "lugang-yihexing": [
   {
    "file": "鹿港意和行.jpg",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/36/%E9%B9%BF%E6%B8%AF%E6%84%8F%E5%92%8C%E8%A1%8C.jpg",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/%E9%B9%BF%E6%B8%AF%E6%84%8F%E5%92%8C%E8%A1%8C.jpg/500px-%E9%B9%BF%E6%B8%AF%E6%84%8F%E5%92%8C%E8%A1%8C.jpg",
    "page": "https://commons.wikimedia.org/wiki/File:%E9%B9%BF%E6%B8%AF%E6%84%8F%E5%92%8C%E8%A1%8C.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/lugang-yihexing-0.webp",
+   "small": "img/lugang-yihexing-0-s.webp"
   }
  ],
  "lugang-jingyiyuanjinian": [
@@ -970,11 +986,13 @@
  "shetou-tongrenshe": [
   {
    "file": "TongRenShe Heritage.jpg",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/4b/TongRenShe_Heritage.jpg",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TongRenShe_Heritage.jpg/500px-TongRenShe_Heritage.jpg",
    "page": "https://commons.wikimedia.org/wiki/File:TongRenShe_Heritage.jpg",
    "artist": "SElefant",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "local": "img/shetou-tongrenshe-0.webp",
+   "small": "img/shetou-tongrenshe-0-s.webp"
   }
  ],
  "shetou-yuemeichiliushigu": [
