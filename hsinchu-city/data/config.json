@@ -62,7 +62,21 @@
     "bikeMaxKm": 10,
     "ubikeStationMaxKm": 1.0,
     "farKm": 30,
-    "noVisit": {}
+    "noVisit": {
+      "bei-kongjunzhanshuzhan": "位在現役空軍基地營區內，官方標示平時不開放參觀，也不宜拍攝",
+      "bei-shaonianxingwusuo2": "新竹市文化局修復工程進行中（預計延至民國116年度），目前不開放，只能從周邊道路遠觀；已開放的演武場是另一處景點",
+      "dong-ribenhaijundiliu3": "位在國軍庫房範圍內，官方標示維修中，一般民眾無法進入，只能在路旁看外觀",
+      "dong-taidianxinzhubian": "位在台電變電所廠區內，屬電力設施管制範圍，未對外開放",
+      "dong-shuidaoshuiyuandi": "屬自來水水源重地，官方標示不對外開放；取水口一帶的新竹水道是另一處景點",
+      "bei-kanglangduanfang": "入口要經過閒置民宅且設有鐵門，未對外開放",
+      "bei-kangleduanfangkong": "入口在私人民房內，未對外開放",
+      "bei-shenshecanjijiqifu": "官方標示未開放，是否開放以管理單位公告為準",
+      "bei-taiyuandi": "私人產權，官方標示未開放，建物已於2018年遭拆除",
+      "dong-huangqingtaixue": "位在清華大學南校區開發用地內，查不到開放資訊",
+      "dong-guoxiaobailinglou": "位在新竹國小校園內，官方標示未開放",
+      "dong-gaozhongjiandao": "位在新竹高中校園內，官方標示校園未開放",
+      "dong-yuxianguozhongyin": "國中的教學空間，官方標示未開放"
+    }
   },
   "eras": {
     "dutch": {

@@ -1,0 +1,286 @@
+{
+  "intro": [
+    {
+      "who": "A",
+      "text": "嗨，我是 Allan Lo！今天我們來到風很大的城市，古早叫做竹塹的新竹市。"
+    },
+    {
+      "who": "R",
+      "text": "我是阿拉蕾！新竹我知道，有貢丸、米粉，還有吹得我頭髮亂飛的九降風！"
+    },
+    {
+      "who": "A",
+      "text": "頭髮我已經沒有煩惱了。新竹市的有形文化資產一共77處，有國定古蹟、市定古蹟、歷史建築和紀念建築。"
+    },
+    {
+      "who": "R",
+      "text": "國定古蹟有哪幾處？"
+    },
+    {
+      "who": "A",
+      "text": "5處！新竹火車站、竹塹城迎曦門、新竹州廳，還有開臺進士鄭用錫的墓和他的宅第進士第。"
+    },
+    {
+      "who": "R",
+      "text": "那文資最多的地方在哪裡？"
+    },
+    {
+      "who": "A",
+      "text": "東區有40處，北區34處，大多擠在舊城一帶，走路就能逛；香山區有3處，包括古早的香山車站。"
+    },
+    {
+      "who": "R",
+      "text": "我還知道，很久以前這裡是道卡斯族竹塹社的家園！"
+    },
+    {
+      "who": "A",
+      "text": "沒錯。清代種竹子圍成竹塹城，日治拆了城牆只留下迎曦門，戰時有燃料廠和防空碉堡，戰後有眷村和清華大學。很多古厝還有人住，記得在外面欣賞就好。"
+    },
+    {
+      "who": "R",
+      "text": "舊城騎 YouBike 或走路最方便。準備好了嗎？從新竹火車站出發囉！"
+    }
+  ],
+  "timeIntro": [
+    {
+      "who": "R",
+      "text": "Allan，新竹的時光地圖要看什麼？"
+    },
+    {
+      "who": "A",
+      "text": "先看十七世紀，那時這裡是道卡斯族竹塹社的領域，西班牙人和荷蘭人只是路過。"
+    },
+    {
+      "who": "A",
+      "text": "清代先種竹子當城牆，後來改建成磚石城，有東西南北四座城門。日治以後都會疊上當年的老地圖。"
+    },
+    {
+      "who": "R",
+      "text": "那我要找找看，1945年美軍畫的新竹市街圖上，新竹驛和新竹公園在哪裡！"
+    },
+    {
+      "who": "A",
+      "text": "好，把老地圖的透明度拉一拉，消失的城牆就浮出來了！"
+    }
+  ],
+  "planIntro": [
+    {
+      "who": "A",
+      "text": "新竹的舊城很小，新竹火車站、迎曦門、新竹州廳、城隍廟和長和宮都在步行距離內，騎 YouBike 更快。"
+    },
+    {
+      "who": "R",
+      "text": "新竹市的 YouBike 站很多，東區、北區、香山區都有，借車還車都好找！"
+    },
+    {
+      "who": "A",
+      "text": "香山車站、南寮舊港和清華大學比較遠，可以騎 YouBike、搭公車或開車。高鐵新竹站其實在竹北，要搭六家線或公車進市區。"
+    },
+    {
+      "who": "R",
+      "text": "中午記得留肚子給城隍廟口的貢丸湯和炒米粉！"
+    }
+  ],
+  "gameIntro": [
+    {
+      "who": "R",
+      "text": "竹塹遊戲場開張！問答王、時光排序、猜猜我是誰、翻翻樂，還有竹塹擲骰大冒險！"
+    },
+    {
+      "who": "A",
+      "text": "題目從新竹火車站、迎曦門，一路考到新竹州廳、城隍廟和進士第，看你能不能全部答對。"
+    },
+    {
+      "who": "R",
+      "text": "Allan，這次擲骰子我要像九降風一樣，把你吹得遠遠的！"
+    },
+    {
+      "who": "A",
+      "text": "哈哈，那就從新竹火車站出發，比比看吧！"
+    }
+  ],
+  "reactions": [
+    {
+      "who": "R",
+      "text": "答對了！你根本就是竹塹通！"
+    },
+    {
+      "who": "A",
+      "text": "正確答案！給你一個大大的讚。"
+    },
+    {
+      "who": "R",
+      "text": "哎呀，答錯了，沒關係，看看解說再挑戰！"
+    },
+    {
+      "who": "A",
+      "text": "可惜！差一點點，下次一定行。"
+    },
+    {
+      "who": "R",
+      "text": "換我擲骰子囉！看我的！"
+    },
+    {
+      "who": "A",
+      "text": "恭喜你贏了！今天的貢丸湯和炒米粉算我的！"
+    },
+    {
+      "who": "R",
+      "text": "耶！這一局是我贏了，要不要再來一局？"
+    },
+    {
+      "who": "A",
+      "text": "平手！你們兩個都是文資高手。"
+    },
+    {
+      "who": "R",
+      "text": "時光排序完成！你從竹塹城一路排到今天的風城，好厲害！"
+    },
+    {
+      "who": "A",
+      "text": "恭喜集到新的護照印章！"
+    },
+    {
+      "who": "R",
+      "text": "全部配對成功，記憶力滿分！"
+    },
+    {
+      "who": "A",
+      "text": "嗯，這一題我們一起看看解說。"
+    }
+  ],
+  "starts": [
+    {
+      "id": "hsinchu",
+      "name": "臺鐵新竹車站",
+      "lat": 24.80284,
+      "lng": 120.97124
+    },
+    {
+      "id": "northhsinchu",
+      "name": "臺鐵北新竹車站",
+      "lat": 24.80859,
+      "lng": 120.9838
+    },
+    {
+      "id": "xiangshan",
+      "name": "臺鐵香山車站",
+      "lat": 24.76311,
+      "lng": 120.91388
+    },
+    {
+      "id": "hsr",
+      "name": "高鐵新竹站（在新竹縣竹北市）",
+      "lat": 24.80843,
+      "lng": 121.04024
+    },
+    {
+      "id": "cityhall",
+      "name": "新竹市政府",
+      "lat": 24.80684,
+      "lng": 120.96896
+    },
+    {
+      "id": "gps",
+      "name": "我的目前位置",
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": "pick",
+      "name": "在地圖上點選出發點",
+      "lat": null,
+      "lng": null
+    }
+  ],
+  "plans": {
+    "1": {
+      "name": "一日：新竹舊城（新竹火車站、迎曦門與護城河、新竹州廳、城隍廟、長和宮、水仙宮、鄭氏家廟與進士第）",
+      "days": [
+        [
+          "dong-huochezhan",
+          "dong-zhuqianchengyingxi",
+          "bei-yisuo",
+          "bei-zhouting",
+          "dong-guandimiao",
+          "bei-duchenghuangmiao",
+          "bei-shuixiangong",
+          "bei-zhanghegong",
+          "bei-zhengshijiamiao",
+          "bei-jinshidi"
+        ]
+      ]
+    },
+    "2": {
+      "name": "二日：舊城一天 ＋ 新竹公園一帶（州圖書館、有樂館、玻璃工藝博物館、動物園、湖畔料亭、孔廟、公會堂）與北門街一天",
+      "days": [
+        [
+          "dong-huochezhan",
+          "dong-zhuqianchengyingxi",
+          "bei-yisuo",
+          "bei-zhouting",
+          "dong-guandimiao",
+          "bei-duchenghuangmiao",
+          "bei-shuixiangong",
+          "bei-zhanghegong",
+          "bei-zhengshijiamiao",
+          "bei-jinshidi"
+        ],
+        [
+          "dong-zhoutushuguan",
+          "dong-youleguan",
+          "dong-xinzhipingxiao",
+          "dong-zhouzizhihuiguan",
+          "dong-dongwuyuanjiudamen",
+          "dong-gongyuanhupanliao",
+          "dong-kongmiao",
+          "dong-gonghuitang",
+          "bei-likechengboshiguju",
+          "bei-chunguandi",
+          "bei-jilidi"
+        ]
+      ]
+    },
+    "3": {
+      "name": "三日：舊城、新竹公園與北門街 ＋ 香山車站、香山天后宮、浸水楊家古厝、鄭用錫墓、梅貽琦校長墓園與第六燃料廠遺構",
+      "days": [
+        [
+          "dong-huochezhan",
+          "dong-zhuqianchengyingxi",
+          "bei-yisuo",
+          "bei-zhouting",
+          "dong-guandimiao",
+          "bei-duchenghuangmiao",
+          "bei-shuixiangong",
+          "bei-zhanghegong",
+          "bei-zhengshijiamiao",
+          "bei-jinshidi"
+        ],
+        [
+          "dong-zhoutushuguan",
+          "dong-youleguan",
+          "dong-xinzhipingxiao",
+          "dong-zhouzizhihuiguan",
+          "dong-dongwuyuanjiudamen",
+          "dong-gongyuanhupanliao",
+          "dong-kongmiao",
+          "dong-gonghuitang",
+          "bei-likechengboshiguju",
+          "bei-chunguandi",
+          "bei-jilidi"
+        ],
+        [
+          "xiangshan-huochezhan",
+          "xiangshan-tianhougong",
+          "xiangshan-jinshuiyangjiagu",
+          "dong-zhengyongximu",
+          "bei-qinghuadaxuemeiyi",
+          "dong-ribenhaijundiliu",
+          "dong-ribenhaijundiliu2",
+          "dong-jinchengxincun"
+        ]
+      ]
+    }
+  },
+  "food": []
+}
