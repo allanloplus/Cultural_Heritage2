@@ -156,7 +156,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E5%88%91%E5%8B%99%E6%89%80001.jpg",
    "artist": "博美騎士",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/xi-xingwusuodianyu-0.webp",
+   "small": "img/xi-xingwusuodianyu-0-s.webp"
   }
  ],
  "xi-xingwusuoyuchang": [
@@ -166,7 +168,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E5%88%91%E5%8B%99%E6%89%80008.jpg",
    "artist": "博美騎士",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/xi-xingwusuoyuchang-0.webp",
+   "small": "img/xi-xingwusuoyuchang-0-s.webp"
   }
  ],
  "xi-taiwanfurukaopeng": [
@@ -176,7 +180,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E8%87%BA%E7%81%A3%E7%9C%81%E5%9F%8E%E5%84%92%E8%80%83%E6%A3%9A2017%E5%B9%B410%E6%9C%88.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/xi-taiwanfurukaopeng-0.webp",
+   "small": "img/xi-taiwanfurukaopeng-0-s.webp"
   }
  ],
  "xi-gongshezhipucangku": [
@@ -186,7 +192,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E5%85%AC%E8%A8%AD%E8%B3%AA%E8%88%96%E5%80%89%E5%BA%AB.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/xi-gongshezhipucangku-0.webp",
+   "small": "img/xi-gongshezhipucangku-0-s.webp"
   }
  ],
  "xi-datunjunshouguan": [
@@ -196,7 +204,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E5%B1%AF%E9%83%A1%E5%AE%88%E5%AE%98%E8%88%8D.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/xi-datunjunshouguan-0.webp",
+   "small": "img/xi-datunjunshouguan-0-s.webp"
   }
  ],
  "xi-datunjunyisuo": [
@@ -206,7 +216,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:Datun_County_Hall.JPG",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/xi-datunjunyisuo-0.webp",
+   "small": "img/xi-datunjunyisuo-0-s.webp"
   }
  ],
  "xi-rizhishiqijingcha": [
@@ -216,7 +228,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E8%87%BA%E4%B8%AD%E6%96%87%E5%AD%B8%E9%A4%A8%E5%B8%B8%E8%A8%AD%E4%B8%80%E9%A4%A8.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/xi-rizhishiqijingcha-0.webp",
+   "small": "img/xi-rizhishiqijingcha-0-s.webp"
   }
  ],
  "xi-chaoyangjierishisu": [
@@ -226,7 +240,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E6%9C%9D%E9%99%BD%E8%A1%97%E6%97%A5%E5%BC%8F%E5%AE%BF%E8%88%8D.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/xi-chaoyangjierishisu-0.webp",
+   "small": "img/xi-chaoyangjierishisu-0-s.webp"
   }
  ],
  "xi-linsenluhaorishisu": [
@@ -236,7 +252,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E6%9E%97%E6%A3%AE%E8%B7%AF75%E8%99%9F%E6%97%A5%E5%BC%8F%E5%AE%BF%E8%88%8D.JPG",
    "artist": "SSR2000",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/xi-linsenluhaorishisu-0.webp",
+   "small": "img/xi-linsenluhaorishisu-0-s.webp"
   }
  ],
  "xi-xingwusuoguanshe": [
@@ -246,7 +264,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E8%87%BA%E4%B8%AD%E5%88%91%E5%8B%99%E6%89%80%E5%AE%98%E8%88%8D.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/xi-xingwusuoguanshe-0.webp",
+   "small": "img/xi-xingwusuoguanshe-0-s.webp"
   }
  ],
  "xi-difangfayuanjiusu": [
@@ -256,7 +276,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E4%B8%AD%E5%9C%B0%E6%96%B9%E6%B3%95%E9%99%A2%E8%88%8A%E5%AE%BF%E8%88%8D%E7%BE%A4.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/xi-difangfayuanjiusu-0.webp",
+   "small": "img/xi-difangfayuanjiusu-0-s.webp"
   }
  ],
  "xi-yisuo": [
@@ -266,7 +288,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%BD%B9%E6%89%802006.jpg",
    "artist": "E21201",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/xi-yisuo-0.webp",
+   "small": "img/xi-yisuo-0-s.webp"
   }
  ],
  "xi-qusiweijierishi": [
@@ -276,7 +300,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E5%8D%80%E5%9B%9B%E7%B6%AD%E8%A1%97%E6%97%A5%E5%BC%8F%E6%8B%9B%E5%BE%85%E6%89%80_02.jpg",
    "artist": "Pbdragonwang",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/xi-qusiweijierishi-0.webp",
+   "small": "img/xi-qusiweijierishi-0-s.webp"
   }
  ],
  "xi-quminshengluxiang": [
@@ -286,7 +312,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E5%8D%80%E6%B0%91%E7%94%9F%E8%B7%AF56%E5%B7%B7%E6%97%A5%E5%BC%8F%E5%AE%BF%E8%88%8D.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/xi-quminshengluxiang-0.webp",
+   "small": "img/xi-quminshengluxiang-0-s.webp"
   }
  ],
  "xi-sunlirenjiangjungu": [
@@ -306,7 +334,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E6%9E%97%E4%B9%8B%E5%8A%A9%E7%95%AB%E5%AE%A42014.9.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/xi-linzhizhuhuashi-0.webp",
+   "small": "img/xi-linzhizhuhuashi-0-s.webp"
   }
  ],
  "bei-wenyingguan": [
@@ -316,7 +346,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:Wen_Ying_Hall_left_front_20100906.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/bei-wenyingguan-0.webp",
+   "small": "img/bei-wenyingguan-0-s.webp"
   }
  ],
  "bei-shuiyuandishang": [
@@ -326,7 +358,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:Ground_water_towers_in_Taichung_Shui-Yuan-Di.JPG",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/bei-shuiyuandishang-0.webp",
+   "small": "img/bei-shuiyuandishang-0-s.webp"
   }
  ],
  "bei-shuiyuandidierji": [
@@ -346,7 +380,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:Taichung_Broadcasting_Bureau.JPG",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/bei-fangsongju-0.webp",
+   "small": "img/bei-fangsongju-0-s.webp"
   }
  ],
  "bei-taiwanshengchengda": [
@@ -356,7 +392,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:Taiwan_Castle_North_gate.JPG",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/bei-taiwanshengchengda-0.webp",
+   "small": "img/bei-taiwanshengchengda-0-s.webp"
   }
  ],
  "bei-gongyuanwuxiong": [
@@ -366,7 +404,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:Taichung_Mayor%27s_House.JPG",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/bei-gongyuanwuxiong-0.webp",
+   "small": "img/bei-gongyuanwuxiong-0-s.webp"
   }
  ],
  "beitun-jishanlou": [
@@ -376,7 +416,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:Ji-Shan_Gatehouse.JPG",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/beitun-jishanlou-0.webp",
+   "small": "img/beitun-jishanlou-0-s.webp"
   }
  ],
  "beitun-wenchangmiao": [
@@ -386,7 +428,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:Beitun_Wenchang_Temple.JPG",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/beitun-wenchangmiao-0.webp",
+   "small": "img/beitun-wenchangmiao-0-s.webp"
   }
  ],
  "beitun-zhaoantang": [
@@ -396,7 +440,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E8%A9%94%E5%AE%89%E5%A0%82.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/beitun-zhaoantang-0.webp",
+   "small": "img/beitun-zhaoantang-0-s.webp"
   }
  ],
  "beitun-qiuxianjiamuyuan": [
@@ -416,7 +462,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:Former_Japanese_Army_Taichung_Aerodrome_Gun_Tower_(%E5%8E%9F%E6%97%A5%E8%BB%8D%E8%87%BA%E4%B8%AD%E9%A3%9B%E8%A1%8C%E5%A0%B4%E6%A9%9F%E6%A7%8D%E5%A0%A1).jpg",
    "artist": "Alexander Synaptic",
    "license": "CC BY-SA 2.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "local": "img/beitun-rijuntaizhongfei-0.webp",
+   "small": "img/beitun-rijuntaizhongfei-0-s.webp"
   }
  ],
  "beitun-jinyuanjizhaidi": [
