@@ -1,0 +1,79 @@
+{
+  "intro": [
+    {"who": "A", "text": "嗨，我是 Allan Lo！今天不用看海，因為我們來到臺灣唯一不靠海的縣，南投。"},
+    {"who": "R", "text": "我是阿拉蕾！南投我知道，有日月潭、清境，還有喝不完的高山茶！"},
+    {"who": "A", "text": "說得好。南投的文化資產一共73處，有國定古蹟、縣定古蹟、歷史建築、紀念建築、考古遺址和文化景觀。"},
+    {"who": "R", "text": "國定古蹟是哪一個？"},
+    {"who": "A", "text": "就是清代1875年開闢的八通關古道，從竹山一路翻過中央山脈到花蓮玉里。東端在花蓮，西段就在南投。"},
+    {"who": "R", "text": "那文資最多在哪裡？"},
+    {"who": "A", "text": "南投市有21處，很多在中興新村，那裡曾經是臺灣省政府的所在地；竹山和草屯也各有十幾處，書院和老廟特別多。"},
+    {"who": "R", "text": "我還知道，這裡是邵族、布農族、泰雅族、賽德克族的家園，仁愛鄉還有泰雅族的起源地斯巴揚！"},
+    {"who": "A", "text": "沒錯。1999年的921大地震，南投是重災區，很多老建築是震後修復或重建的；山區道路颱風豪雨後也常坍方，出發前記得查路況。"},
+    {"who": "R", "text": "南投景點分散，建議開車。準備好了嗎？從南投市區出發囉！"}
+  ],
+  "timeIntro": [
+    {"who": "R", "text": "Allan，南投的時光地圖要看什麼？"},
+    {"who": "A", "text": "先看荷西時期，那時南投沒有外來政權，是各族原住民的天地；明鄭時期林圮帶人到竹山開墾，也和原住民發生衝突。"},
+    {"who": "A", "text": "清代有書院和八通關古道，日治有集集線、日月潭水力發電和霧社事件，戰後省政府搬到中興新村。清代以後都會疊上當年的老地圖。"},
+    {"who": "R", "text": "那我要找找看，日月潭在發電廠蓋好以前，是不是比現在小很多！"},
+    {"who": "A", "text": "好，把老地圖的透明度拉一拉，答案就在地圖上！"}
+  ],
+  "planIntro": [
+    {"who": "A", "text": "南投縣幅員很大，從南投市到仁愛鄉的山區要開兩個多小時，景點分散，建議開車；南投市、中興新村、竹山和集集市區，停好車就可以走路串遊。"},
+    {"who": "R", "text": "南投沒有高鐵站，也沒有 YouBike，不過可以從高鐵臺中站轉客運，或搭集集線小火車到集集和車埕！"},
+    {"who": "A", "text": "日月潭環湖的自行車是業者出租的，不是 YouBike。山區道路颱風、豪雨後常有坍方管制，出發前請先查詢最新路況。"},
+    {"who": "R", "text": "中午記得留肚子給南投意麵、草屯肉圓，還有集集的香蕉冰！"}
+  ],
+  "gameIntro": [
+    {"who": "R", "text": "山城遊戲場開張！問答王、時光排序、猜猜我是誰、翻翻樂，還有山城擲骰大冒險！"},
+    {"who": "A", "text": "題目從藍田書院、中興新村，一路考到集集火車站、車埕和八通關古道，看你能不能全部答對。"},
+    {"who": "R", "text": "Allan，這次擲骰子我一定贏你！"},
+    {"who": "A", "text": "哈哈，那就從南投市區出發，比比看吧！"}
+  ],
+  "reactions": [
+    {"who": "R", "text": "答對了！你根本就是南投通！"},
+    {"who": "A", "text": "正確答案！給你一個大大的讚。"},
+    {"who": "R", "text": "哎呀，答錯了，沒關係，看看解說再挑戰！"},
+    {"who": "A", "text": "可惜！差一點點，下次一定行。"},
+    {"who": "R", "text": "換我擲骰子囉！看我的！"},
+    {"who": "A", "text": "恭喜你贏了！今天的南投意麵和草屯肉圓算我的！"},
+    {"who": "R", "text": "耶！這一局是我贏了，要不要再來一局？"},
+    {"who": "A", "text": "平手！你們兩個都是文資高手。"},
+    {"who": "R", "text": "時光排序完成！你從埔里的史前遺址一路排到今天的中興新村，好厲害！"},
+    {"who": "A", "text": "恭喜集到新的護照印章！"},
+    {"who": "R", "text": "全部配對成功，記憶力滿分！"},
+    {"who": "A", "text": "嗯，這一題我們一起看看解說。"}
+  ],
+  "starts": [
+    {"id": "nantou", "name": "南投市區（南投縣政府）", "lat": 23.90238, "lng": 120.69012},
+    {"id": "zhongxing", "name": "中興新村", "lat": 23.95612, "lng": 120.68508},
+    {"id": "hsr", "name": "高鐵臺中站（烏日）", "lat": 24.11168, "lng": 120.61584},
+    {"id": "caotun", "name": "草屯市區（草屯鎮公所）", "lat": 23.97358, "lng": 120.68065},
+    {"id": "zhushan", "name": "竹山市區（竹山鎮公所）", "lat": 23.75790, "lng": 120.67157},
+    {"id": "jiji", "name": "臺鐵集集車站", "lat": 23.82649, "lng": 120.78488},
+    {"id": "checheng", "name": "臺鐵車埕車站", "lat": 23.83256, "lng": 120.86574},
+    {"id": "sunmoon", "name": "日月潭水社（客運轉運站）", "lat": 23.86655, "lng": 120.91106},
+    {"id": "puli", "name": "埔里轉運站", "lat": 23.96357, "lng": 120.96921},
+    {"id": "gps", "name": "我的目前位置", "lat": null, "lng": null},
+    {"id": "pick", "name": "在地圖上點選出發點", "lat": null, "lng": null}
+  ],
+  "plans": {
+    "1": {"name": "一日：南投市（藍田書院、武德殿）、中興新村與草屯書院老廟", "days": [
+      ["nantou-lantianshuyuan", "nantou-wudedianjiqifushu", "nantou-shuiwuchuzhangsuo", "nantou-shizhongshangong", "nantou-zhongxingxincunwen", "nantou-taiwanshengzhengfu", "nantou-taiwanshengzhengzi", "caotun-shougongyepinchen", "caotun-dengyingshuyuan", "caotun-chaoyanggong"]
+    ]},
+    "2": {"name": "二日：南投市、中興新村、草屯 ＋ 竹山、八通關古道、社寮、集集與車埕", "days": [
+      ["nantou-lantianshuyuan", "nantou-wudedianjiqifushu", "nantou-shuiwuchuzhangsuo", "nantou-shizhongshangong", "nantou-zhongxingxincunwen", "nantou-taiwanshengzhengfu", "nantou-taiwanshengzhengzi", "caotun-shougongyepinchen", "caotun-dengyingshuyuan", "caotun-chaoyanggong"],
+      ["zhushan-linpigongmu", "zhushan-lianxinggong", "zhushan-shensheniaojujizhu", "zhushan-batongguangudao", "zhushan-sheliaogucang", "zhushan-xiandinggujiyongji", "jiji-tianxingyaojiqifu", "jiji-huochezhan", "jiji-zhangnaochuzhang", "shuili-zhenchangxingyegu"]
+    ]},
+    "3": {"name": "三日：再加日月潭（頭社、魚池）與埔里、國姓", "days": [
+      ["nantou-lantianshuyuan", "nantou-wudedianjiqifushu", "nantou-shuiwuchuzhangsuo", "nantou-shizhongshangong", "nantou-zhongxingxincunwen", "nantou-taiwanshengzhengfu", "nantou-taiwanshengzhengzi", "caotun-shougongyepinchen", "caotun-dengyingshuyuan", "caotun-chaoyanggong"],
+      ["zhushan-linpigongmu", "zhushan-lianxinggong", "zhushan-shensheniaojujizhu", "zhushan-batongguangudao", "zhushan-sheliaogucang", "zhushan-xiandinggujiyongji", "jiji-tianxingyaojiqifu", "jiji-huochezhan", "jiji-zhangnaochuzhang", "shuili-zhenchangxingyegu"],
+      ["yuchi-tousheguritanfu", "yuchi-xingzhengyuannong", "yuchi-linyuanshitoucuo", "puli-fudingjinkaoguyi", "puli-guolizhongxingda", "puli-damalinkaoguyizhi", "puli-nancunyiminci", "guoxing-xiangbeigangxishi"]
+    ]},
+    "mountain": {"label": "山區：仁愛、信義", "name": "山區加碼：仁愛鄉曲冰遺址與斯巴揚起源地、水里與信義鄉楠仔腳蔓", "days": [
+      ["renai-qubingkaoguyizhi", "renai-taiyaminzuqiyuandi"],
+      ["shuili-linquguanlichushui", "shuili-laijiagucuo", "xinyi-nanzaijiaomanshe"]
+    ]}
+  },
+  "food": []
+}
