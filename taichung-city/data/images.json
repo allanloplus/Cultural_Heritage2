@@ -1414,7 +1414,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:20210116%E5%8E%9F%E6%9D%B1%E5%8B%A2%E5%85%AC%E5%AD%B8%E6%A0%A1%E5%AE%BF%E8%88%8D.jpg",
    "artist": "M940504",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/dongshi-gongxuexiaosushe-0.webp",
+   "small": "img/dongshi-gongxuexiaosushe-0-s.webp"
   }
  ],
  "dongshi-yuehengmen": [
@@ -1444,7 +1446,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:Lake_view_in_Dongshi_Forestry_Culture_Park.jpg",
    "artist": "Ares Hsu",
    "license": "CC BY 2.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "local": "img/dongshi-linyewenhuayuanqu-0.webp",
+   "small": "img/dongshi-linyewenhuayuanqu-0-s.webp"
   }
  ],
  "xinshe-yuanzhemiaoyang": [
@@ -1454,7 +1458,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E5%8E%9F%E8%94%97%E8%8B%97%E9%A4%8A%E6%88%90%E6%89%80%E5%8F%8A%E9%99%B3%E5%88%97%E9%A4%A8.png",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/xinshe-yuanzhemiaoyang-0.webp",
+   "small": "img/xinshe-yuanzhemiaoyang-0-s.webp"
   }
  ],
  "xinshe-bailengzun": [
@@ -1464,7 +1470,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:Bailengzhun.jpg",
    "artist": "Yoxem",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/xinshe-bailengzun-0.webp",
+   "small": "img/xinshe-bailengzun-0-s.webp"
   }
  ],
  "heping-lishanyesutang": [
@@ -1474,7 +1482,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E6%A2%A8%E5%B1%B1%E8%80%B6%E7%A9%8C%E5%A0%82_Jesus_Church_at_Lishan_-_panoramio.jpg",
    "artist": "lienyuan lee",
    "license": "CC BY 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "local": "img/heping-lishanyesutang-0.webp",
+   "small": "img/heping-lishanyesutang-0-s.webp"
   }
  ]
 }
