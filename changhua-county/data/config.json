@@ -85,7 +85,13 @@
     "bikeMaxKm": 12,
     "ubikeStationMaxKm": 1.2,
     "farKm": 50,
-    "noVisit": {}
+    "noVisit": {
+      "huatan-beidoudianangong": "臺灣民俗村已歇業，園區為私人土地開發中，目前暫不開放（另有計畫遷回北斗重建）",
+      "huatan-jiayiliaoshizhen": "臺灣民俗村已歇業，園區為私人土地開發中，目前暫不開放",
+      "huatan-madoulinjiagucuo": "臺灣民俗村已歇業，園區為私人土地開發中，目前暫不開放",
+      "lugang-haipucuojingcha": "位在現役派出所後方、扣車場旁，官方沒有開放計畫",
+      "lugang-zhongyangguangbo": "央廣鹿港分臺園區一般民眾不能自行進入，只能在周邊道路看外觀，開放活動以中央廣播電臺公告為準"
+    }
   },
   "eras": {
     "dutch": {
