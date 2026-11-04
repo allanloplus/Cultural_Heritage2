@@ -52,7 +52,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E5%B8%9D%E5%9C%8B%E8%A3%BD%E7%B3%96%E5%BB%A0%E8%87%BA%E4%B8%AD%E7%87%9F%E6%A5%AD%E6%89%80%E6%9A%A8%E9%99%84%E5%B1%AC%E8%A8%AD%E6%96%BD.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/dong-diguozhitangchang-0.webp",
+   "small": "img/dong-diguozhitangchang-0-s.webp"
   }
  ],
  "dong-shizaishengchang": [
@@ -62,7 +64,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E6%9D%B1%E5%8B%A2%E4%BB%94%E5%8B%9D%E6%98%8C%E5%A0%82-5.jpg",
    "artist": "Encore",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/dong-shizaishengchang-0.webp",
+   "small": "img/dong-shizaishengchang-0-s.webp"
   }
  ],
  "dong-disishichang": [
@@ -72,7 +76,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E7%AC%AC%E5%9B%9B%E5%B8%82%E5%A0%B4.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/dong-disishichang-0.webp",
+   "small": "img/dong-disishichang-0-s.webp"
   }
  ],
  "dong-houhuochezhan": [
@@ -92,7 +98,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E8%87%BA%E4%B8%AD%E8%BB%8A%E7%AB%99%E5%91%A8%E5%9C%8D%E9%98%B2%E7%A9%BA%E5%A3%95%E5%8F%8A%E7%A2%89%E5%A0%A1%E7%BE%A4A.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/dong-chezhanzhouweifang-0.webp",
+   "small": "img/dong-chezhanzhouweifang-0-s.webp"
   }
  ],
  "dong-chezhanjiguancheku": [
@@ -102,7 +110,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E8%87%BA%E4%B8%AD%E8%BB%8A%E7%AB%99%E6%A9%9F%E9%97%9C%E8%BB%8A%E5%BA%AB%E9%81%BA%E6%A7%8B_2022.jpg",
    "artist": "Pbdragonwang",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/dong-chezhanjiguancheku-0.webp",
+   "small": "img/dong-chezhanjiguancheku-0-s.webp"
   }
  ],
  "dong-yidierhuowucangku": [
@@ -112,7 +122,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E8%87%BA%E4%B8%AD%E5%B8%82%E7%81%AB%E8%BB%8A%E7%AB%99%E9%99%84%E5%B1%AC%E8%A8%AD%E6%96%BD%E5%8F%8A%E5%BB%BA%E7%AF%89%E7%BE%A4.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/dong-yidierhuowucangku-0.webp",
+   "small": "img/dong-yidierhuowucangku-0-s.webp"
   }
  ],
  "xi-zhouting": [
@@ -122,7 +134,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:Taichung_City_Hall.JPG",
    "artist": "Ludahai at English Wikipedia",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "local": "img/xi-zhouting-0.webp",
+   "small": "img/xi-zhouting-0-s.webp"
   }
  ],
  "xi-zhanghuayinxingji": [
