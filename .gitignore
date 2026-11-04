@@ -1,0 +1,4 @@
+# 第二網站只放縣市資料夾；工具與快取都在第一網站（allanloplus/Cultural_Heritage）
+__pycache__/
+.DS_Store
+*.tmp
