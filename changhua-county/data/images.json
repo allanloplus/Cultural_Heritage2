@@ -98,7 +98,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E5%8E%9F%E5%BD%B0%E5%8C%96%E8%AD%A6%E5%AF%9F%E7%BD%B2.JPG",
    "artist": "Pbdragonwang",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/zhanghua-jingchashu-0.webp",
+   "small": "img/zhanghua-jingchashu-0-s.webp"
   }
  ],
  "zhanghua-dingguangfumiao": [
@@ -108,7 +110,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E5%BD%B0%E5%8C%96%E5%AE%9A%E5%85%89%E4%BD%9B%E5%BB%9F%E5%85%A7%E6%99%AF.JPG",
    "artist": "Pbdragonwang",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/zhanghua-dingguangfumiao-0.webp",
+   "small": "img/zhanghua-dingguangfumiao-0-s.webp"
   }
  ],
  "zhanghua-shiwudedian": [
@@ -118,7 +122,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E5%BD%B0%E5%8C%96%E6%AD%A6%E5%BE%B7%E6%AE%BF.JPG",
    "artist": "勤岸",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/zhanghua-shiwudedian-0.webp",
+   "small": "img/zhanghua-shiwudedian-0-s.webp"
   }
  ],
  "zhanghua-shinongyecangku": [
@@ -128,7 +134,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E5%BD%B0%E5%8C%96%E8%BE%B2%E6%A5%AD%E5%80%89%E5%BA%AB_Zhanghua_Agricultural_Warehouse_-_panoramio.jpg",
    "artist": "lienyuan lee",
    "license": "CC BY 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "local": "img/zhanghua-shinongyecangku-0.webp",
+   "small": "img/zhanghua-shinongyecangku-0-s.webp"
   }
  ],
  "zhanghua-qingangong": [
@@ -138,7 +146,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E5%BD%B0%E5%8C%96%E6%85%B6%E5%AE%89%E5%AE%AE01.JPG",
    "artist": "Pbdragonwang",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/zhanghua-qingangong-0.webp",
+   "small": "img/zhanghua-qingangong-0-s.webp"
   }
  ],
  "zhanghua-huaizhongci": [
@@ -148,7 +158,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E5%BD%B0%E5%8C%96%E6%87%B7%E5%BF%A0%E7%A5%A001.JPG",
    "artist": "Pbdragonwang",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/zhanghua-huaizhongci-0.webp",
+   "small": "img/zhanghua-huaizhongci-0-s.webp"
   }
  ],
  "zhanghua-zhenfengyuanshang": [
