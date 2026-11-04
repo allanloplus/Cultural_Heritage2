@@ -1,0 +1,317 @@
+{
+  "intro": [
+    {
+      "who": "A",
+      "text": "嗨，我是 Allan Lo！今天我們來到臺灣中部的大城市，古早叫做大墩的臺中市。"
+    },
+    {
+      "who": "R",
+      "text": "我是阿拉蕾！臺中我知道，有太陽餅、逢甲夜市，還有臺中公園湖心亭那座雙亭！"
+    },
+    {
+      "who": "A",
+      "text": "太陽餅先收起來。臺中的有形文化資產一共195處，有國定古蹟、市定古蹟、歷史建築、紀念建築、聚落建築群、考古遺址和文化景觀。"
+    },
+    {
+      "who": "R",
+      "text": "國定古蹟有哪幾處？"
+    },
+    {
+      "who": "A",
+      "text": "4處！日治時期的臺中州廳和臺中火車站，東海大學的路思義教堂，還有霧峰林家的宅第與萊園。"
+    },
+    {
+      "who": "R",
+      "text": "那文資最多的地方是哪裡？"
+    },
+    {
+      "who": "A",
+      "text": "西區有23處，西屯區21處，南屯、清水、東區、豐原也不少。日式宿舍、廟宇、古厝，還有舊山線和海線的老車站。"
+    },
+    {
+      "who": "R",
+      "text": "我還知道，很久以前這裡是大肚王國和巴宰族、拍瀑拉族等平埔族群的家園！"
+    },
+    {
+      "who": "A",
+      "text": "沒錯。清代的犁頭店與沒有完工的臺灣省城，日治的棋盤街道，戰後的省議會和東海大學，一層一層疊出今天的臺中。很多古厝還有人住，記得在外面欣賞就好。"
+    },
+    {
+      "who": "R",
+      "text": "市區騎 YouBike 最方便，海線、山線就開車或搭火車。準備好了嗎？從臺中車站出發囉！"
+    }
+  ],
+  "timeIntro": [
+    {
+      "who": "R",
+      "text": "Allan，臺中的時光地圖要看什麼？"
+    },
+    {
+      "who": "A",
+      "text": "先看十七世紀，那時荷蘭人沒有統治臺中，這裡是大肚王國的核心，平埔族群和荷蘭東印度公司還打過仗。"
+    },
+    {
+      "who": "A",
+      "text": "清代有岸裡社和漢人的開墾、葫蘆墩圳，1889年還在今天的臺中公園一帶蓋臺灣省城，可惜沒有完工。日治以後都會疊上當年的老地圖。"
+    },
+    {
+      "who": "R",
+      "text": "那我要找找看，1945年美軍畫的臺中市街圖上，臺中車站和綠川在哪裡！"
+    },
+    {
+      "who": "A",
+      "text": "好，把老地圖的透明度拉一拉，棋盤街道就浮出來了！"
+    }
+  ],
+  "planIntro": [
+    {
+      "who": "A",
+      "text": "臺中市區的臺中車站、州廳、市役所和臺中公園都很近，騎 YouBike 或走路就能串起來；東海大學和南屯老街搭公車或捷運再轉 YouBike 也很方便。"
+    },
+    {
+      "who": "R",
+      "text": "臺中的 YouBike 站超多，29個區都有站點，借車還車都好找！"
+    },
+    {
+      "who": "A",
+      "text": "海線的清水、梧棲、大甲，山線的豐原、后里，還有霧峰，景點比較分散，建議開車或搭臺鐵。去和平區山上之前，一定要先查公路局的路況。"
+    },
+    {
+      "who": "R",
+      "text": "中午記得留肚子給大麵羹、肉圓，還有伴手禮太陽餅和大甲芋頭酥！"
+    }
+  ],
+  "gameIntro": [
+    {
+      "who": "R",
+      "text": "大墩遊戲場開張！問答王、時光排序、猜猜我是誰、翻翻樂，還有大墩擲骰大冒險！"
+    },
+    {
+      "who": "A",
+      "text": "題目從臺中州廳、臺中火車站，一路考到路思義教堂、霧峰林家和舊山線，看你能不能全部答對。"
+    },
+    {
+      "who": "R",
+      "text": "Allan，這次擲骰子我一定贏你！"
+    },
+    {
+      "who": "A",
+      "text": "哈哈，那就從臺中車站出發，比比看吧！"
+    }
+  ],
+  "reactions": [
+    {
+      "who": "R",
+      "text": "答對了！你根本就是臺中通！"
+    },
+    {
+      "who": "A",
+      "text": "正確答案！給你一個大大的讚。"
+    },
+    {
+      "who": "R",
+      "text": "哎呀，答錯了，沒關係，看看解說再挑戰！"
+    },
+    {
+      "who": "A",
+      "text": "可惜！差一點點，下次一定行。"
+    },
+    {
+      "who": "R",
+      "text": "換我擲骰子囉！看我的！"
+    },
+    {
+      "who": "A",
+      "text": "恭喜你贏了！今天的太陽餅和大麵羹算我的！"
+    },
+    {
+      "who": "R",
+      "text": "耶！這一局是我贏了，要不要再來一局？"
+    },
+    {
+      "who": "A",
+      "text": "平手！你們兩個都是文資高手。"
+    },
+    {
+      "who": "R",
+      "text": "時光排序完成！你從大肚台地的史前遺址一路排到今天的臺中，好厲害！"
+    },
+    {
+      "who": "A",
+      "text": "恭喜集到新的護照印章！"
+    },
+    {
+      "who": "R",
+      "text": "全部配對成功，記憶力滿分！"
+    },
+    {
+      "who": "A",
+      "text": "嗯，這一題我們一起看看解說。"
+    }
+  ],
+  "starts": [
+    {
+      "id": "taichung",
+      "name": "臺鐵臺中車站",
+      "lat": 24.13711,
+      "lng": 120.68687
+    },
+    {
+      "id": "hsr",
+      "name": "高鐵臺中站（烏日）",
+      "lat": 24.11168,
+      "lng": 120.61584
+    },
+    {
+      "id": "mrt",
+      "name": "臺中捷運市政府站",
+      "lat": 24.1621,
+      "lng": 120.64923
+    },
+    {
+      "id": "fengyuan",
+      "name": "臺鐵豐原車站",
+      "lat": 24.25431,
+      "lng": 120.72356
+    },
+    {
+      "id": "qingshui",
+      "name": "臺鐵清水車站",
+      "lat": 24.26369,
+      "lng": 120.56921
+    },
+    {
+      "id": "gps",
+      "name": "我的目前位置",
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": "pick",
+      "name": "在地圖上點選出發點",
+      "lat": null,
+      "lng": null
+    }
+  ],
+  "plans": {
+    "1": {
+      "name": "一日：臺中車站與舊城（州廳、市役所、演武場、柳原教會、臺中公園大北門與湖心亭）",
+      "days": [
+        [
+          "zhong-huochezhan",
+          "zhong-shanlvqiao",
+          "zhong-zhushihuishezhang",
+          "xi-yisuo",
+          "xi-zhouting",
+          "xi-xingwusuoyanwu",
+          "xi-rizhishiqijingcha",
+          "zhong-liuyuanjiaohui",
+          "bei-taiwanshengchengda",
+          "bei-zhongshangongyuan"
+        ]
+      ]
+    },
+    "2": {
+      "name": "二日：臺中舊城一天 ＋ 東海大學路思義教堂、張廖家廟、萬和宮與南屯老街一天",
+      "days": [
+        [
+          "zhong-huochezhan",
+          "zhong-shanlvqiao",
+          "zhong-zhushihuishezhang",
+          "xi-yisuo",
+          "xi-zhouting",
+          "xi-xingwusuoyanwu",
+          "xi-rizhishiqijingcha",
+          "zhong-liuyuanjiaohui",
+          "bei-taiwanshengchengda",
+          "bei-zhongshangongyuan"
+        ],
+        [
+          "xitun-lusiyijiaotang",
+          "xitun-bilvsizhonglou",
+          "xitun-donghaidaxuezaoqi",
+          "xitun-zhangliaojiamiao",
+          "xitun-zhangjiazumiao",
+          "xitun-xitunyihaogucang",
+          "nantun-wanhegong",
+          "nantun-sanjiaojie",
+          "nantun-wenchanggongmiao"
+        ]
+      ]
+    },
+    "3": {
+      "name": "三日：舊城、西屯與南屯 ＋ 霧峰林家、原臺灣省議會、光復新村、聚奎居與磺溪書院",
+      "days": [
+        [
+          "zhong-huochezhan",
+          "zhong-shanlvqiao",
+          "zhong-zhushihuishezhang",
+          "xi-yisuo",
+          "xi-zhouting",
+          "xi-xingwusuoyanwu",
+          "xi-rizhishiqijingcha",
+          "zhong-liuyuanjiaohui",
+          "bei-taiwanshengchengda",
+          "bei-zhongshangongyuan"
+        ],
+        [
+          "xitun-lusiyijiaotang",
+          "xitun-bilvsizhonglou",
+          "xitun-donghaidaxuezaoqi",
+          "xitun-zhangliaojiamiao",
+          "xitun-zhangjiazumiao",
+          "xitun-xitunyihaogucang",
+          "nantun-wanhegong",
+          "nantun-sanjiaojie",
+          "nantun-wenchanggongmiao"
+        ],
+        [
+          "wufeng-linjia",
+          "wufeng-taiwanshengyihuiyi",
+          "wufeng-guangfuxincunsheng",
+          "wufeng-jiushengzhengfu",
+          "dali-yibaozhengjihuisuo",
+          "wuri-jukuiju",
+          "dadu-huangxishuyuan",
+          "dadu-zongguantieluzhui"
+        ]
+      ]
+    },
+    "coast": {
+      "label": "加碼：海線",
+      "name": "海線一日：梧棲、高美燈塔、清水牛罵頭與眷村、大甲文昌祠、日南車站",
+      "days": [
+        [
+          "wuqi-zhenwugong",
+          "wuqi-jingchaguanlipai",
+          "qingshui-gaomeidengta",
+          "qingshui-xinyixincun",
+          "qingshui-niumatoukaoguyizhi",
+          "qingshui-aofengshanyingquji",
+          "qingshui-zongguantieluqing",
+          "dajia-wenchangci",
+          "dajia-linshizhenxiaofang",
+          "dajia-zongguantielurinan"
+        ]
+      ]
+    },
+    "hill": {
+      "label": "加碼：山線",
+      "name": "山線一日：摘星山莊、筱雲山莊、葫蘆墩圳、舊山線大甲溪鐵橋、后里馬場與泰安車站",
+      "days": [
+        [
+          "tanzi-zhaixingshanzhuang",
+          "shengang-xiaoyunshanzhuang",
+          "shengang-shekoulinzhai",
+          "fengyuan-huludunzunrushui",
+          "fengyuan-jiushanxiantiedao",
+          "houli-yuemeitangchangzhi",
+          "houli-machang",
+          "houli-zongguantielujiu",
+          "houli-taitiejiushanxian"
+        ]
+      ]
+    }
+  },
+  "food": []
+}
