@@ -642,7 +642,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E6%9D%B1%E6%B5%B7%E5%A4%A7%E5%AD%B8%E8%A1%9B%E7%90%86%E6%9C%83%E9%A4%A8.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/xitun-donghaidaxueweili-0.webp",
+   "small": "img/xitun-donghaidaxueweili-0-s.webp"
   }
  ],
  "xitun-liemeitang": [
@@ -652,7 +654,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E9%AD%9A%E6%B1%A0%E7%83%88%E7%BE%8E%E5%A0%82.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/xitun-liemeitang-0.webp",
+   "small": "img/xitun-liemeitang-0-s.webp"
   }
  ],
  "xitun-xitunyihaogucang": [
@@ -662,7 +666,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:Taichung_Situn_No.1_Barn.JPG",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/xitun-xitunyihaogucang-0.webp",
+   "small": "img/xitun-xitunyihaogucang-0-s.webp"
   }
  ],
  "xitun-daozhongcangku": [
@@ -672,7 +678,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:Taiwan_Provincial_Government_Situn_barn.JPG",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/xitun-daozhongcangku-0.webp",
+   "small": "img/xitun-daozhongcangku-0-s.webp"
   }
  ],
  "xitun-xidadunyaotaocidui": [
