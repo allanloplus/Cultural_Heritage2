@@ -484,7 +484,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E6%9E%97%E6%87%8B%E9%99%BD%E5%AE%85%E7%AC%AC%E5%B7%A6%E5%81%B4%E6%B4%8B%E6%A8%93.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/beitun-linmaoyangguju-0.webp",
+   "small": "img/beitun-linmaoyangguju-0-s.webp"
   }
  ],
  "beitun-shuinanjichangying": [
@@ -494,7 +496,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E6%97%A5%E6%9C%AC%E9%99%B8%E8%BB%8D%E4%B8%89%E5%8D%81%E5%85%AD%E8%88%AA%E7%A9%BA%E9%9A%8A%E5%BB%A0%E6%88%BF%E5%8F%8A%E5%85%B5%E8%88%8D.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/beitun-shuinanjichangying-0.webp",
+   "small": "img/beitun-shuinanjichangying-0-s.webp"
   }
  ],
  "beitun-shuinanyanlou": [
@@ -504,7 +508,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E6%B0%B4%E6%B9%B3%E8%8F%B8%E6%A8%93-4.jpg",
    "artist": "Encore",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/beitun-shuinanyanlou-0.webp",
+   "small": "img/beitun-shuinanyanlou-0-s.webp"
   }
  ],
  "beitun-jungongguoxiaori": [
@@ -514,7 +520,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E8%BB%8D%E5%8A%9F%E5%9C%8B%E5%B0%8F%E6%97%A5%E5%BC%8F%E5%AE%BF%E8%88%8D.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/beitun-jungongguoxiaori-0.webp",
+   "small": "img/beitun-jungongguoxiaori-0-s.webp"
   }
  ],
  "xitun-lusiyijiaotang": [
@@ -524,7 +532,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:The_Luce_Chapel_1.jpg",
    "artist": "",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "local": "img/xitun-lusiyijiaotang-0.webp",
+   "small": "img/xitun-lusiyijiaotang-0-s.webp"
   }
  ],
  "xitun-donghaidaxueyuanyi": [
@@ -534,7 +544,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E6%9D%B1%E6%B5%B7%E5%A4%A7%E5%AD%B8%E5%8E%9F%E8%97%9D%E8%A1%93%E4%B8%AD%E5%BF%83.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/xitun-donghaidaxueyuanyi-0.webp",
+   "small": "img/xitun-donghaidaxueyuanyi-0-s.webp"
   }
  ],
  "xitun-bilvsizhonglou": [
@@ -544,7 +556,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E6%9D%B1%E6%B5%B7%E5%A4%A7%E5%AD%B8%E7%95%A2%E5%BE%8B%E6%96%AF%E9%90%98%E6%A8%93.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/xitun-bilvsizhonglou-0.webp",
+   "small": "img/xitun-bilvsizhonglou-0-s.webp"
   }
  ],
  "xitun-zhangjiazumiao": [
@@ -554,7 +568,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E5%BC%B5%E5%AE%B6%E7%A5%96%E5%BB%9F.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/xitun-zhangjiazumiao-0.webp",
+   "small": "img/xitun-zhangjiazumiao-0-s.webp"
   }
  ],
  "xitun-zhangliaojiamiao": [
@@ -564,7 +580,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:Taichung_Zhang-Liao_Temple.JPG",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/xitun-zhangliaojiamiao-0.webp",
+   "small": "img/xitun-zhangliaojiamiao-0-s.webp"
   }
  ],
  "xitun-rijungaodijiqiang": [
