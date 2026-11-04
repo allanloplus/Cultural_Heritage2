@@ -478,7 +478,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E9%B9%BF%E6%B8%AF%E4%B8%81%E5%AE%B6%E5%8F%A4%E5%8E%9D.jpg",
    "artist": "Pbdragonwang",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/lugang-dingjiagucuo-0.webp",
+   "small": "img/lugang-dingjiagucuo-0-s.webp"
   }
  ],
  "lugang-sanshanguowangmiao": [
@@ -498,7 +500,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E9%B9%BF%E6%B8%AF%E5%85%AC%E6%9C%83%E5%A0%82.JPG",
    "artist": "Pbdragonwang",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/lugang-gonghuitang-0.webp",
+   "small": "img/lugang-gonghuitang-0-s.webp"
   }
  ],
  "lugang-nanjinggong": [
@@ -508,7 +512,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E9%B9%BF%E6%B8%AF%E5%8D%97%E9%9D%96%E5%AE%AE%E6%AD%A3%E9%9D%A2%E7%85%A7.jpg",
    "artist": "Outlookxp",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/lugang-nanjinggong-0.webp",
+   "small": "img/lugang-nanjinggong-0-s.webp"
   }
  ],
  "lugang-chenghuangmiao": [
@@ -528,7 +534,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E9%B9%BF%E6%B8%AF%E6%96%87%E6%AD%A6%E5%BB%9F%E4%B9%8B%E6%96%87%E7%A5%A0.JPG",
    "artist": "Pbdragonwang",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/lugang-wenwumiao-0.webp",
+   "small": "img/lugang-wenwumiao-0-s.webp"
   }
  ],
  "lugang-xinzugong": [
@@ -538,7 +546,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E9%B9%BF%E6%B8%AF%E6%96%B0%E7%A5%96%E5%AE%AE.JPG",
    "artist": "Pbdragonwang",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/lugang-xinzugong-0.webp",
+   "small": "img/lugang-xinzugong-0-s.webp"
   }
  ],
  "lugang-rimaoxing": [
@@ -548,7 +558,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E9%B9%BF%E6%B8%AF%E6%97%A5%E8%8C%82%E8%A1%8C.jpg",
    "artist": "Pbdragonwang",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/lugang-rimaoxing-0.webp",
+   "small": "img/lugang-rimaoxing-0-s.webp"
   }
  ],
  "lugang-xingangong": [
@@ -558,7 +570,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E9%B9%BF%E6%B8%AF%E8%88%88%E5%AE%89%E5%AE%AE.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/lugang-xingangong-0.webp",
+   "small": "img/lugang-xingangong-0-s.webp"
   }
  ],
  "lugang-aimen": [
@@ -568,7 +582,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E9%B9%BF%E6%B8%AF%E9%9A%98%E9%96%80.JPG",
    "artist": "Pbdragonwang",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/lugang-aimen-0.webp",
+   "small": "img/lugang-aimen-0-s.webp"
   }
  ],
  "lugang-fengshansi": [
@@ -578,7 +594,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E9%B9%BF%E6%B8%AF%E9%B3%B3%E5%B1%B1%E5%AF%BA.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/lugang-fengshansi-0.webp",
+   "small": "img/lugang-fengshansi-0-s.webp"
   }
  ],
  "lugang-yuanchangxing": [
@@ -588,7 +606,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E9%B9%BF%E6%B8%AF%E5%85%83%E6%98%8C%E8%A1%8C.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/lugang-yuanchangxing-0.webp",
+   "small": "img/lugang-yuanchangxing-0-s.webp"
   }
  ],
  "lugang-shiyilou": [
@@ -598,7 +618,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E9%B9%BF%E6%B8%AF%E5%8D%81%E5%AE%9C%E6%A8%93.JPG",
    "artist": "Pbdragonwang",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/lugang-shiyilou-0.webp",
+   "small": "img/lugang-shiyilou-0-s.webp"
   }
  ],
  "lugang-youluxuan": [
