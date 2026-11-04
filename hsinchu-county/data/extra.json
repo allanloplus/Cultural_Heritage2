@@ -1,59 +1,302 @@
 {
   "intro": [
-    {"who": "A", "text": "嗨，我是 Allan Lo！今天我們從高鐵新竹站出發，它其實在竹北，是新竹縣的大門口。"},
-    {"who": "R", "text": "我是阿拉蕾！新竹縣跟新竹市是不一樣的地方嗎？我一直以為是同一個！"},
-    {"who": "A", "text": "是鄰居，不是同一家。新竹縣從竹北、湖口一路到尖石、五峰的山區，是客家庄和原住民族部落並存的地方。"},
-    {"who": "R", "text": "那這裡有幾處文化資產？"},
-    {"who": "A", "text": "有形文化資產一共78處，國定古蹟1處、縣定古蹟31處、歷史建築45處，還有1處聚落建築群。"},
-    {"who": "R", "text": "唯一的國定古蹟是誰？快告訴我！"},
-    {"who": "A", "text": "是北埔的金廣福公館。1834年粵籍和閩籍的墾戶合組金廣福，在這裡設隘開墾，但對賽夏族和泰雅族來說，那也是失去土地的開始。"},
-    {"who": "R", "text": "還有新埔的義民廟、關西的東安古橋、竹東車站和內灣派出所，光聽名字就想坐內灣線小火車！"},
-    {"who": "A", "text": "新埔光是家廟和宗祠就一大排，北埔老街走一圈也逛不完，記得留肚子吃粄條和擂茶。"},
-    {"who": "R", "text": "那我們出發吧！先打開文資地圖，看看哪個鄉鎮的點點最多！"}
+    {
+      "who": "A",
+      "text": "嗨，我是 Allan Lo！今天我們從高鐵新竹站出發，它其實在竹北，是新竹縣的大門口。"
+    },
+    {
+      "who": "R",
+      "text": "我是阿拉蕾！新竹縣跟新竹市是不一樣的地方嗎？我一直以為是同一個！"
+    },
+    {
+      "who": "A",
+      "text": "是鄰居，不是同一家。新竹縣從竹北、湖口一路到尖石、五峰的山區，是客家庄和原住民族部落並存的地方。"
+    },
+    {
+      "who": "R",
+      "text": "那這裡有幾處文化資產？"
+    },
+    {
+      "who": "A",
+      "text": "有形文化資產一共78處，國定古蹟1處、縣定古蹟31處、歷史建築45處，還有1處聚落建築群。"
+    },
+    {
+      "who": "R",
+      "text": "唯一的國定古蹟是誰？快告訴我！"
+    },
+    {
+      "who": "A",
+      "text": "是北埔的金廣福公館。1834年粵籍和閩籍的墾戶合組金廣福，在這裡設隘開墾，但對賽夏族和泰雅族來說，那也是失去土地的開始。"
+    },
+    {
+      "who": "R",
+      "text": "還有新埔的義民廟、關西的東安古橋、竹東車站和內灣派出所，光聽名字就想坐內灣線小火車！"
+    },
+    {
+      "who": "A",
+      "text": "新埔光是家廟和宗祠就一大排，北埔老街走一圈也逛不完，記得留肚子吃粄條和擂茶。"
+    },
+    {
+      "who": "R",
+      "text": "那我們出發吧！先打開文資地圖，看看哪個鄉鎮的點點最多！"
+    }
   ],
   "timeIntro": [
-    {"who": "R", "text": "Allan，新竹縣的時光地圖要從哪裡開始看？"},
-    {"who": "A", "text": "十七世紀這裡是道卡斯族、賽夏族和泰雅族的天下，西班牙人和荷蘭人沒有真的來統治，所以第一期叫原住民族社會。"},
-    {"who": "A", "text": "清代客家人一路往丘陵開墾，有義民、有隘墾，也有原住民族一步步退往山區；日治時期再疊上臺灣堡圖和蕃地地形圖。"},
-    {"who": "R", "text": "那我要在老地圖上找找看，北埔、新埔和樹杞林以前長什麼樣子！"},
-    {"who": "A", "text": "好，把透明度拉一拉，丘陵上的老街庄就會浮出來了！"}
+    {
+      "who": "R",
+      "text": "Allan，新竹縣的時光地圖要從哪裡開始看？"
+    },
+    {
+      "who": "A",
+      "text": "十七世紀這裡是道卡斯族、賽夏族和泰雅族的天下，西班牙人和荷蘭人沒有真的來統治，所以第一期叫原住民族社會。"
+    },
+    {
+      "who": "A",
+      "text": "清代客家人一路往丘陵開墾，有義民、有隘墾，也有原住民族一步步退往山區；日治時期再疊上臺灣堡圖和蕃地地形圖。"
+    },
+    {
+      "who": "R",
+      "text": "那我要在老地圖上找找看，北埔、新埔和樹杞林以前長什麼樣子！"
+    },
+    {
+      "who": "A",
+      "text": "好，把透明度拉一拉，丘陵上的老街庄就會浮出來了！"
+    }
   ],
   "planIntro": [
-    {"who": "A", "text": "新竹縣的景點分散在新埔、關西、北埔、竹東這些鄉鎮，彼此相隔十幾公里，行程預設開車比較方便。"},
-    {"who": "R", "text": "竹北和竹東市區也可以騎 YouBike，北埔和關西就沒有站點囉！"},
-    {"who": "A", "text": "想搭火車的話，可以坐內灣線到竹東和內灣；去尖石、五峰山區前，記得先查颱風或豪雨後的道路管制。"},
-    {"who": "R", "text": "中午我要吃新埔粄條，下午到北埔喝擂茶，行程就這樣決定了！"}
+    {
+      "who": "A",
+      "text": "新竹縣的景點分散在新埔、關西、北埔、竹東這些鄉鎮，彼此相隔十幾公里，行程預設開車比較方便。"
+    },
+    {
+      "who": "R",
+      "text": "竹北和竹東市區也可以騎 YouBike，北埔和關西就沒有站點囉！"
+    },
+    {
+      "who": "A",
+      "text": "想搭火車的話，可以坐內灣線到竹東和內灣；去尖石、五峰山區前，記得先查颱風或豪雨後的道路管制。"
+    },
+    {
+      "who": "R",
+      "text": "中午我要吃新埔粄條，下午到北埔喝擂茶，行程就這樣決定了！"
+    }
   ],
   "gameIntro": [
-    {"who": "R", "text": "客庄遊戲場開張！問答王、時光排序、猜猜我是誰、翻翻樂，還有客庄山城擲骰大冒險！"},
-    {"who": "A", "text": "題目從金廣福公館、新埔義民廟，一路考到東安古橋、竹東車站和采田福地，看你能不能全部答對。"},
-    {"who": "R", "text": "Allan，擲骰子我要像內灣線小火車一樣，一路開到終點站！"},
-    {"who": "A", "text": "哈哈，那就從高鐵新竹站出發，比比看吧！"}
+    {
+      "who": "R",
+      "text": "客庄遊戲場開張！問答王、時光排序、猜猜我是誰、翻翻樂，還有客庄山城擲骰大冒險！"
+    },
+    {
+      "who": "A",
+      "text": "題目從金廣福公館、新埔義民廟，一路考到東安古橋、竹東車站和采田福地，看你能不能全部答對。"
+    },
+    {
+      "who": "R",
+      "text": "Allan，擲骰子我要像內灣線小火車一樣，一路開到終點站！"
+    },
+    {
+      "who": "A",
+      "text": "哈哈，那就從高鐵新竹站出發，比比看吧！"
+    }
   ],
   "reactions": [
-    {"who": "R", "text": "答對了！你根本就是竹縣客庄通！"},
-    {"who": "A", "text": "正確答案！給你一個大大的讚。"},
-    {"who": "R", "text": "哎呀，答錯了，沒關係，看看解說再挑戰！"},
-    {"who": "A", "text": "可惜！差一點點，下次一定行。"},
-    {"who": "R", "text": "換我擲骰子囉！看我的！"},
-    {"who": "A", "text": "恭喜你贏了！今天的新埔粄條和北埔擂茶算我的！"},
-    {"who": "R", "text": "耶！這一局是我贏了，要不要再來一局？"},
-    {"who": "A", "text": "平手！你們兩個都是文資高手。"},
-    {"who": "R", "text": "時光排序完成！你從清代的客家夥房一路排到今天的高鐵新城，好厲害！"},
-    {"who": "A", "text": "恭喜集到新的護照印章！"},
-    {"who": "R", "text": "全部配對成功，記憶力滿分！"},
-    {"who": "A", "text": "嗯，這一題我們一起看看解說。"}
+    {
+      "who": "R",
+      "text": "答對了！你根本就是竹縣客庄通！"
+    },
+    {
+      "who": "A",
+      "text": "正確答案！給你一個大大的讚。"
+    },
+    {
+      "who": "R",
+      "text": "哎呀，答錯了，沒關係，看看解說再挑戰！"
+    },
+    {
+      "who": "A",
+      "text": "可惜！差一點點，下次一定行。"
+    },
+    {
+      "who": "R",
+      "text": "換我擲骰子囉！看我的！"
+    },
+    {
+      "who": "A",
+      "text": "恭喜你贏了！今天的新埔粄條和北埔擂茶算我的！"
+    },
+    {
+      "who": "R",
+      "text": "耶！這一局是我贏了，要不要再來一局？"
+    },
+    {
+      "who": "A",
+      "text": "平手！你們兩個都是文資高手。"
+    },
+    {
+      "who": "R",
+      "text": "時光排序完成！你從清代的客家夥房一路排到今天的高鐵新城，好厲害！"
+    },
+    {
+      "who": "A",
+      "text": "恭喜集到新的護照印章！"
+    },
+    {
+      "who": "R",
+      "text": "全部配對成功，記憶力滿分！"
+    },
+    {
+      "who": "A",
+      "text": "嗯，這一題我們一起看看解說。"
+    }
   ],
   "starts": [
-    {"id": "hsr", "name": "高鐵新竹站（竹北市）", "lat": 24.80843, "lng": 121.04024},
-    {"id": "zhubei", "name": "臺鐵竹北車站", "lat": 24.83856, "lng": 121.00916},
-    {"id": "hukou", "name": "臺鐵湖口車站", "lat": 24.90278, "lng": 121.04425},
-    {"id": "zhudong", "name": "臺鐵竹東車站", "lat": 24.73809, "lng": 121.09436},
-    {"id": "neiwan", "name": "臺鐵內灣車站", "lat": 24.70534, "lng": 121.18254},
-    {"id": "countyhall", "name": "新竹縣政府", "lat": 24.82730, "lng": 121.01359},
-    {"id": "gps", "name": "我的目前位置", "lat": null, "lng": null},
-    {"id": "pick", "name": "在地圖上點選出發點", "lat": null, "lng": null}
+    {
+      "id": "hsr",
+      "name": "高鐵新竹站（竹北市）",
+      "lat": 24.80843,
+      "lng": 121.04024
+    },
+    {
+      "id": "zhubei",
+      "name": "臺鐵竹北車站",
+      "lat": 24.83856,
+      "lng": 121.00916
+    },
+    {
+      "id": "hukou",
+      "name": "臺鐵湖口車站",
+      "lat": 24.90278,
+      "lng": 121.04425
+    },
+    {
+      "id": "zhudong",
+      "name": "臺鐵竹東車站",
+      "lat": 24.73809,
+      "lng": 121.09436
+    },
+    {
+      "id": "neiwan",
+      "name": "臺鐵內灣車站",
+      "lat": 24.70534,
+      "lng": 121.18254
+    },
+    {
+      "id": "countyhall",
+      "name": "新竹縣政府",
+      "lat": 24.8273,
+      "lng": 121.01359
+    },
+    {
+      "id": "gps",
+      "name": "我的目前位置",
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": "pick",
+      "name": "在地圖上點選出發點",
+      "lat": null,
+      "lng": null
+    }
   ],
-  "plans": {},
+  "plans": {
+    "1": {
+      "name": "一日：新埔與關西（褒忠亭義民廟、上枋寮劉宅、劉家祠與新埔家廟群、關西台灣紅茶公司、太和宮、東安古橋）",
+      "days": [
+        [
+          "xinpu-baozhongting",
+          "xinpu-shangfangliaoliu",
+          "xinpu-zhangshijiamiao",
+          "xinpu-liujiaci",
+          "xinpu-panwu",
+          "xinpu-zhushijiamiao",
+          "xinpu-chenshizongci",
+          "xinpu-linshijiamiao",
+          "xinpu-fanshijiamiao",
+          "guanxi-taiwanhongchagong",
+          "guanxi-fenzhusuo",
+          "guanxi-taihegong",
+          "guanxi-donganguqiao"
+        ]
+      ]
+    },
+    "2": {
+      "name": "二日：新埔與關西一天 ＋ 北埔與峨眉一天（金廣福公館、慈天宮、姜阿新洋樓、天水堂、鄧南光故居、峨眉天主堂、富興茶廠）",
+      "days": [
+        [
+          "xinpu-baozhongting",
+          "xinpu-shangfangliaoliu",
+          "xinpu-zhangshijiamiao",
+          "xinpu-liujiaci",
+          "xinpu-panwu",
+          "xinpu-zhushijiamiao",
+          "xinpu-chenshizongci",
+          "xinpu-linshijiamiao",
+          "xinpu-fanshijiamiao",
+          "guanxi-taiwanhongchagong",
+          "guanxi-fenzhusuo",
+          "guanxi-taihegong",
+          "guanxi-donganguqiao"
+        ],
+        [
+          "beipu-gongxuexiaorishisu",
+          "beipu-jiangwutianshui",
+          "beipu-jinguangfugongguan",
+          "beipu-jiangaxinyanglou",
+          "beipu-citiangong",
+          "beipu-zhongshutang",
+          "beipu-dengnanguangguju",
+          "beipu-jiangshijiamiao",
+          "emei-tianzhutang",
+          "emei-fuxingzhichagong"
+        ]
+      ]
+    },
+    "3": {
+      "name": "三日：再加竹北六張犁與采田福地、竹東與內灣線一天（問禮堂、蕭如松故居、竹東車站、竹東林場、內灣派出所）",
+      "days": [
+        [
+          "xinpu-baozhongting",
+          "xinpu-shangfangliaoliu",
+          "xinpu-zhangshijiamiao",
+          "xinpu-liujiaci",
+          "xinpu-panwu",
+          "xinpu-zhushijiamiao",
+          "xinpu-chenshizongci",
+          "xinpu-linshijiamiao",
+          "xinpu-fanshijiamiao",
+          "guanxi-taiwanhongchagong",
+          "guanxi-fenzhusuo",
+          "guanxi-taihegong",
+          "guanxi-donganguqiao"
+        ],
+        [
+          "beipu-gongxuexiaorishisu",
+          "beipu-jiangwutianshui",
+          "beipu-jinguangfugongguan",
+          "beipu-jiangaxinyanglou",
+          "beipu-citiangong",
+          "beipu-zhongshutang",
+          "beipu-dengnanguangguju",
+          "beipu-jiangshijiamiao",
+          "emei-tianzhutang",
+          "emei-fuxingzhichagong"
+        ],
+        [
+          "zhubei-caitianfudi",
+          "zhubei-wenlitang",
+          "zhubei-liuzhanglidafudi",
+          "zhubei-liuzhanglilinjiaci",
+          "zhubei-liuzhanglizhong",
+          "zhudong-xiaorusonggujujian",
+          "zhudong-zhangchunyiyuan",
+          "zhudong-chezhan",
+          "zhudong-linchangzhicai",
+          "zhudong-linchangjianzhuqun",
+          "hengshan-neiwanpaichusuo"
+        ]
+      ]
+    }
+  },
   "food": []
 }
