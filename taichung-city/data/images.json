@@ -1016,7 +1016,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E6%96%B0%E9%AB%98%E7%AF%89%E6%B8%AF%E5%87%BA%E5%BC%B5%E6%89%80%E5%89%AF%E6%89%80%E9%95%B7%E5%AE%BF%E8%88%8D(2017%E5%B9%B4%E7%8F%BE%E6%B3%81).jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/wuqi-taiwangangwugongsi-0.webp",
+   "small": "img/wuqi-taiwangangwugongsi-0-s.webp"
   }
  ],
  "qingshui-gongxuexiao": [
@@ -1026,7 +1028,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:Ching-Shui_Elementary_School,_Taichung_County.JPG",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/qingshui-gongxuexiao-0.webp",
+   "small": "img/qingshui-gongxuexiao-0-s.webp"
   }
  ],
  "qingshui-shekouyangzhai": [
@@ -1046,7 +1050,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E5%8D%88%E5%BE%8C%E7%9A%84%E7%80%9E%E5%9C%92.jpg",
    "artist": "地下高雄",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/qingshui-huangjiajingyuan-0.webp",
+   "small": "img/qingshui-huangjiajingyuan-0-s.webp"
   }
  ],
  "qingshui-gongxuexiaorishisu": [
@@ -1056,7 +1062,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:Teacher%27s_Quarters_in_Taichung_Ching-Shui_Elementary_School.JPG",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/qingshui-gongxuexiaorishisu-0.webp",
+   "small": "img/qingshui-gongxuexiaorishisu-0-s.webp"
   }
  ],
  "qingshui-gaomeidengta": [
@@ -1066,7 +1074,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E9%AB%98%E7%BE%8E%E7%87%88%E5%A1%94.JPG",
    "artist": "Ianbu",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/qingshui-gaomeidengta-0.webp",
+   "small": "img/qingshui-gaomeidengta-0-s.webp"
   }
  ],
  "qingshui-aofengshanyingquji": [
@@ -1076,7 +1086,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:Chin-shuei_Niumatou_site_in_Taichung_County.JPG",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/qingshui-aofengshanyingquji-0.webp",
+   "small": "img/qingshui-aofengshanyingquji-0-s.webp"
   }
  ],
  "dajia-wenchangci": [
@@ -1096,7 +1108,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E7%94%B2%E6%A2%81%E5%AE%85%E7%91%9E%E8%93%AE%E5%A0%82.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/dajia-liangzhairuilian-0.webp",
+   "small": "img/dajia-liangzhairuilian-0-s.webp"
   }
  ],
  "dajia-linshizhenxiaofang": [
@@ -1116,7 +1130,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E8%88%8A%E5%A4%A7%E5%AE%89%E6%BA%AA%E6%A9%8B%E8%88%87%E5%A4%A7%E5%AE%89%E6%BA%AA%E9%90%B5%E8%B7%AF%E6%A9%8B.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/dajia-jiudaanxiqiao-0.webp",
+   "small": "img/dajia-jiudaanxiqiao-0-s.webp"
   }
  ],
  "houli-neipuzhuangyichang": [
@@ -1136,7 +1152,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E5%90%8E%E9%87%8C%E5%BC%B5%E5%A4%A9%E6%A9%9F%E5%AE%85%E7%AC%AC%E4%B8%80%E9%80%B2%E5%BB%BA%E7%AF%89.jpg",
    "artist": "Kuochien",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/houli-zhangtianjizhai-0.webp",
+   "small": "img/houli-zhangtianjizhai-0-s.webp"
   }
  ],
  "houli-xianbanzhangjiazu": [
@@ -1146,7 +1164,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E5%90%8E%E9%87%8C%E8%B3%A2%E5%9D%82%E5%BC%B5%E5%AE%B6%E7%A5%96%E5%A2%93.png",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/houli-xianbanzhangjiazu-0.webp",
+   "small": "img/houli-xianbanzhangjiazu-0-s.webp"
   }
  ],
  "houli-machangmajiuchang": [
@@ -1156,7 +1176,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E8%87%BA%E7%81%A3%E7%B8%BD%E7%9D%A3%E5%BA%9C%E7%94%A2%E9%A6%AC%E7%89%A7%E5%A0%B4%E5%A0%B4%E6%9C%AC%E9%83%A8%EF%BC%882%EF%BC%89.jpg",
    "artist": "寺人孟子",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/houli-machangmajiuchang-0.webp",
+   "small": "img/houli-machangmajiuchang-0-s.webp"
   }
  ],
  "houli-taitiejiushanxian": [
@@ -1166,7 +1188,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:Old_Mountain_Railway_Taiwan-Ta-an_river-bridge-P1020654.JPG",
    "artist": "",
    "license": "CC BY-SA 2.5",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "local": "img/houli-taitiejiushanxian-0.webp",
+   "small": "img/houli-taitiejiushanxian-0-s.webp"
   }
  ],
  "houli-machangchangzhang": [
@@ -1176,7 +1200,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E5%90%8E%E9%87%8C%E9%A6%AC%E5%A0%B4%E5%A0%B4%E9%95%B7%E5%AE%BF%E8%88%8D.jpg",
    "artist": "Pbdragonwang",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/houli-machangchangzhang-0.webp",
+   "small": "img/houli-machangchangzhang-0-s.webp"
   }
  ],
  "shengang-shekoulinzhai": [
@@ -1206,7 +1232,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E7%AD%B1%E9%9B%B2%E5%B1%B1%E8%8E%8A%E8%BF%8E%E8%B3%93%E9%A4%A8.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/shengang-xiaoyunshanzhuang-0.webp",
+   "small": "img/shengang-xiaoyunshanzhuang-0-s.webp"
   }
  ],
  "shengang-anligongxuexiao": [
@@ -1216,7 +1244,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E5%B2%B8%E8%A3%A1%E5%85%AC%E5%AD%B8%E6%A0%A1%E6%A0%A1%E8%88%8D%E8%88%87%E5%8D%87%E6%97%97%E8%87%BA.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/shengang-anligongxuexiao-0.webp",
+   "small": "img/shengang-anligongxuexiao-0-s.webp"
   }
  ],
  "shengang-fuzhen": [
@@ -1226,7 +1256,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E7%A5%9E%E5%B2%A1%E6%B5%AE%E5%9C%B3.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/shengang-fuzhen-0.webp",
+   "small": "img/shengang-fuzhen-0-s.webp"
   }
  ],
  "daya-qingquangangsheng": [
@@ -1236,7 +1268,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E6%B8%85%E6%B3%89%E5%B4%97%E8%81%96%E6%BD%94%E6%95%99%E6%9C%83.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/daya-qingquangangsheng-0.webp",
+   "small": "img/daya-qingquangangsheng-0-s.webp"
   }
  ],
  "tanzi-zhaixingshanzhuang": [
@@ -1246,7 +1280,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E6%91%98%E6%98%9F%E5%B1%B1%E8%8E%8A.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/tanzi-zhaixingshanzhuang-0.webp",
+   "small": "img/tanzi-zhaixingshanzhuang-0-s.webp"
   }
  ],
  "tanzi-nonghuigucang": [
@@ -1266,7 +1302,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E6%BD%AD%E5%AD%90%E5%9C%8B%E5%B0%8F%E4%BD%87%E6%97%A5%E6%9C%AC%E6%99%82%E4%BB%A3%E8%B5%B7%E7%9A%84%E5%AE%BF%E8%88%8D_3.JPG",
    "artist": "Ianbu",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/tanzi-guoxiaorishixiao-0.webp",
+   "small": "img/tanzi-guoxiaorishixiao-0-s.webp"
   }
  ],
  "fengyuan-shenganglvruyumu": [
@@ -1296,7 +1334,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E5%91%82%E6%A8%B5%E6%B9%96%E6%95%85%E5%B1%85.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/fengyuan-lvqiaohuguju-0.webp",
+   "small": "img/fengyuan-lvqiaohuguju-0-s.webp"
   }
  ],
  "fengyuan-wanxuanju": [
@@ -1316,7 +1356,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E5%85%AB%E4%BB%99%E5%B1%B1%E6%9E%97%E5%93%81%E7%AE%A1%E7%90%86%E8%99%95%E5%AE%98%E8%88%8D.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/fengyuan-linwujusushequn-0.webp",
+   "small": "img/fengyuan-linwujusushequn-0-s.webp"
   }
  ],
  "fengyuan-huochezhantaitie": [
@@ -1326,7 +1368,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E8%B1%90%E5%8E%9F%E7%81%AB%E8%BB%8A%E7%AB%99%E8%87%BA%E9%90%B53%E8%99%9F%E5%80%89%E5%BA%AB.jpg",
    "artist": "M940504",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/fengyuan-huochezhantaitie-0.webp",
+   "small": "img/fengyuan-huochezhantaitie-0-s.webp"
   }
  ],
  "fengyuan-junfushuguanshe": [
@@ -1336,7 +1380,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E8%B1%90%E5%8E%9F%E9%83%A1%E9%99%84%E5%B1%AC%E5%AE%98%E8%88%8D.jpg",
    "artist": "Fcuk1203",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/fengyuan-junfushuguanshe-0.webp",
+   "small": "img/fengyuan-junfushuguanshe-0-s.webp"
   }
  ],
  "fengyuan-dingjiepaichusuo": [
@@ -1346,7 +1392,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E4%B8%AD%E5%B7%9E%E8%B1%90%E5%8E%9F%E9%83%A1%E5%AE%98%E5%90%8F%E6%B4%BE%E5%87%BA%E6%89%80.jpg",
    "artist": "Outlookxp",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/fengyuan-dingjiepaichusuo-0.webp",
+   "small": "img/fengyuan-dingjiepaichusuo-0-s.webp"
   }
  ],
  "shigang-nonghuinianmigu": [
