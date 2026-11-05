@@ -73,7 +73,19 @@
     "walkMaxKm": 3,
     "bikeMaxKm": 12,
     "ubikeStationMaxKm": 1.2,
-    "farKm": 60
+    "farKm": 60,
+    "noVisit": {
+      "taoyuan-wuxianshouxinsuo": "由中華電信作為物料庫房使用，一般民眾無法進入，僅能在外圍觀看",
+      "zhongli-guojiwuxiandianhua": "中華電信所屬設施，目前不開放參觀",
+      "bade-bakuaiwuxiansong": "中華電信仍作為辦公與倉儲使用，目前不開放參觀",
+      "dayuan-qiankongjuntaoyuan": "已除役、閒置，須經申請才能進出，一般民眾無法前往",
+      "dayuan-zhuweifuhaigong": "廟址劃入桃園機場第三跑道範圍，神明已暫遷他處，請以廟方公告為準",
+      "yangmei-taiwandianligongsi": "只開放學術、文化團體於臺電上班日預約參觀，一般民眾無法自行前往",
+      "yangmei-fenjujingchasushe": "修復工程進行中，施工期間無法進入",
+      "zhongli-tiedaohaohaocangku": "臺鐵所屬倉庫，目前不開放參觀",
+      "luzhu-nankanhaogucangji": "仍作為糧倉使用，一般民眾無法進入",
+      "longtan-shimenshuikuguanli": "查無對外開放資訊，一般民眾無法進入，僅能在外圍公共道路觀看"
+    }
   },
   "eras": {
     "dutch": {
