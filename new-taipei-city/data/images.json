@@ -188,7 +188,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E6%B7%A1%E6%B0%B4%E6%B5%B7%E9%97%9C%E7%A2%BC%E9%A0%AD.JPG",
    "artist": "Ianbu",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/danshui-haiguanmatou-0.webp",
+   "small": "img/danshui-haiguanmatou-0-s.webp"
   }
  ],
  "danshui-fuyougong": [
@@ -198,7 +200,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E6%B7%A1%E6%B0%B4%E7%A6%8F%E4%BD%91%E5%AE%AE.JPG",
    "artist": "Pbdragonwang",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/danshui-fuyougong-0.webp",
+   "small": "img/danshui-fuyougong-0-s.webp"
   }
  ],
  "danshui-libaitang": [
@@ -218,7 +222,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E6%B7%A1%E6%B0%B4%E8%87%BA%E9%8A%80%E6%97%A5%E5%BC%8F%E5%AE%BF%E8%88%8D0088.jpg",
    "artist": "林高志",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/danshui-taiyinrishisushe-0.webp",
+   "small": "img/danshui-taiyinrishisushe-0-s.webp"
   }
  ],
  "danshui-jiezhangduotian": [
@@ -228,7 +234,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E6%B7%A1%E6%B0%B4%E8%A1%97%E9%95%B7%E5%A4%9A%E7%94%B0%E6%A6%AE%E5%90%89%E6%95%85%E5%B1%85.jpg",
    "artist": "Pbdragonwang",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/danshui-jiezhangduotian-0.webp",
+   "small": "img/danshui-jiezhangduotian-0-s.webp"
   }
  ],
  "danshui-chongjianjiehaojie": [
@@ -238,7 +246,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E6%B7%A1%E6%B0%B4%E9%87%8D%E5%BB%BA%E8%A1%97%E8%A1%97%E5%B1%8B02.jpg",
    "artist": "Pbdragonwang",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/danshui-chongjianjiehaojie-0.webp",
+   "small": "img/danshui-chongjianjiehaojie-0-s.webp"
   }
  ],
  "danshui-chongjianjiehaojie2": [
@@ -248,7 +258,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E6%B7%A1%E6%B0%B4%E9%87%8D%E5%BB%BA%E8%A1%97%E8%A1%97%E5%B1%8B01.jpg",
    "artist": "Pbdragonwang",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/danshui-chongjianjiehaojie2-0.webp",
+   "small": "img/danshui-chongjianjiehaojie2-0-s.webp"
   }
  ],
  "danshui-longshansi": [
@@ -258,7 +270,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E6%B7%A1%E6%B0%B4%E9%BE%8D%E5%B1%B1%E5%AF%BA%E5%85%A7%E6%99%AF.jpg",
    "artist": "Pbdragonwang",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/danshui-longshansi-0.webp",
+   "small": "img/danshui-longshansi-0-s.webp"
   }
  ],
  "danshui-huweixieyiguan": [
