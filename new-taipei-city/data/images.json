@@ -1252,7 +1252,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E6%B7%B1%E5%9D%91%E9%BB%83%E6%B0%8F%E6%B0%B8%E5%AE%89%E5%B1%85_174328.jpg",
    "artist": "林高志",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/shenkeng-huangshixingshunju-0.webp",
+   "small": "img/shenkeng-huangshixingshunju-0-s.webp"
   }
  ],
  "shenkeng-guoxiaolitang": [
@@ -1262,7 +1264,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E6%B7%B1%E5%9D%91%E5%9C%8B%E5%B0%8F%E7%A6%AE%E5%A0%82_161051.jpg",
    "artist": "林高志",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/shenkeng-guoxiaolitang-0.webp",
+   "small": "img/shenkeng-guoxiaolitang-0-s.webp"
   }
  ],
  "pinglin-weiqiao": [
@@ -1272,7 +1276,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E5%9D%AA%E6%9E%97%E5%B0%BE%E6%A9%8B2.jpg",
    "artist": "Outlookxp",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/pinglin-weiqiao-0.webp",
+   "small": "img/pinglin-weiqiao-0-s.webp"
   }
  ],
  "xizhi-jiadongjiaotaiwan": [
@@ -1282,7 +1288,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:Qiedongjiao_Railway_Remains_Park_sign_20180616.jpg",
    "artist": "Solomon203",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/xizhi-jiadongjiaotaiwan-0.webp",
+   "small": "img/xizhi-jiadongjiaotaiwan-0-s.webp"
   }
  ],
  "xizhi-wudutielusuidao": [
@@ -1292,7 +1300,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E7%AC%AC%E4%B8%80%E4%BB%A3%E4%BA%94%E5%A0%B5%E9%9A%A7%E9%81%93.jpg",
    "artist": "M940504",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/xizhi-wudutielusuidao-0.webp",
+   "small": "img/xizhi-wudutielusuidao-0-s.webp"
   }
  ],
  "xizhi-zhongshunmiaoji": [
@@ -1302,7 +1312,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E6%B1%90%E6%AD%A2%E5%BF%A0%E9%A0%86%E5%BB%9F%E5%8F%8A%E7%A5%9E%E7%A4%BE%E7%9F%B3%E7%87%881.jpg",
    "artist": "林高志",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/xizhi-zhongshunmiaoji-0.webp",
+   "small": "img/xizhi-zhongshunmiaoji-0-s.webp"
   }
  ],
  "xizhi-shuidaobushejibei": [
@@ -1312,7 +1324,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:2022_Stele_for_the_Construction_of_Xizhi_Water_Channel_i.jpg",
    "artist": "Taiwankengo",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/xizhi-shuidaobushejibei-0.webp",
+   "small": "img/xizhi-shuidaobushejibei-0-s.webp"
   }
  ],
  "xizhi-baiyunpaichusuo": [
@@ -1322,7 +1336,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:2020_Xizhi_Baiyun_Police_Station_i.jpg",
    "artist": "Taiwankengo",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/xizhi-baiyunpaichusuo-0.webp",
+   "small": "img/xizhi-baiyunpaichusuo-0-s.webp"
   }
  ],
  "xizhi-duyueshengmuyuan": [
@@ -1332,7 +1348,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:Tomb_of_Du_Yuesheng.jpg",
    "artist": "M940504",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/xizhi-duyueshengmuyuan-0.webp",
+   "small": "img/xizhi-duyueshengmuyuan-0-s.webp"
   }
  ],
  "pingxi-nanwudabeijiuku": [
@@ -1342,7 +1360,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E5%B9%B3%E6%BA%AA%E5%8D%97%E7%84%A1%E5%A4%A7%E6%82%B2%E6%95%91%E8%8B%A6%E8%A7%80%E4%B8%96%E9%9F%B3%E8%8F%A9%E8%96%A9%E7%A2%A3.JPG",
    "artist": "王聖鎰",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/pingxi-nanwudabeijiuku-0.webp",
+   "small": "img/pingxi-nanwudabeijiuku-0-s.webp"
   }
  ],
  "pingxi-lingjiaocaijiahong": [
@@ -1352,7 +1372,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:2020_LingJiaoLiao_Cai_Family_Mansion_i.jpg",
    "artist": "Taiwankengo",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/pingxi-lingjiaocaijiahong-0.webp",
+   "small": "img/pingxi-lingjiaocaijiahong-0-s.webp"
   }
  ],
  "pingxi-taiyangkuangyegong": [
@@ -1362,7 +1384,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:Pingxi_Reception_Center_of_Taiyang_Mining_Company.JPG",
    "artist": "SSR2000",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/pingxi-taiyangkuangyegong-0.webp",
+   "small": "img/pingxi-taiyangkuangyegong-0-s.webp"
   }
  ],
  "pingxi-jingtongchezhan": [
@@ -1372,7 +1396,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:TRA_Jingtong_Station,New-Tapei-city,Taiwan.jpg",
    "artist": "katorisi",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/pingxi-jingtongchezhan-0.webp",
+   "small": "img/pingxi-jingtongchezhan-0-s.webp"
   }
  ],
  "pingxi-taiyangkuangye": [
@@ -1382,7 +1408,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:2021_The_House_of_ShiDi_Colliery_Manage_in_Pingxi.jpg",
    "artist": "Taiwankengo",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/pingxi-taiyangkuangye-0.webp",
+   "small": "img/pingxi-taiyangkuangye-0-s.webp"
   }
  ],
  "pingxi-songdebei": [
@@ -1392,7 +1420,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E5%B9%B3%E6%BA%AA%E9%A0%8C%E5%BE%B7%E7%A2%91.JPG",
    "artist": "Honmingjun",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/pingxi-songdebei-0.webp",
+   "small": "img/pingxi-songdebei-0-s.webp"
   }
  ],
  "pingxi-xinpingximeikuang": [
@@ -1402,7 +1432,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:Taiwan_Coal_Mine_Museum_2007-07-10_01.jpg",
    "artist": "Cheng-en Cheng",
    "license": "CC BY-SA 2.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "local": "img/pingxi-xinpingximeikuang-0.webp",
+   "small": "img/pingxi-xinpingximeikuang-0-s.webp"
   }
  ],
  "ruifang-sijiaotingpaotai": [
@@ -1412,7 +1444,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E5%9B%9B%E8%85%B3%E4%BA%AD%E7%A0%B2%E5%8F%B0FUJI5446.jpg",
    "artist": "Taiwankengo",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/ruifang-sijiaotingpaotai-0.webp",
+   "small": "img/ruifang-sijiaotingpaotai-0-s.webp"
   }
  ],
  "ruifang-jinzibei": [
@@ -1422,7 +1456,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E9%87%91%E5%AD%97%E7%A2%91.JPG",
    "artist": "Engin",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/ruifang-jinzibei-0.webp",
+   "small": "img/ruifang-jinzibei-0-s.webp"
   }
  ],
  "ruifang-jinguashitaizibin": [
@@ -1432,7 +1468,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E9%87%91%E7%93%9C%E7%9F%B3%E5%A4%AA%E5%AD%90%E8%B3%93%E9%A4%A8.jpg",
    "artist": "Axe77",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/ruifang-jinguashitaizibin-0.webp",
+   "small": "img/ruifang-jinguashitaizibin-0-s.webp"
   }
  ],
  "ruifang-jinguashikuangye": [
@@ -1442,7 +1480,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E9%87%91%E7%93%9C%E7%9F%B3-%E5%A4%96%E4%B9%9D%E4%BB%BD%E6%BA%AA%E5%9C%B3%E6%A9%8B.jpg",
    "artist": "Hakken2020",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/ruifang-jinguashikuangye-0.webp",
+   "small": "img/ruifang-jinguashikuangye-0-s.webp"
   }
  ],
  "ruifang-jinguashishenshe": [
@@ -1452,7 +1492,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:Ogon_jinja_1.JPG",
    "artist": "Koika",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "local": "img/ruifang-jinguashishenshe-0.webp",
+   "small": "img/ruifang-jinguashishenshe-0-s.webp"
   }
  ],
  "ruifang-shuinandongbenshan": [
@@ -1462,7 +1504,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E6%B0%B4%E6%B9%B3%E6%B4%9E%E6%9C%AC%E5%B1%B1%E5%85%AD%E5%9D%91%E5%8F%A3%E5%8F%8A%E7%B4%A2%E9%81%93%E7%B3%BB%E7%B5%B1.jpg",
    "artist": "Taiwankengo",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "local": "img/ruifang-shuinandongbenshan-0.webp",
+   "small": "img/ruifang-shuinandongbenshan-0-s.webp"
   }
  ],
  "ruifang-shuinandongxuan": [
