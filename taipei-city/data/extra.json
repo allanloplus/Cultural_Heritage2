@@ -1,0 +1,274 @@
+{
+  "intro": [
+    {
+      "who": "A",
+      "text": "嗨，我是 Allan Lo！今天我們從臺北車站出發，往南走幾步，就是一百多年前的臺北城。"
+    },
+    {
+      "who": "R",
+      "text": "我是阿拉蕾！臺北我每天都在逛，捷運、夜市、101，還有什麼是我不知道的嗎？"
+    },
+    {
+      "who": "A",
+      "text": "多著呢！臺北市的有形文化資產一共579處，是全臺灣最多的縣市，國定古蹟就有20處。"
+    },
+    {
+      "who": "R",
+      "text": "579處！那一天逛十處，也要將近兩個月耶！"
+    },
+    {
+      "who": "A",
+      "text": "所以要挑重點。總統府、臺北賓館、臺灣總督府博物館，還有臺北府城的東門、南門、小南門和北門，都在博愛特區附近。"
+    },
+    {
+      "who": "R",
+      "text": "那大稻埕和艋舺呢？我聽說那裡才是臺北最早熱鬧起來的地方！"
+    },
+    {
+      "who": "A",
+      "text": "沒錯，先有艋舺的龍山寺和青山宮，後有大稻埕的迪化街和霞海城隍廟，大同區光是文資就有153處，很多是店屋。"
+    },
+    {
+      "who": "R",
+      "text": "店屋大多還有人住或在做生意吧？那我們要怎麼參觀？"
+    },
+    {
+      "who": "A",
+      "text": "問得好！請在騎樓和街道上欣賞立面，不要擅自進門；總統府、行政院這些機關，開放時間要看官方公告。"
+    },
+    {
+      "who": "R",
+      "text": "收到！那我們出發吧，先打開文資地圖，看看大稻埕的點點有多密！"
+    }
+  ],
+  "timeIntro": [
+    {
+      "who": "R",
+      "text": "Allan，臺北的時光地圖要從哪裡開始看？"
+    },
+    {
+      "who": "A",
+      "text": "第一期叫凱達格蘭族與西荷時期。十七世紀的臺北盆地是凱達格蘭族各社的家，西班牙人和荷蘭人曾經進來探查和徵稅。"
+    },
+    {
+      "who": "A",
+      "text": "清代先有艋舺、再有大稻埕，1884年臺北府城完工；疊上1904年的臺灣堡圖，還看得到城門和城牆的位置。"
+    },
+    {
+      "who": "R",
+      "text": "那日治時期呢？我要找找三線道路和總督府！"
+    },
+    {
+      "who": "A",
+      "text": "可以疊上1921年地形圖和1945年美軍繪製的臺北市街圖，把透明度拉一拉，城內的街廓就出來了！"
+    }
+  ],
+  "planIntro": [
+    {
+      "who": "A",
+      "text": "臺北市區景點很集中，行程預設騎 YouBike，捷運站附近幾乎都有站點。"
+    },
+    {
+      "who": "R",
+      "text": "那陽明山、北投山區和外雙溪呢？那裡坡很陡耶！"
+    },
+    {
+      "who": "A",
+      "text": "山區建議搭捷運轉公車或開車；颱風、豪雨過後，山區道路和步道可能封閉，出發前記得先查路況。"
+    },
+    {
+      "who": "R",
+      "text": "中午我要在大稻埕吃米粉湯，晚上去寧夏夜市，行程就這樣決定了！"
+    }
+  ],
+  "gameIntro": [
+    {
+      "who": "R",
+      "text": "臺北城遊戲場開張！問答王、時光排序、猜猜我是誰、翻翻樂，還有臺北城擲骰大冒險！"
+    },
+    {
+      "who": "A",
+      "text": "題目從臺北府城、總統府，一路考到大稻埕的店屋、艋舺龍山寺和北投溫泉，看你能不能全部答對。"
+    },
+    {
+      "who": "R",
+      "text": "Allan，擲骰子我要像捷運一樣，準點又快速，一路衝到終點！"
+    },
+    {
+      "who": "A",
+      "text": "哈哈，那就從臺北車站出發，比比看吧！"
+    }
+  ],
+  "reactions": [
+    {
+      "who": "R",
+      "text": "答對了！你根本就是臺北城文資通！"
+    },
+    {
+      "who": "A",
+      "text": "正確答案！給你一個大大的讚。"
+    },
+    {
+      "who": "R",
+      "text": "哎呀，答錯了，沒關係，看看解說再挑戰！"
+    },
+    {
+      "who": "A",
+      "text": "可惜！差一點點，下次一定行。"
+    },
+    {
+      "who": "R",
+      "text": "換我擲骰子囉！看我的！"
+    },
+    {
+      "who": "A",
+      "text": "恭喜你贏了！今天大稻埕的米粉湯和艋舺的青草茶算我的！"
+    },
+    {
+      "who": "R",
+      "text": "耶！這一局是我贏了，要不要再來一局？"
+    },
+    {
+      "who": "A",
+      "text": "平手！你們兩個都是文資高手。"
+    },
+    {
+      "who": "R",
+      "text": "時光排序完成！你從圓山的史前貝塚，一路排到今天的臺北捷運，好厲害！"
+    },
+    {
+      "who": "A",
+      "text": "恭喜集到新的護照印章！"
+    },
+    {
+      "who": "R",
+      "text": "全部配對成功，記憶力滿分！"
+    },
+    {
+      "who": "A",
+      "text": "嗯，這一題我們一起看看解說。"
+    }
+  ],
+  "starts": [
+    {
+      "id": "taipei",
+      "name": "臺北車站（臺鐵、高鐵、捷運）",
+      "lat": 25.04772,
+      "lng": 121.51712
+    },
+    {
+      "id": "ximen",
+      "name": "捷運西門站（西門町、艋舺）",
+      "lat": 25.04241,
+      "lng": 121.50825
+    },
+    {
+      "id": "jiantan",
+      "name": "捷運劍潭站（士林、北投）",
+      "lat": 25.08417,
+      "lng": 121.52495
+    },
+    {
+      "id": "gps",
+      "name": "我的目前位置",
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": "pick",
+      "name": "在地圖上點選出發點",
+      "lat": null,
+      "lng": null
+    }
+  ],
+  "plans": {
+    "1": {
+      "name": "一日：臺北府城與博愛特區（鐵道部、臺北郵局、中山堂、總統府、臺灣銀行、臺博館、臺北賓館、臺大醫院舊館、中正紀念堂、府城城門）",
+      "days": [
+        [
+          "datong-taiwanzongdufujiao",
+          "zhongzheng-youju",
+          "zhongzheng-gonghuitang",
+          "zhongzheng-zongtongfu",
+          "zhongzheng-taiwanyinxing",
+          "zhongzheng-taiwanzongdufubowu",
+          "zhongzheng-binguan",
+          "zhongzheng-taidayiyuanjiuguan",
+          "zhongzheng-taiwanminzhujinian",
+          "zhongzheng-fuchengdongmennan"
+        ]
+      ]
+    },
+    "2": {
+      "name": "二日：臺北府城與博愛特區一天 ＋ 大稻埕與艋舺一天（老師府、孔廟、保安宮、迪化街、霞海城隍廟、西門紅樓、清水巖、青山宮、龍山寺、剝皮寮）",
+      "days": [
+        [
+          "datong-taiwanzongdufujiao",
+          "zhongzheng-youju",
+          "zhongzheng-gonghuitang",
+          "zhongzheng-zongtongfu",
+          "zhongzheng-taiwanyinxing",
+          "zhongzheng-taiwanzongdufubowu",
+          "zhongzheng-binguan",
+          "zhongzheng-taidayiyuanjiuguan",
+          "zhongzheng-taiwanminzhujinian",
+          "zhongzheng-fuchengdongmennan"
+        ],
+        [
+          "datong-chenyuejizuzhai",
+          "datong-kongzimiao",
+          "datong-dalongdongbaoan",
+          "datong-dihuajieyiduanhao4",
+          "datong-xiahaichenghuang",
+          "wanhua-ximenhonglou",
+          "wanhua-mengxiaqingshuiyan",
+          "wanhua-mengxiaqingshan",
+          "wanhua-mengxialongshansi",
+          "wanhua-bopiliaolishijian"
+        ]
+      ]
+    },
+    "3": {
+      "name": "三日：再加士林與北投一天（士林官邸、芝山岩、故宮、林語堂故居、新北投車站、北投公園、溫泉博物館、普濟寺、北投文物館）",
+      "days": [
+        [
+          "datong-taiwanzongdufujiao",
+          "zhongzheng-youju",
+          "zhongzheng-gonghuitang",
+          "zhongzheng-zongtongfu",
+          "zhongzheng-taiwanyinxing",
+          "zhongzheng-taiwanzongdufubowu",
+          "zhongzheng-binguan",
+          "zhongzheng-taidayiyuanjiuguan",
+          "zhongzheng-taiwanminzhujinian",
+          "zhongzheng-fuchengdongmennan"
+        ],
+        [
+          "datong-chenyuejizuzhai",
+          "datong-kongzimiao",
+          "datong-dalongdongbaoan",
+          "datong-dihuajieyiduanhao4",
+          "datong-xiahaichenghuang",
+          "wanhua-ximenhonglou",
+          "wanhua-mengxiaqingshuiyan",
+          "wanhua-mengxiaqingshan",
+          "wanhua-mengxialongshansi",
+          "wanhua-bopiliaolishijian"
+        ],
+        [
+          "shilin-jiangzhongzheng",
+          "shilin-zhishanyanhuiji",
+          "shilin-zhishanyankaoguyi",
+          "shilin-guoligugongbowu",
+          "shilin-linyutangguju",
+          "beitou-xinbeitouchezhan",
+          "beitou-gongyuanjizhoubian",
+          "beitou-gonggongyuchang",
+          "beitou-pujisi",
+          "beitou-wenwuguan"
+        ]
+      ]
+    }
+  },
+  "food": []
+}

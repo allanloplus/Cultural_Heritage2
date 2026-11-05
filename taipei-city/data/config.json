@@ -74,7 +74,33 @@
     "bikeMaxKm": 10,
     "ubikeStationMaxKm": 0.8,
     "farKm": 30,
-    "noVisit": {}
+    "noVisit": {
+      "beitou-zhongguodianying": "位在中影廠區內，中影文化城已結束營業，只有特定活動時才開放",
+      "beitou-guomingemingjun": "位在國防大學政治作戰學院校園內，一般民眾不能自由進出",
+      "beitou-fuxingwudejingshen": "位在國防大學政治作戰學院校園內，一般民眾不能自由進出",
+      "beitou-guandurijunzhen": "位在私有土地上，未對外開放",
+      "shilin-redaiyixueyanjiu": "戰後改為國防軍事用地，一般民眾無法進入",
+      "shilin-qurenminluhao": "美國在臺協會官邸，不對外開放",
+      "shilin-zhichang": "私有廠區，關廠後沒有開放",
+      "shilin-huangchengjinmu": "私人家族墓園，不宜作為一般參觀點",
+      "neihu-lutongzhicang": "私有產權，沒有開放",
+      "nangang-wangyidemu": "位在國防部軍備局第202廠內，屬軍事管制區",
+      "zhongshan-qiao": "2003年已拆解成構件暫存，現場看不到原橋",
+      "zhongshan-zhishenglou": "位在大同公司廠區內，屬私人企業產業",
+      "zhongzheng-yanjiaganguju": "目前沒有對外開放",
+      "zhongzheng-datongzhijia": "目前沒有對外開放",
+      "zhongzheng-taiwanjunsilingbu": "仍是軍方營區，一般民眾不能進入",
+      "zhongzheng-qixingjunyisuo": "今為立法院會館，一般民眾無法入內",
+      "zhongzheng-waijiaobubangongda": "外交部辦公處所，位在政府機關管制區",
+      "zhongzheng-fanxuetangyigou": "位在臺北地方法院院區內，沒有常態開放",
+      "zhongzheng-huashanhuoyunzhan": "周邊為司法園區工區，只能在外圍遠看",
+      "wanhua-huaxijiejihaodian2": "2025年遭火災，私人產權、結構受損",
+      "daan-xianeipuyingshe": "建物已拆除，原址為學校用地",
+      "daan-longanpohuangzhai": "位在龍門國中校園內，平時不對外開放",
+      "xinyi-xinwutai": "原表演廳已於2017年拆除，原址待重建",
+      "wenshan-gemingshijianyan": "私有院區，一般民眾不能進入",
+      "wenshan-gemingshijianyan2": "位在私有院區內，沒有常態對外開放"
+    }
   },
   "eras": {
     "dutch": {
