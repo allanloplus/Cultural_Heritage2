@@ -1,0 +1,8 @@
+{
+"meta": {
+"source": "YouBike 微笑單車官方站點資料 https://apis.youbike.com.tw/json/station-yb2.json",
+"area_code": "05",
+"note": "新北市 YouBike 2.0 站點；即時車輛於網頁上即時查詢"
+},
+"stations": []
+}
