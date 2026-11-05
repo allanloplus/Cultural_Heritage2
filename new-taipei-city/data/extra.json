@@ -212,7 +212,7 @@
       ]
     },
     "2": {
-      "name": "二日：淡水一天 ＋ 九份、金瓜石、水湳洞與猴硐一天（瑞三鑛業、猴硐神社鳥居、太子賓館、金瓜石神社、本山六坑與選煉廠遠眺）",
+      "name": "二日：淡水一天 ＋ 九份、金瓜石、水湳洞與猴硐一天（瑞三鑛業、猴硐神社鳥居、猴硐隧道群、金瓜石神社、本山六坑與選煉廠遠眺）",
       "days": [
         [
           "danshui-yinshansi",
@@ -229,9 +229,9 @@
         [
           "ruifang-ruisankuangye",
           "ruifang-houdongshensheniao",
+          "ruifang-jiuyilanxianhou",
           "ruifang-taiyanggongsirui",
           "ruifang-jinguashikuangshan",
-          "ruifang-jinguashitaizibin",
           "ruifang-jinguashishenshe",
           "ruifang-shuinandongbenshan",
           "ruifang-shuinandongxuan"
@@ -239,7 +239,7 @@
       ]
     },
     "3": {
-      "name": "三日：淡水、九份金瓜石 ＋ 鶯歌與三峽一天（鶯歌石、合興窯煙囪、烘爐窯、汪洋居、三峽長福巖、三峽拱橋、庄役場、宰樞廟）",
+      "name": "三日：淡水、九份金瓜石 ＋ 鶯歌與三峽一天（鶯歌石、合興窯煙囪、汪洋居、三峽長福巖、三峽拱橋、庄役場、宰樞廟、善德橋）",
       "days": [
         [
           "danshui-yinshansi",
@@ -256,9 +256,9 @@
         [
           "ruifang-ruisankuangye",
           "ruifang-houdongshensheniao",
+          "ruifang-jiuyilanxianhou",
           "ruifang-taiyanggongsirui",
           "ruifang-jinguashikuangshan",
-          "ruifang-jinguashitaizibin",
           "ruifang-jinguashishenshe",
           "ruifang-shuinandongbenshan",
           "ruifang-shuinandongxuan"
@@ -266,12 +266,12 @@
         [
           "yingge-shi",
           "yingge-hexingyaoyancong",
-          "yingge-hongluyao",
           "yingge-wangyangju",
           "sanxia-zhangfuyanqingshui",
           "sanxia-gongqiao",
           "sanxia-zhuangyichang",
-          "sanxia-zaishumiao"
+          "sanxia-zaishumiao",
+          "sanxia-shandeqiao"
         ]
       ]
     },
@@ -293,7 +293,7 @@
     },
     "pingxi": {
       "label": "加碼：平溪線",
-      "name": "平溪線一日（菁桐車站、臺陽招待所與鑛長宿舍、平溪頌德碑、觀世音菩薩碣、嶺腳蔡家洋樓、公園頂歷史建築群、新平溪煤礦；竿蓁坑古道請另排半天）",
+      "name": "平溪線一日（菁桐車站、臺陽招待所與鑛長宿舍、平溪頌德碑、觀世音菩薩碣、公園頂歷史建築群、新平溪煤礦；竿蓁坑古道請另排半天）",
       "days": [
         [
           "pingxi-jingtongchezhan",
@@ -301,7 +301,6 @@
           "pingxi-taiyangkuangye",
           "pingxi-songdebei",
           "pingxi-nanwudabeijiuku",
-          "pingxi-lingjiaocaijiahong",
           "pingxi-gongyuandinglishi",
           "pingxi-xinpingximeikuang"
         ]
