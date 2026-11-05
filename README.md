@@ -12,7 +12,7 @@
 | 第一網站 | [allanloplus/Cultural_Heritage](https://github.com/allanloplus/Cultural_Heritage) | https://cultural.123hi.org/（自訂網域；舊網址 allanloplus.github.io/Cultural_Heritage/ 會自動轉過去） | 全站首頁、共用程式（`assets/`）、所有工具（`tools/`）、作業手冊，以及嘉義市、嘉義縣、雲林縣、臺南市、高雄市、屏東縣、臺東縣、金門縣、宜蘭縣、花蓮縣、連江縣、澎湖縣、基隆市 |
 | 第二網站（本 repo） | allanloplus/Cultural_Heritage2 | https://cultural2.123hi.org/（自訂網域；舊網址 allanloplus.github.io/Cultural_Heritage2/ 會自動轉過去） | 只放縣市資料夾：臺北市、新北市、桃園市、新竹市、新竹縣、苗栗縣、臺中市、彰化縣、南投縣（完成後陸續加入） |
 
-目前開放：**南投縣**（https://cultural2.123hi.org/nantou-county/）、**彰化縣**（https://cultural2.123hi.org/changhua-county/）、**臺中市**（https://cultural2.123hi.org/taichung-city/）、**新竹市**（https://cultural2.123hi.org/hsinchu-city/）、**新竹縣**（https://cultural2.123hi.org/hsinchu-county/）、**桃園市**（https://cultural2.123hi.org/taoyuan-city/）。
+目前開放：**南投縣**（https://cultural2.123hi.org/nantou-county/）、**彰化縣**（https://cultural2.123hi.org/changhua-county/）、**臺中市**（https://cultural2.123hi.org/taichung-city/）、**新竹市**（https://cultural2.123hi.org/hsinchu-city/）、**新竹縣**（https://cultural2.123hi.org/hsinchu-county/）、**桃園市**（https://cultural2.123hi.org/taoyuan-city/）、**苗栗縣**（https://cultural2.123hi.org/miaoli-county/）。
 
 - 本 repo 根目錄的 `index.html` 會自動轉到第一網站的全站首頁 https://cultural.123hi.org/。
 - 這裡的縣市頁用第一網站的網址 `https://cultural.123hi.org/assets/…` 載入共用程式與角色圖，`https://cultural.123hi.org/assets/js/cities.js` 提供切換縣市選單；「全站首頁」連回 `https://cultural.123hi.org/`。網址設定在第一網站 `assets/js/cities.js` 的 `SITES`。
