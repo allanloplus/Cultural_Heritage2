@@ -2198,7 +2198,8 @@
   ],
   "lat": 25.079316555338114,
   "lng": 121.2860404053075,
-  "coordNote": "官方座標"
+  "coordNote": "官方座標",
+  "privateHome": true
  },
  {
   "id": "luzhu-qianneizhengbubei2",
@@ -2756,7 +2757,8 @@
   ],
   "lat": 25.081057,
   "lng": 121.166484,
-  "coordNote": "官方座標"
+  "coordNote": "官方座標",
+  "privateHome": true
  },
  {
   "id": "dayuan-jianshanpeishuichi",
@@ -4636,7 +4638,8 @@
   ],
   "lat": 24.8977807983817,
   "lng": 121.148884449805,
-  "coordNote": "官方座標"
+  "coordNote": "官方座標",
+  "privateHome": true
  },
  {
   "id": "yangmei-chayegailiangchang",
@@ -5095,7 +5098,8 @@
   ],
   "lat": 24.96008,
   "lng": 121.20457,
-  "coordNote": "官方座標"
+  "coordNote": "官方座標",
+  "privateHome": true
  },
  {
   "id": "zhongli-ranlidihonglou",
@@ -6729,7 +6733,8 @@
   ],
   "lat": 24.9272621780985,
   "lng": 121.280461606042,
-  "coordNote": "官方座標"
+  "coordNote": "官方座標",
+  "privateHome": true
  },
  {
   "id": "bade-zhongzhengtang",
@@ -6909,7 +6914,8 @@
   ],
   "lat": 24.9351,
   "lng": 121.28344,
-  "coordNote": "官方座標"
+  "coordNote": "官方座標",
+  "privateHome": true
  },
  {
   "id": "bade-yuzhuju",
@@ -7364,7 +7370,8 @@
   ],
   "lat": 24.9343395,
   "lng": 121.28743680000002,
-  "coordNote": "官方座標"
+  "coordNote": "官方座標",
+  "privateHome": true
  },
  {
   "id": "longtan-wengxintongdawu",
@@ -8831,7 +8838,8 @@
   ],
   "lat": 24.88269,
   "lng": 121.28761,
-  "coordNote": "官方座標"
+  "coordNote": "官方座標",
+  "privateHome": true
  },
  {
   "id": "daxi-zhongyangluliao",
@@ -9196,7 +9204,8 @@
   ],
   "lat": 24.8806165642237,
   "lng": 121.287789517772,
-  "coordNote": "官方座標"
+  "coordNote": "官方座標",
+  "privateHome": true
  },
  {
   "id": "daxi-zhongshanluhao",
@@ -9650,7 +9659,8 @@
   ],
   "lat": 24.8847245473573,
   "lng": 121.2885915651,
-  "coordNote": "官方座標"
+  "coordNote": "官方座標",
+  "privateHome": true
  },
  {
   "id": "daxi-hepingluxiexing",
@@ -9742,7 +9752,8 @@
   ],
   "lat": 24.8847286,
   "lng": 121.28832250000005,
-  "coordNote": "官方座標"
+  "coordNote": "官方座標",
+  "privateHome": true
  },
  {
   "id": "daxi-hepingluguangda",
@@ -9829,7 +9840,8 @@
   ],
   "lat": 24.8847640958753,
   "lng": 121.288445525984,
-  "coordNote": "官方座標"
+  "coordNote": "官方座標",
+  "privateHome": true
  },
  {
   "id": "daxi-hepinglulijixing",
@@ -9920,7 +9932,8 @@
   ],
   "lat": 24.8850398487828,
   "lng": 121.287567356771,
-  "coordNote": "官方座標"
+  "coordNote": "官方座標",
+  "privateHome": true
  },
  {
   "id": "daxi-hepingluyongfa",
@@ -10012,7 +10025,8 @@
   ],
   "lat": 24.88474849466,
   "lng": 121.288497596578,
-  "coordNote": "官方座標"
+  "coordNote": "官方座標",
+  "privateHome": true
  },
  {
   "id": "daxi-hepingluyubaotang",
@@ -10103,7 +10117,8 @@
   ],
   "lat": 24.8846198071354,
   "lng": 121.288620703466,
-  "coordNote": "官方座標"
+  "coordNote": "官方座標",
+  "privateHome": true
  },
  {
   "id": "daxi-hepinglushengyuan",
@@ -10191,7 +10206,8 @@
   ],
   "lat": 24.88472,
   "lng": 121.28837,
-  "coordNote": "官方座標"
+  "coordNote": "官方座標",
+  "privateHome": true
  },
  {
   "id": "daxi-hepinglumaofa",
@@ -10282,7 +10298,8 @@
   ],
   "lat": 24.8847807162061,
   "lng": 121.288400251751,
-  "coordNote": "官方座標"
+  "coordNote": "官方座標",
+  "privateHome": true
  },
  {
   "id": "daxi-hepinglujinyuan",
@@ -10370,7 +10387,8 @@
   ],
   "lat": 24.8853950700302,
   "lng": 121.286956852285,
-  "coordNote": "官方座標"
+  "coordNote": "官方座標",
+  "privateHome": true
  },
  {
   "id": "daxi-hepinglujinjitong",
@@ -10461,7 +10479,8 @@
   ],
   "lat": 24.8851191206856,
   "lng": 121.287445079619,
-  "coordNote": "官方座標"
+  "coordNote": "官方座標",
+  "privateHome": true
  },
  {
   "id": "daxi-hepinglujinfa",
@@ -10552,7 +10571,8 @@
   ],
   "lat": 24.8853817172863,
   "lng": 121.286997474734,
-  "coordNote": "官方座標"
+  "coordNote": "官方座標",
+  "privateHome": true
  },
  {
   "id": "daxi-guoxiaorishisushe",
@@ -10825,7 +10845,8 @@
   ],
   "lat": 24.88179,
   "lng": 121.28637,
-  "coordNote": "官方座標"
+  "coordNote": "官方座標",
+  "privateHome": true
  },
  {
   "id": "daxi-lijinxinggongdian",
@@ -10917,7 +10938,8 @@
   ],
   "lat": 24.88134,
   "lng": 121.28763,
-  "coordNote": "官方座標"
+  "coordNote": "官方座標",
+  "privateHome": true
  },
  {
   "id": "daxi-lijinxingmuyuan",
@@ -11377,7 +11399,8 @@
   ],
   "lat": 24.8454443835972,
   "lng": 121.275844799716,
-  "coordNote": "官方座標"
+  "coordNote": "官方座標",
+  "privateHome": true
  },
  {
   "id": "daxi-lanshi",
