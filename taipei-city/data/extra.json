@@ -183,17 +183,14 @@
   ],
   "plans": {
     "1": {
-      "name": "一日：臺北府城與博愛特區（鐵道部、臺北郵局、中山堂、總統府、臺灣銀行、臺博館、臺北賓館、臺大醫院舊館、中正紀念堂、府城城門）",
+      "name": "一日：臺北府城與博愛特區（臺北郵局、中山堂、總統府、臺博館、臺北賓館、中正紀念堂、府城城門）",
       "days": [
         [
-          "datong-taiwanzongdufujiao",
           "zhongzheng-youju",
           "zhongzheng-gonghuitang",
           "zhongzheng-zongtongfu",
-          "zhongzheng-taiwanyinxing",
           "zhongzheng-taiwanzongdufubowu",
           "zhongzheng-binguan",
-          "zhongzheng-taidayiyuanjiuguan",
           "zhongzheng-taiwanminzhujinian",
           "zhongzheng-fuchengdongmennan"
         ]
@@ -203,14 +200,11 @@
       "name": "二日：臺北府城與博愛特區一天 ＋ 大稻埕與艋舺一天（老師府、孔廟、保安宮、迪化街、霞海城隍廟、西門紅樓、清水巖、青山宮、龍山寺、剝皮寮）",
       "days": [
         [
-          "datong-taiwanzongdufujiao",
           "zhongzheng-youju",
           "zhongzheng-gonghuitang",
           "zhongzheng-zongtongfu",
-          "zhongzheng-taiwanyinxing",
           "zhongzheng-taiwanzongdufubowu",
           "zhongzheng-binguan",
-          "zhongzheng-taidayiyuanjiuguan",
           "zhongzheng-taiwanminzhujinian",
           "zhongzheng-fuchengdongmennan"
         ],
@@ -229,17 +223,14 @@
       ]
     },
     "3": {
-      "name": "三日：再加士林與北投一天（士林官邸、芝山岩、故宮、林語堂故居、新北投車站、北投公園、溫泉博物館、普濟寺、北投文物館）",
+      "name": "三日：再加士林與北投一天（士林官邸、芝山岩惠濟宮、故宮、林語堂故居、北投公園、北投溫泉博物館）",
       "days": [
         [
-          "datong-taiwanzongdufujiao",
           "zhongzheng-youju",
           "zhongzheng-gonghuitang",
           "zhongzheng-zongtongfu",
-          "zhongzheng-taiwanyinxing",
           "zhongzheng-taiwanzongdufubowu",
           "zhongzheng-binguan",
-          "zhongzheng-taidayiyuanjiuguan",
           "zhongzheng-taiwanminzhujinian",
           "zhongzheng-fuchengdongmennan"
         ],
@@ -258,14 +249,10 @@
         [
           "shilin-jiangzhongzheng",
           "shilin-zhishanyanhuiji",
-          "shilin-zhishanyankaoguyi",
           "shilin-guoligugongbowu",
           "shilin-linyutangguju",
-          "beitou-xinbeitouchezhan",
           "beitou-gongyuanjizhoubian",
-          "beitou-gonggongyuchang",
-          "beitou-pujisi",
-          "beitou-wenwuguan"
+          "beitou-gonggongyuchang"
         ]
       ]
     }
