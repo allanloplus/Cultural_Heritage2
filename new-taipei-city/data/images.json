@@ -1124,7 +1124,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:Bitan_SuspendBrdg_%26_RockCliff.jpg",
    "artist": "Original uploader was SElephant at zh.wikipedia",
    "license": "CC BY-SA 3.0",
-   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "local": "img/xindian-bitandiaoqiao-0.webp",
+   "small": "img/xindian-bitandiaoqiao-0-s.webp"
   }
  ],
  "xindian-dingweifenmu": [
@@ -1242,7 +1244,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:Yong-an_House.jpg",
    "artist": "Prince Roy from Washington, DC",
    "license": "CC BY 2.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "local": "img/shenkeng-huangshiyonganju-0.webp",
+   "small": "img/shenkeng-huangshiyonganju-0-s.webp"
   }
  ],
  "shenkeng-huangshixingshunju": [
