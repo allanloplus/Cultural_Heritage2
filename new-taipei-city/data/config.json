@@ -3,14 +3,13 @@
   "name": "新北市",
   "short": "新北",
   "center": [
-    25.03,
-    121.6
+    24.99,
+    121.62
   ],
   "zoom": 10,
-  "minZoom": 9,
+  "minZoom": 8,
   "detailZoom": 16,
   "timeZoom": 11,
-  "fitSites": true,
   "categories": [
     "國定古蹟",
     "市定古蹟",
