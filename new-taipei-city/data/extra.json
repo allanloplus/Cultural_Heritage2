@@ -212,7 +212,7 @@
       ]
     },
     "2": {
-      "name": "二日：淡水一天 ＋ 九份、金瓜石、水湳洞與猴硐一天（瑞三鑛業、猴硐神社鳥居、太子賓館、金瓜石神社、選煉廠、煉銅廠煙道）",
+      "name": "二日：淡水一天 ＋ 九份、金瓜石、水湳洞與猴硐一天（瑞三鑛業、猴硐神社鳥居、太子賓館、金瓜石神社、本山六坑與選煉廠遠眺）",
       "days": [
         [
           "danshui-yinshansi",
@@ -234,8 +234,7 @@
           "ruifang-jinguashitaizibin",
           "ruifang-jinguashishenshe",
           "ruifang-shuinandongbenshan",
-          "ruifang-shuinandongxuan",
-          "ruifang-qutaijinliandong"
+          "ruifang-shuinandongxuan"
         ]
       ]
     },
@@ -262,8 +261,7 @@
           "ruifang-jinguashitaizibin",
           "ruifang-jinguashishenshe",
           "ruifang-shuinandongbenshan",
-          "ruifang-shuinandongxuan",
-          "ruifang-qutaijinliandong"
+          "ruifang-shuinandongxuan"
         ],
         [
           "yingge-shi",
