@@ -1,0 +1,64 @@
+{
+  "intro": [
+    {"who": "A", "text": "嗨，我是 Allan Lo！今天我們從捷運淡水站出發，河口的風一吹，就知道來到新北市了。"},
+    {"who": "R", "text": "我是阿拉蕾！新北市把臺北市整個包起來，像一個大甜甜圈，那文化資產是不是也繞了一大圈？"},
+    {"who": "A", "text": "形容得真好！從淡水河口、北海岸、東北角，到九份金瓜石的礦山、平溪的煤礦小鎮，還有三峽、鶯歌和烏來的山城，山海都有故事。"},
+    {"who": "R", "text": "那這裡有幾處文化資產？"},
+    {"who": "A", "text": "有形文化資產一共184處，國定古蹟7處、市定古蹟86處、歷史建築78處，還有紀念建築、考古遺址和文化景觀。"},
+    {"who": "R", "text": "7處國定古蹟！快點名給我聽！"},
+    {"who": "A", "text": "淡水就有紅毛城、滬尾礮臺、理學堂大書院和鄞山寺，再加上新莊廣福宮、板橋林本源園邸和蘆洲李宅。"},
+    {"who": "R", "text": "紅毛城我知道！西班牙人蓋的、荷蘭人改建，後來還當過英國領事館，一座城堡換了好幾個房東！"},
+    {"who": "A", "text": "沒錯，淡水光是文資就有36處，記得留肚子吃阿給；要去東北角、平溪或烏來山區，出發前先查颱風或豪雨後的路況。"},
+    {"who": "R", "text": "那我們出發吧！先打開文資地圖，看看淡水河口的點點有多密！"}
+  ],
+  "timeIntro": [
+    {"who": "R", "text": "Allan，新北的時光地圖要從哪裡開始看？"},
+    {"who": "A", "text": "第一期叫西班牙與荷蘭時期。1629年西班牙人在淡水蓋了聖多明哥城，1642年荷蘭人趕走西班牙人，在原地改建城堡，也就是今天的紅毛城。"},
+    {"who": "A", "text": "清代新莊、艋舺對岸的河港最先熱鬧，接著是板橋林家和三角湧；1884年清法戰爭，法軍在淡水沙崙登陸，被清軍擊退。"},
+    {"who": "R", "text": "那日治時期呢？我要找找九份和金瓜石以前長什麼樣子！"},
+    {"who": "A", "text": "可以疊上臺灣堡圖、1921年地形圖和淡水的美軍地圖，烏來、三峽山區再切換蕃地地形圖，把透明度拉一拉就看得到！"}
+  ],
+  "planIntro": [
+    {"who": "A", "text": "淡水、板橋、新莊、三峽和鶯歌的景點比較集中，行程預設騎 YouBike，捷運站附近的站點很多。"},
+    {"who": "R", "text": "那九份金瓜石、平溪和東北角呢？我看地圖上都在山裡和海邊耶！"},
+    {"who": "A", "text": "那幾區景點分散，建議搭火車、公車或開車；平溪線小火車很好玩，九份假日人多，東北角和烏來山區出發前記得先查路況。"},
+    {"who": "R", "text": "中午我要在淡水吃阿給和魚丸，下午到九份吃芋圓，行程就這樣決定了！"}
+  ],
+  "gameIntro": [
+    {"who": "R", "text": "新北山海遊戲場開張！問答王、時光排序、猜猜我是誰、翻翻樂，還有新北山海擲骰大冒險！"},
+    {"who": "A", "text": "題目從紅毛城、滬尾礮臺，一路考到林本源園邸、九份金瓜石和平溪的菁桐車站，看你能不能全部答對。"},
+    {"who": "R", "text": "Allan，擲骰子我要像平溪線小火車一樣，轟隆轟隆開到終點！"},
+    {"who": "A", "text": "哈哈，那就從捷運淡水站出發，比比看吧！"}
+  ],
+  "reactions": [
+    {"who": "R", "text": "答對了！你根本就是新北山海文資通！"},
+    {"who": "A", "text": "正確答案！給你一個大大的讚。"},
+    {"who": "R", "text": "哎呀，答錯了，沒關係，看看解說再挑戰！"},
+    {"who": "A", "text": "可惜！差一點點，下次一定行。"},
+    {"who": "R", "text": "換我擲骰子囉！看我的！"},
+    {"who": "A", "text": "恭喜你贏了！今天的淡水阿給和九份芋圓算我的！"},
+    {"who": "R", "text": "耶！這一局是我贏了，要不要再來一局？"},
+    {"who": "A", "text": "平手！你們兩個都是文資高手。"},
+    {"who": "R", "text": "時光排序完成！你從十三行的史前鐵器，一路排到今天的淡海輕軌，好厲害！"},
+    {"who": "A", "text": "恭喜集到新的護照印章！"},
+    {"who": "R", "text": "全部配對成功，記憶力滿分！"},
+    {"who": "A", "text": "嗯，這一題我們一起看看解說。"}
+  ],
+  "starts": [
+    {"id": "danshui", "name": "捷運淡水站（淡水區）", "lat": 25.16845, "lng": 121.44588},
+    {"id": "banqiao", "name": "板橋車站（臺鐵、高鐵、捷運）", "lat": 25.0143, "lng": 121.4635},
+    {"id": "ruifang", "name": "臺鐵瑞芳車站（九份金瓜石、平溪線轉乘）", "lat": 25.10907, "lng": 121.80605},
+    {"id": "yingge", "name": "臺鐵鶯歌車站", "lat": 24.95316, "lng": 121.3565},
+    {"id": "sanxia", "name": "三峽老街（民權街）", "lat": 24.93279, "lng": 121.36928},
+    {"id": "gps", "name": "我的目前位置", "lat": null, "lng": null},
+    {"id": "pick", "name": "在地圖上點選出發點", "lat": null, "lng": null}
+  ],
+  "plans": {
+    "1": {"name": "一日：淡水（鄞山寺、龍山寺、福佑宮、滬尾偕醫館、小白宮、理學堂大書院、馬偕墓、紅毛城、海關碼頭、滬尾礮臺）", "days": [["danshui-yinshansi", "danshui-longshansi", "danshui-fuyougong", "danshui-huweixieyiguan", "danshui-qianqingdanshui", "danshui-lixuetangdashuyuan", "danshui-maxiemu", "danshui-hongmaocheng", "danshui-haiguanmatou", "danshui-huweipaotai"]]},
+    "2": {"name": "二日：淡水一天 ＋ 九份、金瓜石、水湳洞與猴硐一天（瑞三鑛業、猴硐神社鳥居、太子賓館、金瓜石神社、選煉廠、煉銅廠煙道）", "days": [["danshui-yinshansi", "danshui-longshansi", "danshui-fuyougong", "danshui-huweixieyiguan", "danshui-qianqingdanshui", "danshui-lixuetangdashuyuan", "danshui-maxiemu", "danshui-hongmaocheng", "danshui-haiguanmatou", "danshui-huweipaotai"], ["ruifang-ruisankuangye", "ruifang-houdongshensheniao", "ruifang-taiyanggongsirui", "ruifang-jinguashikuangshan", "ruifang-jinguashitaizibin", "ruifang-jinguashishenshe", "ruifang-shuinandongbenshan", "ruifang-shuinandongxuan", "ruifang-qutaijinliandong"]]},
+    "3": {"name": "三日：淡水、九份金瓜石 ＋ 鶯歌與三峽一天（鶯歌石、合興窯煙囪、烘爐窯、汪洋居、三峽長福巖、三峽拱橋、庄役場、宰樞廟）", "days": [["danshui-yinshansi", "danshui-longshansi", "danshui-fuyougong", "danshui-huweixieyiguan", "danshui-qianqingdanshui", "danshui-lixuetangdashuyuan", "danshui-maxiemu", "danshui-hongmaocheng", "danshui-haiguanmatou", "danshui-huweipaotai"], ["ruifang-ruisankuangye", "ruifang-houdongshensheniao", "ruifang-taiyanggongsirui", "ruifang-jinguashikuangshan", "ruifang-jinguashitaizibin", "ruifang-jinguashishenshe", "ruifang-shuinandongbenshan", "ruifang-shuinandongxuan", "ruifang-qutaijinliandong"], ["yingge-shi", "yingge-hexingyaoyancong", "yingge-hongluyao", "yingge-wangyangju", "sanxia-zhangfuyanqingshui", "sanxia-gongqiao", "sanxia-zhuangyichang", "sanxia-zaishumiao"]]},
+    "banqiao": {"label": "加碼：板橋新莊", "name": "板橋與新莊一日（林本源園邸、大觀義學、枋橋建學碑、新莊廣福宮、慈祐宮、文昌祠、武德殿、挑水巷隘門、樂生療養院）", "days": [["banqiao-linbenyuanyuandi", "banqiao-daguanyixue", "banqiao-fangqiaojianxuebei", "xinzhuang-guangfugong", "xinzhuang-ciyougong", "xinzhuang-wenchangci", "xinzhuang-wudedian", "xinzhuang-tiaoshuixiangaimen", "xinzhuang-leshengliaoyang"]]},
+    "pingxi": {"label": "加碼：平溪線", "name": "平溪線一日（菁桐車站、臺陽招待所與鑛長宿舍、平溪頌德碑、觀世音菩薩碣、嶺腳蔡家洋樓、公園頂歷史建築群、新平溪煤礦；竿蓁坑古道請另排半天）", "days": [["pingxi-jingtongchezhan", "pingxi-taiyangkuangyegong", "pingxi-taiyangkuangye", "pingxi-songdebei", "pingxi-nanwudabeijiuku", "pingxi-lingjiaocaijiahong", "pingxi-gongyuandinglishi", "pingxi-xinpingximeikuang"]]}
+  },
+  "food": []
+}
