@@ -1,0 +1,1693 @@
+[
+ {
+  "id": "zhunan-zhonggangciyugong",
+  "name": "中港慈裕宮",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "竹南鎮",
+  "types": [
+   "寺廟"
+  ],
+  "announced": "1985-08-19",
+  "address": "竹南鎮中美里民生路7號",
+  "lat": 24.682483,
+  "lng": 120.863753,
+  "open": "5:30-21:30",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/19850819000058",
+  "caseId": "19850819000058",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-01/fc9ed8be-72ec-4184-a421-218d8fb1ca5a/IMG_9134.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "zhunan-quansongyiyuan",
+  "name": "竹南泉松醫院",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "竹南鎮",
+  "types": [
+   "醫院"
+  ],
+  "announced": "2019-12-04",
+  "address": "竹南鎮迎薰路82號",
+  "lat": 24.68189,
+  "lng": 120.86662,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20210505000001",
+  "caseId": "20210505000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-04-26/c2e28dd4-babe-470d-930e-b891d00a184f/竹南泉松醫院S_F93EC35C114EA080876BC1837AAEF5FB.19100904.jpg",
+  "ownership": "私有"
+ },
+ {
+  "id": "zhunan-zhonggangfudegong",
+  "name": "中港福德宮古井",
+  "category": "歷史建築",
+  "level": "",
+  "town": "竹南鎮",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2018-10-16",
+  "address": "竹南鎮中港里街仔頭3號",
+  "lat": 24.6914694,
+  "lng": 120.8530773,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20181022000002",
+  "caseId": "20181022000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-06-16/e13869ef-1ebd-455b-af40-969bd3461cd5/_220524_109.jpg",
+  "ownership": "私有"
+ },
+ {
+  "id": "zhunan-xinzhuzhounongye",
+  "name": "原新竹州農業傳習所廳舍",
+  "category": "歷史建築",
+  "level": "",
+  "town": "竹南鎮",
+  "types": [
+   "產業"
+  ],
+  "announced": "2017-03-15",
+  "address": "竹南鎮崎頂里牧場21號",
+  "lat": 24.713043,
+  "lng": 120.8729021,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20170315000001",
+  "caseId": "20170315000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-14/8a886752-7838-4515-9dd4-c4a746e1830c/IMG_9121.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "zhunan-taitiezhunanzhan",
+  "name": "台鐵竹南站2號倉庫",
+  "category": "歷史建築",
+  "level": "",
+  "town": "竹南鎮",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2024-07-30",
+  "address": "竹南鎮中山路168之1號",
+  "lat": 24.670889,
+  "lng": 120.880333,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20240801000001",
+  "caseId": "20240801000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2024-08-01/4406da4f-7993-4c14-affc-d7ce830588a8/LINE_ALBUM_20240315竹南台鐵2號倉庫現勘_240315_10.jpg",
+  "ownership": "公有"
+ },
+ {
+  "id": "zhunan-xunchangxiaoxue",
+  "name": "尋常小學校禮堂",
+  "category": "歷史建築",
+  "level": "",
+  "town": "竹南鎮",
+  "types": [
+   "書院"
+  ],
+  "announced": "2010-03-03",
+  "address": "竹南鎮中正路92號(現竹南國中校園)",
+  "lat": 24.6841266543764,
+  "lng": 120.876270879267,
+  "open": "",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20100303000001",
+  "caseId": "20100303000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-06-14/eb51e407-9144-4dea-9e76-1b6b38ab8bc4/220524_147.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "zhunan-qidingyierhaosui",
+  "name": "崎頂一、二號隧道",
+  "category": "歷史建築",
+  "level": "",
+  "town": "竹南鎮",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2005-06-24",
+  "address": "竹南鎮崎頂里",
+  "lat": 24.7264137199791,
+  "lng": 120.87465653758,
+  "open": "",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20050624000001",
+  "caseId": "20050624000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-04/895a4613-f85e-470f-93be-16b422899344/IMG_8828.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "zhunan-sheyao",
+  "name": "竹南蛇窯",
+  "category": "歷史建築",
+  "level": "",
+  "town": "竹南鎮",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2002-11-26",
+  "address": "竹南鎮公館里7 鄰大埔頂7 號",
+  "lat": 24.6568198240532,
+  "lng": 120.872843786898,
+  "open": "週三 ~ 週日 09:00~17:00",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20021225000001",
+  "caseId": "20021225000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-01/02a01ccf-b99a-4458-8271-5ecdea0fcd55/竹南蛇窯01-圖像來源(竹南蛇窯).jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "toufen-taiwanshengliang",
+  "name": "原台灣省糧食局頭份糧倉",
+  "category": "歷史建築",
+  "level": "",
+  "town": "頭份市",
+  "types": [
+   "產業"
+  ],
+  "announced": "2022-03-25",
+  "address": "頭份市錦華街69號",
+  "lat": 24.6853,
+  "lng": 120.905911,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20220614000002",
+  "caseId": "20220614000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-06-07/03f00ddc-edd5-4449-820e-49f40c07b753/187682.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "nanzhuang-nanpuguoxiaojiusu",
+  "name": "南庄南埔國小舊宿舍",
+  "category": "歷史建築",
+  "level": "",
+  "town": "南庄鄉",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2009-05-19",
+  "address": "南庄鄉南富村134號",
+  "lat": 24.6339585189623,
+  "lng": 120.972544458804,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20090519000001",
+  "caseId": "20090519000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-06-16/aee8d60f-2dfb-410b-9af4-328eb27c7e9e/南埔國小_220509_0.jpg",
+  "ownership": "公有"
+ },
+ {
+  "id": "nanzhuang-nanjiangcunfudeci",
+  "name": "南庄南江村福德祠",
+  "category": "歷史建築",
+  "level": "",
+  "town": "南庄鄉",
+  "types": [
+   "祠堂"
+  ],
+  "announced": "2018-03-06",
+  "address": "南庄鄉北獅里興段北獅里興小段0180-009地號",
+  "lat": 24.582185464401082,
+  "lng": 120.97851264602491,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20180330000002",
+  "caseId": "20180330000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-15/f41a92b2-a801-40aa-8b6d-dcc124ef8609/IMG_7174.jpg",
+  "ownership": "私有"
+ },
+ {
+  "id": "nanzhuang-yongchanggongmiao",
+  "name": "南庄永昌宮廟坪前古井",
+  "category": "歷史建築",
+  "level": "",
+  "town": "南庄鄉",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2009-05-19",
+  "address": "南庄鄉東村永昌宮廟坪前",
+  "lat": 24.5996741630049,
+  "lng": 120.998915387033,
+  "open": "",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20090519000002",
+  "caseId": "20090519000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-15/cf8a53c2-1c0b-4e5e-98a2-0256bd69dfbf/IMG_9108.jpg",
+  "ownership": "公有"
+ },
+ {
+  "id": "nanzhuang-tianmeiyonghegong",
+  "name": "南庄田美永和宮",
+  "category": "歷史建築",
+  "level": "",
+  "town": "南庄鄉",
+  "types": [
+   "寺廟"
+  ],
+  "announced": "2018-03-12",
+  "address": "南庄鄉田美村17鄰153號",
+  "lat": 24.61125,
+  "lng": 121.01161400000001,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20180330000003",
+  "caseId": "20180330000003",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-04/8d1be2f5-9156-444d-b395-341e68bc7856/IMG_7179.jpg",
+  "ownership": "私有"
+ },
+ {
+  "id": "nanzhuang-youbianju",
+  "name": "南庄郵便局",
+  "category": "歷史建築",
+  "level": "",
+  "town": "南庄鄉",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2003-10-23",
+  "address": "南庄鄉文化路5號",
+  "lat": 24.6000442297719,
+  "lng": 120.999138125958,
+  "open": "",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20031023000001",
+  "caseId": "20031023000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-04/7d917402-62d7-4768-bfff-2dd07fbed2a1/IMG_7160.jpg",
+  "ownership": "公有"
+ },
+ {
+  "id": "nanzhuang-guxinzhutingxuncha",
+  "name": "故新竹廳巡查五十嵐常輝外拾名之碑",
+  "category": "歷史建築",
+  "level": "",
+  "town": "南庄鄉",
+  "types": [
+   "碑碣"
+  ],
+  "announced": "2019-12-26",
+  "address": "南庄鄉風美段0346-000地號",
+  "lat": 24.536498266908882,
+  "lng": 121.02684852219173,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20200427000001",
+  "caseId": "20200427000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-02/1623e3e2-01d3-463e-9227-807c0f5004cf/IMG_9118.jpg",
+  "ownership": "公有"
+ },
+ {
+  "id": "nanzhuang-linwujunanzhuangda",
+  "name": "林務局南庄大同路宿舍",
+  "category": "歷史建築",
+  "level": "",
+  "town": "南庄鄉",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2007-01-30",
+  "address": "南庄鄉大同路4、6、8、12、14號",
+  "lat": 24.597204,
+  "lng": 121.001049,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20070130000001",
+  "caseId": "20070130000001",
+  "officialImg": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/37191/photo/afea2745-986b-471f-86bd-e78970bd848a.JPG",
+  "ownership": "不明"
+ },
+ {
+  "id": "nanzhuang-linwujunanzhuang",
+  "name": "林務局南庄東村宿舍",
+  "category": "歷史建築",
+  "level": "",
+  "town": "南庄鄉",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2007-06-14",
+  "address": "南庄鄉東村75號",
+  "lat": 24.6014251740564,
+  "lng": 120.999631461874,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20070614000001",
+  "caseId": "20070614000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-04/4616a664-be10-4875-872f-9bd6683a9184/IMG_7173.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "shitan-xindianyangwu",
+  "name": "獅潭新店楊屋",
+  "category": "歷史建築",
+  "level": "",
+  "town": "獅潭鄉",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2026-02-26",
+  "address": "獅潭鄉新店村44號",
+  "lat": 24.525806,
+  "lng": 120.922278,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20260306000001",
+  "caseId": "20260306000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2026-03-06/d1c43631-f3d7-446d-b8b3-38309051e8bc/獅潭新店楊屋.png",
+  "ownership": "私有"
+ },
+ {
+  "id": "shitan-rishizhuangzhangsu",
+  "name": "獅潭日式庄長宿舍",
+  "category": "歷史建築",
+  "level": "",
+  "town": "獅潭鄉",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2017-08-07",
+  "address": "獅潭鄉新店村129號",
+  "lat": 24.540581,
+  "lng": 120.921225,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20170929000002",
+  "caseId": "20170929000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-06-27/34a8a506-2d33-4056-a6bd-54887fbe7233/獅潭日式庄長宿舍.jpg",
+  "ownership": "公有"
+ },
+ {
+  "id": "zaoqiao-jiushanxianjianfan",
+  "name": "舊山線-見返坂隧道群",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "造橋鄉",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2022-10-25",
+  "address": "造橋鄉冠軍磁磚造橋廠大門口至台13甲線聯外道路下方",
+  "lat": 24.627215,
+  "lng": 120.852908,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20221124000001",
+  "caseId": "20221124000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-11-24/7bc17834-8263-4ba2-9297-26bf942eafb1/縣16.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "zaoqiao-tanwenchezhan",
+  "name": "談文車站",
+  "category": "歷史建築",
+  "level": "",
+  "town": "造橋鄉",
+  "types": [
+   "車站"
+  ],
+  "announced": "2008-03-21",
+  "address": "造橋鄉談文村仁愛路29號",
+  "lat": 24.6565375892526,
+  "lng": 120.858520495227,
+  "open": "",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20080321000001",
+  "caseId": "20080321000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-08-12/bfda6abb-1f5b-428c-9801-c40ad2388f55/歷14-談文車站.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "zaoqiao-chezhanjifushusu",
+  "name": "造橋車站暨附屬宿舍",
+  "category": "歷史建築",
+  "level": "",
+  "town": "造橋鄉",
+  "types": [
+   "車站"
+  ],
+  "announced": "2026-02-26",
+  "address": "造橋鄉造橋村平仁路54號",
+  "lat": 24.653333,
+  "lng": 120.860278,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20260306000002",
+  "caseId": "20260306000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2026-03-06/27b4d1e8-2c81-43e7-b86b-a9bca0041392/造橋車站暨附屬宿舍1.jpg",
+  "ownership": "公有"
+ },
+ {
+  "id": "zaoqiao-tanwenhutiedaoqi",
+  "name": "談文湖鐵道砌石邊坡",
+  "category": "文化景觀",
+  "level": "文化景觀",
+  "town": "造橋鄉",
+  "types": [
+   "交通地景"
+  ],
+  "announced": "2010-04-29",
+  "address": "造橋鄉苗9線0k+880-1k060段",
+  "lat": 24.6597946,
+  "lng": 120.8437272,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/culturalLandscape/20100429000002",
+  "caseId": "20100429000002",
+  "officialImg": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/cultural_tourism/247/photo/談文湖鐵道砌石邊坡.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "houlong-zhengchonghemu",
+  "name": "鄭崇和墓",
+  "category": "國定古蹟",
+  "level": "國定古蹟",
+  "town": "後龍鎮",
+  "types": [
+   "墓葬"
+  ],
+  "announced": "1985-08-19",
+  "address": "後龍鎮苗栗縣後龍鎮龍坑里16鄰轄區",
+  "lat": 24.6019126240467,
+  "lng": 120.78051174687,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/19850819000059",
+  "caseId": "19850819000059",
+  "officialImg": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/5744/photo/G005苗栗縣鄭崇和墓(二級)(1).JPG",
+  "ownership": "不明"
+ },
+ {
+  "id": "houlong-taiwanshengliang",
+  "name": "原台灣省糧食局後龍1號糧倉",
+  "category": "歷史建築",
+  "level": "",
+  "town": "後龍鎮",
+  "types": [
+   "產業"
+  ],
+  "announced": "2017-10-06",
+  "address": "後龍鎮中山街88-4號旁",
+  "lat": 24.616602585345262,
+  "lng": 120.78837407553858,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20171122000003",
+  "caseId": "20171122000003",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-06-26/14f35673-7b5a-44b3-8518-d83698bd4492/IMG_9233-2.jpg",
+  "ownership": "公有"
+ },
+ {
+  "id": "houlong-dashanhuochezhan",
+  "name": "大山火車站",
+  "category": "歷史建築",
+  "level": "",
+  "town": "後龍鎮",
+  "types": [
+   "車站"
+  ],
+  "announced": "2005-06-10",
+  "address": "後龍鎮大山里明山路180號",
+  "lat": 24.645688,
+  "lng": 120.8037,
+  "open": "電話：886-37-721381\n營業時間：每日開放\n地址：苗栗縣後龍鎮大山里明山路180號",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20050610000002",
+  "caseId": "20050610000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-02/6fe4af9b-bc30-48cd-b853-b13ea05844f5/IMG_9141.jpg",
+  "ownership": "公有"
+ },
+ {
+  "id": "houlong-guoxiaorishisushe",
+  "name": "後龍國小日式宿舍",
+  "category": "歷史建築",
+  "level": "",
+  "town": "後龍鎮",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2015-11-19",
+  "address": "後龍鎮大庄里成功路254號",
+  "lat": 24.6137985,
+  "lng": 120.7936722,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20151119000002",
+  "caseId": "20151119000002",
+  "officialImg": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/38253/photo/b86d3c6d-8437-4f3c-b146-f13b41c9c5d3.jpg",
+  "ownership": "公有"
+ },
+ {
+  "id": "houlong-guogangsuidao",
+  "name": "後龍過港隧道",
+  "category": "歷史建築",
+  "level": "",
+  "town": "後龍鎮",
+  "types": [
+   "產業"
+  ],
+  "announced": "2015-11-20",
+  "address": "後龍鎮苗33-1線附近",
+  "lat": 24.599745,
+  "lng": 120.7232991,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20151120000001",
+  "caseId": "20151120000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-17/f1923592-d868-4647-a56f-261b0e86ce60/IMG_8833.jpg",
+  "ownership": "公有"
+ },
+ {
+  "id": "houlong-waipushihuqun",
+  "name": "後龍外埔石滬群",
+  "category": "文化景觀",
+  "level": "文化景觀",
+  "town": "後龍鎮",
+  "types": [
+   "農林漁牧景觀"
+  ],
+  "announced": "2015-11-04",
+  "address": "後龍鎮外埔里合興段（0294地號、0013地號）附近淺坪海域",
+  "lat": 24.66001,
+  "lng": 120.779549,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/culturalLandscape/20151104000001",
+  "caseId": "20151104000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-17/29e4ad95-d7c2-4745-bcca-ae862972ced4/IMG_9412.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "xihu-sihuliuenkuandahuo",
+  "name": "四湖劉恩寬大伙房",
+  "category": "歷史建築",
+  "level": "",
+  "town": "西湖鄉",
+  "types": [
+   "祠堂"
+  ],
+  "announced": "2014-10-20",
+  "address": "西湖鄉四湖村6鄰老屋11號",
+  "lat": 24.538793,
+  "lng": 120.769475,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20141020000001",
+  "caseId": "20141020000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-02/a748171c-5599-4067-a1ac-30ad8ff4e9f5/2021829_210829_108.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "xihu-jingshengtingjifu",
+  "name": "西湖敬聖亭及福德祠",
+  "category": "歷史建築",
+  "level": "",
+  "town": "西湖鄉",
+  "types": [
+   "寺廟"
+  ],
+  "announced": "2010-10-21",
+  "address": "西湖鄉四湖村4鄰10號",
+  "lat": 24.531345,
+  "lng": 120.745217,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20171002000001",
+  "caseId": "20171002000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-04/82f15140-568b-4f01-941a-f44d7281427e/IMG_8950.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "tongxiao-longxitangxiuli",
+  "name": "通霄隴西堂秀禮公廳",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "通霄鎮",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2022-10-25",
+  "address": "通霄鎮南和里南和126、127、128、128-1號",
+  "lat": 24.450303,
+  "lng": 120.723741,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20221124000002",
+  "caseId": "20221124000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-11-24/bb2a4921-7628-426f-9e9d-0cd792d8d68c/秀禮.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "tongxiao-dajingqueshijinian",
+  "name": "大井確士紀念碑",
+  "category": "歷史建築",
+  "level": "",
+  "town": "通霄鎮",
+  "types": [
+   "碑碣"
+  ],
+  "announced": "2016-01-12",
+  "address": "通霄鎮台一線拱天宮牌樓前，東龍宮後方小山丘",
+  "lat": 24.5689833,
+  "lng": 120.7121656,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20160112000001",
+  "caseId": "20160112000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-04/42815da8-3785-4986-98c5-f8924b446d37/IMG_8933.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "tongxiao-xinpuhuochezhan",
+  "name": "新埔火車站",
+  "category": "歷史建築",
+  "level": "",
+  "town": "通霄鎮",
+  "types": [
+   "車站"
+  ],
+  "announced": "2005-06-07",
+  "address": "通霄鎮苗栗縣通霄鎮新埔里8鄰57號",
+  "lat": 24.540767740411,
+  "lng": 120.695271711102,
+  "open": "",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20050607000001",
+  "caseId": "20050607000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-04/b14a10e6-fe09-4b4e-a314-805c91bafcb2/IMG_8925.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "tongxiao-hutoushanriluzhan",
+  "name": "虎頭山日露戰役記念碑",
+  "category": "歷史建築",
+  "level": "",
+  "town": "通霄鎮",
+  "types": [
+   "碑碣"
+  ],
+  "announced": "2024-04-01",
+  "address": "通霄鎮虎頭山公園内",
+  "lat": 24.493754134804114,
+  "lng": 120.68483309549003,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20240401000001",
+  "caseId": "20240401000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2024-04-01/c67f65f1-6e5b-4fcb-996e-eb7ccf0b9d4f/454901_0.jpg",
+  "ownership": "公有"
+ },
+ {
+  "id": "tongxiao-guoxiaorenailuri",
+  "name": "通霄國小仁愛路日式教職員宿舍",
+  "category": "歷史建築",
+  "level": "",
+  "town": "通霄鎮",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2021-08-26",
+  "address": "通霄鎮通東里22鄰仁愛路91號",
+  "lat": 24.49041,
+  "lng": 120.68173,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20210910000001",
+  "caseId": "20210910000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-22/c2edbc98-1e9a-491c-9ab9-67b6737f44d5/通宵國小仁愛路日式宿舍.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "tongxiao-shenshe",
+  "name": "通霄神社",
+  "category": "歷史建築",
+  "level": "",
+  "town": "通霄鎮",
+  "types": [
+   "祠堂"
+  ],
+  "announced": "2002-11-26",
+  "address": "通霄鎮通東里虎頭山公園內",
+  "lat": 24.4923852257051,
+  "lng": 120.682904668023,
+  "open": "拜殿、社務所、宿舍等建物目前因管理因素不開放參觀，平日到訪民眾僅止於周遭環境",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20021126000003",
+  "caseId": "20021126000003",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-06-26/e8ec793d-d7c9-4296-bd79-f05251670b72/通霄神社.jpg",
+  "ownership": "公有"
+ },
+ {
+  "id": "tongxiao-tiedaoliangcang",
+  "name": "通霄鐵道糧倉建築群",
+  "category": "歷史建築",
+  "level": "",
+  "town": "通霄鎮",
+  "types": [
+   "產業"
+  ],
+  "announced": "2010-04-30",
+  "address": "通霄鎮苗栗鎮通霄鎮通西里中山路109號",
+  "lat": 24.4913797783486,
+  "lng": 120.678458306877,
+  "open": "",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20100430000001",
+  "caseId": "20100430000001",
+  "officialImg": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/5792/photo/G019苗栗縣通霄鐵道糧倉(歷建)01.JPG",
+  "ownership": "不明"
+ },
+ {
+  "id": "tongxiao-tengqinggongci",
+  "name": "通霄騰清公祠",
+  "category": "歷史建築",
+  "level": "",
+  "town": "通霄鎮",
+  "types": [
+   "祠堂"
+  ],
+  "announced": "2024-11-13",
+  "address": "通霄鎮城南里城南14鄰160號",
+  "lat": 24.463418,
+  "lng": 120.727354,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20241125000001",
+  "caseId": "20241125000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2024-11-25/074e6b9f-7ed8-4a77-a3c1-59d9fc6c5871/484673_0.jpg",
+  "ownership": "私有"
+ },
+ {
+  "id": "yuanli-shanjiaocaishiji",
+  "name": "山腳蔡氏濟陽堂",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "苑裡鎮",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2010-04-29",
+  "address": "苑裡鎮山腳里355號",
+  "lat": 24.4163453922794,
+  "lng": 120.68609567836,
+  "open": "1.平日：採預約制\n2.例假日：上午 9：00 至下午 5：30 \n（一）基於保持良好的參觀品質，建議遊客參觀人數約 30 人左右。\n（二）製作濟陽堂的參觀須知，內容詳列參觀文化資產時禁止的各種行為，供\n參觀民眾做為參考。\n（三）若有導覽人員隨行，於進入古蹟前詳述相關規定，並隨時注意參觀民眾\n是否有違反規定的行為，並適時的制止規勸。",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20100429000001",
+  "caseId": "20100429000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-06/8713d6cc-f4c0-4b0b-9ba6-03b8eac6f5bf/IMG_9264.jpg",
+  "ownership": "私有"
+ },
+ {
+  "id": "yuanli-fanglicaiquansheng",
+  "name": "房裡蔡泉盛號",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "苑裡鎮",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2002-09-17",
+  "address": "苑裡鎮房裡里16鄰40號",
+  "lat": 24.435263140679,
+  "lng": 120.647097609142,
+  "open": "每週六、日及國定假日早上八點至下午五點",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20061026000001",
+  "caseId": "20061026000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2025-08-26/cbf81874-f333-48b1-bfc5-f59b799432f3/房裡蔡泉盛號.jpg",
+  "ownership": "私有"
+ },
+ {
+  "id": "yuanli-zhenjiushuimen",
+  "name": "苑裡圳舊水門",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "苑裡鎮",
+  "types": [
+   "堤閘"
+  ],
+  "announced": "2020-05-15",
+  "address": "苑裡鎮上館里一鄰上館3之1號旁",
+  "lat": 24.361143,
+  "lng": 120.715075,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20210426000001",
+  "caseId": "20210426000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-04-28/9f9347bc-560c-4974-a80e-aaf3926dd688/苑裡圳舊水門.jpg",
+  "ownership": "公有"
+ },
+ {
+  "id": "yuanli-zhongjisuo",
+  "name": "原苑裡中繼所",
+  "category": "歷史建築",
+  "level": "",
+  "town": "苑裡鎮",
+  "types": [
+   "產業"
+  ],
+  "announced": "2019-12-04",
+  "address": "苑裡鎮中山路32號",
+  "lat": 24.448131,
+  "lng": 120.654709,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20210428000005",
+  "caseId": "20210428000005",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-22/43c78f8e-4b89-4a54-bb73-23357f90b9b9/IMG_9326.jpg",
+  "ownership": "私有"
+ },
+ {
+  "id": "yuanli-gongyoulingshoushi",
+  "name": "苑裡公有零售市場",
+  "category": "歷史建築",
+  "level": "",
+  "town": "苑裡鎮",
+  "types": [
+   "市場"
+  ],
+  "announced": "2019-04-26",
+  "address": "苑裡鎮天下路80號",
+  "lat": 24.4431801,
+  "lng": 120.6527946,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20190530000003",
+  "caseId": "20190530000003",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-02/1f873b89-f53b-4019-b5f4-6d5967535340/IMG_9196.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "yuanli-fanglishuntiangong",
+  "name": "苑裡房里順天宮",
+  "category": "歷史建築",
+  "level": "",
+  "town": "苑裡鎮",
+  "types": [
+   "寺廟"
+  ],
+  "announced": "2010-10-21",
+  "address": "苑裡鎮房裡里1鄰南房26號",
+  "lat": 24.4351610104781,
+  "lng": 120.646682619062,
+  "open": "",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20101021000001",
+  "caseId": "20101021000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-06-15/aaa6faa8-efd2-46af-b655-48ab34b926a9/房裡順天宮.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "yuanli-zhenshanjiaoguo",
+  "name": "苑裡鎮山腳國小日治後期宿舍群",
+  "category": "歷史建築",
+  "level": "",
+  "town": "苑裡鎮",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2003-12-05",
+  "address": "苑裡鎮舊社里47 號",
+  "lat": 24.4173456715931,
+  "lng": 120.685929641746,
+  "open": "",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20031205000001",
+  "caseId": "20031205000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-02/5c49c78c-1ae8-43aa-809a-1350e61f13a0/IMG_9185.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "yuanli-jiaopuqiujiashuiku",
+  "name": "蕉埔邱家水窟",
+  "category": "歷史建築",
+  "level": "",
+  "town": "苑裡鎮",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2015-02-09",
+  "address": "苑裡鎮蕉埔里8鄰84號",
+  "lat": 24.409826,
+  "lng": 120.677505,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20150209000001",
+  "caseId": "20150209000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-02/bd171e51-7b08-4fc3-8a84-83b6eee2aeb0/IMG_9178.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "miaoli-wenchangci",
+  "name": "苗栗文昌祠",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "苗栗市",
+  "types": [
+   "寺廟"
+  ],
+  "announced": "1985-08-19",
+  "address": "苗栗市綠苗里6鄰中正路756號",
+  "lat": 24.55392,
+  "lng": 120.818263,
+  "open": "",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/19850819000060",
+  "caseId": "19850819000060",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-06-14/7a841e6f-df23-44c3-8079-e2d85201a477/S__7012376.jpg",
+  "ownership": "私有"
+ },
+ {
+  "id": "miaoli-yizhong",
+  "name": "苗栗義塚",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "苗栗市",
+  "types": [
+   "墓葬"
+  ],
+  "announced": "2010-12-29",
+  "address": "苗栗市北苗里義民街",
+  "lat": 24.572992642903554,
+  "lng": 120.82355273554623,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20101229000001",
+  "caseId": "20101229000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-08-12/e056608a-a26e-482c-95b3-6d869b583106/縣09-義塚.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "miaoli-laishijiexiaofang",
+  "name": "賴氏節孝坊",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "苗栗市",
+  "types": [
+   "牌坊"
+  ],
+  "announced": "1985-08-19",
+  "address": "苗栗市大同里福星山苗栗段767-17地號",
+  "lat": 24.555622,
+  "lng": 120.810485,
+  "open": "",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/19850819000061",
+  "caseId": "19850819000061",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-04/fd37fc65-2e36-46c8-a676-353845b99a01/IMG_8812.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "miaoli-taiwanshengliang",
+  "name": "原台灣省糧食局苗栗倉庫",
+  "category": "歷史建築",
+  "level": "",
+  "town": "苗栗市",
+  "types": [
+   "產業"
+  ],
+  "announced": "2016-07-22",
+  "address": "苗栗市新倉街21號",
+  "lat": 24.564628,
+  "lng": 120.823438,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20160722000001",
+  "caseId": "20160722000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-02/e4d4423a-cd3e-41ce-a02d-d015583ef131/2021829_210829_93.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "miaoli-taitiemiaolizhan",
+  "name": "臺鐵苗栗站5號倉庫",
+  "category": "歷史建築",
+  "level": "",
+  "town": "苗栗市",
+  "types": [
+   "產業"
+  ],
+  "announced": "2020-05-08",
+  "address": "苗栗市北苗段441地號",
+  "lat": 24.56894,
+  "lng": 120.82287,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20210428000003",
+  "caseId": "20210428000003",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-15/8d27c14f-f7b0-4d56-8872-c077b9d9609a/2021829_210829_101.jpg",
+  "ownership": "公有"
+ },
+ {
+  "id": "miaoli-shitianxinxieshi",
+  "name": "苗栗市田心謝氏陳留堂",
+  "category": "歷史建築",
+  "level": "",
+  "town": "苗栗市",
+  "types": [
+   "祠堂"
+  ],
+  "announced": "2009-05-19",
+  "address": "苗栗市清華里田心26號",
+  "lat": 24.5685620703598,
+  "lng": 120.827689726443,
+  "open": "",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20090519000003",
+  "caseId": "20090519000003",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-06-14/182d9f1f-ddd9-4879-ad37-f36626d5093b/S__7012375.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "miaoli-nongliangshumiaoli",
+  "name": "農糧署苗栗辦事處",
+  "category": "歷史建築",
+  "level": "",
+  "town": "苗栗市",
+  "types": [
+   "衙署"
+  ],
+  "announced": "2016-07-11",
+  "address": "苗栗市建功里6鄰中正路184號",
+  "lat": 24.565585,
+  "lng": 120.82373,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20160711000001",
+  "caseId": "20160711000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-17/22f451cf-453b-44d4-9b7a-a8f1fd1fcaa9/IMG_9385.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "gongguan-xihetanglinwuxia",
+  "name": "公館西河堂林屋下公廳",
+  "category": "歷史建築",
+  "level": "",
+  "town": "公館鄉",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2023-03-23",
+  "address": "公館鄉館東村10鄰142號",
+  "lat": 24.49619,
+  "lng": 120.83407,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20230425000004",
+  "caseId": "20230425000004",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-04-25/8fb7c52f-d9c3-4203-bcf3-28065a3727b6/12.jpg",
+  "ownership": "私有"
+ },
+ {
+  "id": "gongguan-chuhuangkeng13hao",
+  "name": "出磺坑13號宿舍",
+  "category": "歷史建築",
+  "level": "",
+  "town": "公館鄉",
+  "types": [
+   "產業"
+  ],
+  "announced": "2020-05-08",
+  "address": "公館鄉開礦村開礦187號",
+  "lat": 24.44762,
+  "lng": 120.84957,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20210428000004",
+  "caseId": "20210428000004",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2025-08-05/66bd8fb2-57de-411b-9fbd-513739f22373/出磺坑13號宿舍_側面2.jpg",
+  "ownership": "公有"
+ },
+ {
+  "id": "gongguan-chuhuangkeng16hao",
+  "name": "出磺坑16號宿舍",
+  "category": "歷史建築",
+  "level": "",
+  "town": "公館鄉",
+  "types": [
+   "產業"
+  ],
+  "announced": "2010-06-09",
+  "address": "公館鄉開礦村3鄰36號",
+  "lat": 24.4594928821298,
+  "lng": 120.856504901929,
+  "open": "",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20100609000007",
+  "caseId": "20100609000007",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-17/a5a84676-ff50-48d9-8bd6-25401b3dbe0f/IMG_9390.jpg",
+  "ownership": "公有"
+ },
+ {
+  "id": "gongguan-chuhuangkeng4hao",
+  "name": "出磺坑4號宿舍",
+  "category": "歷史建築",
+  "level": "",
+  "town": "公館鄉",
+  "types": [
+   "產業"
+  ],
+  "announced": "2010-06-09",
+  "address": "公館鄉開礦村3鄰36號",
+  "lat": 24.4597132266919,
+  "lng": 120.856510728923,
+  "open": "",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20100609000004",
+  "caseId": "20100609000004",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-08-12/f7618448-723d-4fe0-81d7-7f0233b4b90c/18-1-出磺坑4號宿舍 (Custom).jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "gongguan-chuhuangkeng6hao",
+  "name": "出磺坑6號處長宿舍",
+  "category": "歷史建築",
+  "level": "",
+  "town": "公館鄉",
+  "types": [
+   "產業"
+  ],
+  "announced": "2010-06-09",
+  "address": "公館鄉開礦村3鄰36號",
+  "lat": 24.4593782359394,
+  "lng": 120.856556044555,
+  "open": "",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20100609000005",
+  "caseId": "20100609000005",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-08-12/fd02b994-04b1-4e79-8605-ddbf233c9cb5/19-1-出磺坑6號處長宿舍 (Custom).jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "gongguan-chuhuangkeng8hao",
+  "name": "出磺坑8號宿舍",
+  "category": "歷史建築",
+  "level": "",
+  "town": "公館鄉",
+  "types": [
+   "產業"
+  ],
+  "announced": "2010-06-09",
+  "address": "公館鄉開礦村3鄰36號",
+  "lat": 24.4589851032411,
+  "lng": 120.857205475439,
+  "open": "",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20100609000006",
+  "caseId": "20100609000006",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-08-12/2f116906-9b51-4f6d-a293-7380337dea58/歷24-出磺坑8號宿舍.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "gongguan-chuhuangkengbeiliao",
+  "name": "出磺坑北寮舊辦公室",
+  "category": "歷史建築",
+  "level": "",
+  "town": "公館鄉",
+  "types": [
+   "產業"
+  ],
+  "announced": "2010-06-09",
+  "address": "公館鄉開礦村3鄰36號",
+  "lat": 24.4600053121343,
+  "lng": 120.855626672103,
+  "open": "",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20100609000001",
+  "caseId": "20100609000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-08-12/dd27fad9-36f4-4091-8a3d-89771b787b84/17-1-出磺坑北寮舊辦公室 (Custom).jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "gongguan-chuhuangkengyiwusuo",
+  "name": "出磺坑舊醫務所",
+  "category": "歷史建築",
+  "level": "",
+  "town": "公館鄉",
+  "types": [
+   "產業"
+  ],
+  "announced": "2010-06-09",
+  "address": "公館鄉開礦村3鄰36號",
+  "lat": 24.4596211408754,
+  "lng": 120.855325433191,
+  "open": "",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20100609000002",
+  "caseId": "20100609000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-02/f4844ba2-a1b5-402c-a1c8-cf0c09e0ac65/2021829_210829_44.jpg",
+  "ownership": "公有"
+ },
+ {
+  "id": "gongguan-chuhuangkengweixiuku",
+  "name": "出磺坑舊重機具維修庫",
+  "category": "歷史建築",
+  "level": "",
+  "town": "公館鄉",
+  "types": [
+   "產業"
+  ],
+  "announced": "2010-06-09",
+  "address": "公館鄉開礦村3鄰36號",
+  "lat": 24.45968453277109,
+  "lng": 120.85580438705149,
+  "open": "",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20100609000003",
+  "caseId": "20100609000003",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-08-12/92258932-f579-4e6b-902e-4531fad313fd/16-1-出磺坑舊重機具維修庫 (Custom).jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "gongguan-chuhuangkeng",
+  "name": "出磺坑",
+  "category": "文化景觀",
+  "level": "文化景觀",
+  "town": "公館鄉",
+  "types": [
+   "工業地景"
+  ],
+  "announced": "2008-10-23",
+  "address": "公館鄉開礦村（台72線路旁）",
+  "lat": 24.5,
+  "lng": 120.84,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/culturalLandscape/20081023000001",
+  "caseId": "20081023000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-17/2c56da75-6e79-43ca-b5fc-f53743108e5c/141.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "tongluo-jiutongluofenzhu",
+  "name": "舊銅鑼分駐所",
+  "category": "歷史建築",
+  "level": "",
+  "town": "銅鑼鄉",
+  "types": [
+   "衙署"
+  ],
+  "announced": "2011-05-17",
+  "address": "銅鑼鄉復興路56號",
+  "lat": 24.492632,
+  "lng": 120.788381,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20110517000001",
+  "caseId": "20110517000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-17/d7d28360-30f2-4063-8480-90441b4232f9/IMG_8842.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "tongluo-dunxutang",
+  "name": "銅鑼惇敘堂",
+  "category": "歷史建築",
+  "level": "",
+  "town": "銅鑼鄉",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2023-03-23",
+  "address": "銅鑼鄉竹森村澗窩68號",
+  "lat": 24.49986,
+  "lng": 120.77624,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20230425000003",
+  "caseId": "20230425000003",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-04-25/ed8894fc-1040-448e-94f5-188fe9dfd443/2.jpg",
+  "ownership": "私有"
+ },
+ {
+  "id": "tongluo-chezhan",
+  "name": "銅鑼車站",
+  "category": "歷史建築",
+  "level": "",
+  "town": "銅鑼鄉",
+  "types": [
+   "車站"
+  ],
+  "announced": "2026-02-26",
+  "address": "銅鑼鄉銅鑼村大同路13號",
+  "lat": 24.486389,
+  "lng": 120.769528,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20260306000003",
+  "caseId": "20260306000003",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2026-03-06/23bcb1f0-087b-4f51-be64-d17450b2db0a/銅鑼車站.jpg",
+  "ownership": "公有"
+ },
+ {
+  "id": "tongluo-xiangchongguang",
+  "name": "銅鑼鄉重光診所",
+  "category": "歷史建築",
+  "level": "",
+  "town": "銅鑼鄉",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2004-08-09",
+  "address": "銅鑼鄉銅鑼村武聖路10號",
+  "lat": 24.4873154628734,
+  "lng": 120.786547523718,
+  "open": "",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20040809000001",
+  "caseId": "20040809000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-08-04/81f3c422-1802-43b3-aeae-7b6672eaaaee/IMG_8844.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "tongluo-raohengpeimu",
+  "name": "銅鑼饒恒佩墓",
+  "category": "歷史建築",
+  "level": "",
+  "town": "銅鑼鄉",
+  "types": [
+   "墓葬"
+  ],
+  "announced": "2017-06-05",
+  "address": "銅鑼鄉九湖北段894地號旁（自行車道往通霄右側）",
+  "lat": 24.476531,
+  "lng": 120.768795,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20170929000001",
+  "caseId": "20170929000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-06-29/df3f5810-7a04-48ce-b843-8c0f3c992cf9/銅鑼饒恒佩墓04.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "tongluo-guandaoshandizhenbei",
+  "name": "關刀山大地震紀念碑群",
+  "category": "歷史建築",
+  "level": "",
+  "town": "銅鑼鄉",
+  "types": [
+   "碑碣"
+  ],
+  "announced": "2026-02-26",
+  "address": "銅鑼鄉福興段712地號",
+  "lat": 24.472889,
+  "lng": 120.773944,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20260309000001",
+  "caseId": "20260309000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2026-03-09/b06067da-2049-4269-a522-ba9c6214a241/關刀山大地震紀念碑群.png",
+  "ownership": "私有"
+ },
+ {
+  "id": "sanyi-shengxinghuoche",
+  "name": "勝興火車站",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "三義鄉",
+  "types": [
+   "車站"
+  ],
+  "announced": "1999-04-16",
+  "address": "三義鄉勝興村9號",
+  "lat": 24.3887531129903,
+  "lng": 120.781833623233,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/19990416000001",
+  "caseId": "19990416000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-08-12/0100fbd1-a58a-4fba-8904-6a4a8e23c436/縣05-勝興車站.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "sanyi-neishechuantieqiao",
+  "name": "臺鐵舊山線─內社川鐵橋",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "三義鄉",
+  "types": [
+   "橋樑"
+  ],
+  "announced": "2019-05-08",
+  "address": "三義鄉鯉魚潭村",
+  "lat": 24.34072799634776,
+  "lng": 120.7666042851793,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20190528000001",
+  "caseId": "20190528000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-01/c9abf7b1-639d-470d-b160-b404659f6090/IMG_9050.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "sanyi-daanxitieqiao",
+  "name": "臺鐵舊山線─大安溪鐵橋",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "三義鄉",
+  "types": [
+   "橋樑"
+  ],
+  "announced": "2017-11-23",
+  "address": "三義鄉位於臺鐵舊山線，緊鄰苗栗三義第七號隧道南口至台中市后里區間。",
+  "lat": 24.328711101233473,
+  "lng": 120.75700456741427,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20180206000001",
+  "caseId": "20180206000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-01/c82628fd-a481-4de5-896d-93eae2e16408/DJI_0001.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "sanyi-yutengpingtieqiao",
+  "name": "臺鐵舊山線─魚藤坪鐵橋",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "三義鄉",
+  "types": [
+   "橋樑"
+  ],
+  "announced": "2019-05-09",
+  "address": "三義鄉魚藤坪段",
+  "lat": 24.358644041884947,
+  "lng": 120.77320170536802,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20190529000001",
+  "caseId": "20190529000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-01/dd0213bb-667b-476b-a9a4-a969cba709ae/2021829_210829_85.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "sanyi-yutengpingduanqiao",
+  "name": "魚藤坪斷橋",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "三義鄉",
+  "types": [
+   "橋樑"
+  ],
+  "announced": "2003-11-25",
+  "address": "三義鄉魚藤坪段401-1地號",
+  "lat": 24.3583773370049,
+  "lng": 120.773793698977,
+  "open": "",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20031125000001",
+  "caseId": "20031125000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-01/5b641ac4-7904-4281-a450-da1214cb1e6e/IMG_9057.jpg",
+  "ownership": "公有"
+ },
+ {
+  "id": "sanyi-jianzhongguoxiao",
+  "name": "三義建中國小奉安所",
+  "category": "歷史建築",
+  "level": "",
+  "town": "三義鄉",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2002-09-17",
+  "address": "三義鄉廣盛村80號",
+  "lat": 24.4131487572722,
+  "lng": 120.769405962389,
+  "open": "開放參觀計畫：\n(一)\t開放時間：\n1.\t奉安殿：目前不對外開放。\n2.\t周遭環境：屬開放空間，週一至週日9：00至14：00。\n(二)\t開放範圍：本歷史建築管理範圍。\n(三)\t收費方式：不收費。\n(四)\t導覽活動：由本校具有解說員資格者或邀請專家學者擔任。\n(五)\t圖文刊物及紀念品：現場設置解說牌。\n",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20020917000001",
+  "caseId": "20020917000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-08-12/7772301e-9ccd-40fa-b891-bdee18f87d3c/歷01-三義建中國小奉安殿.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "sanyi-sanchagongxuexiaosushe",
+  "name": "原三叉公學校日式宿舍群(原:建中國小日式宿舍)",
+  "category": "歷史建築",
+  "level": "",
+  "town": "三義鄉",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2007-01-23",
+  "address": "三義鄉廣盛村81、82、83號",
+  "lat": 24.4130918464705,
+  "lng": 120.76974843562,
+  "open": "",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20070123000001",
+  "caseId": "20070123000001",
+  "officialImg": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/7418/photo/G038苗栗縣建中國小日式宿舍(歷建)(1).JPG",
+  "ownership": "公有"
+ },
+ {
+  "id": "sanyi-shengxingchezhan",
+  "name": "勝興車站鐵道文化景觀",
+  "category": "文化景觀",
+  "level": "文化景觀",
+  "town": "三義鄉",
+  "types": [
+   "交通地景"
+  ],
+  "announced": "2014-10-08",
+  "address": "三義鄉勝興村14鄰勝興89號",
+  "lat": 24.387596,
+  "lng": 120.782102,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/culturalLandscape/20141008000001",
+  "caseId": "20141008000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-02/120a93e2-410a-4cd9-99ef-356f4e3d2adf/2021829_210829_75.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "dahu-shifendongchating",
+  "name": "大湖十份崠茶亭",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "大湖鄉",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2001-05-16",
+  "address": "大湖鄉南湖段1337-96地號及銅鑼鄉新雞隆段1997地號",
+  "lat": 24.408008,
+  "lng": 120.840251,
+  "open": "",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20010516000001",
+  "caseId": "20010516000001",
+  "officialImg": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/7415/photo/G039苗栗縣大湖十份崠茶亭(縣市定)(1).JPG",
+  "ownership": "不明"
+ },
+ {
+  "id": "dahu-canyegailiangchang",
+  "name": "原大湖蠶業改良場建築群",
+  "category": "歷史建築",
+  "level": "",
+  "town": "大湖鄉",
+  "types": [
+   "產業"
+  ],
+  "announced": "2017-08-07",
+  "address": "大湖鄉民族路42號",
+  "lat": 24.423653,
+  "lng": 120.86985099999993,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20170929000003",
+  "caseId": "20170929000003",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-15/60bfbd4f-b14e-428a-8850-c31dcf8a3139/IMG_9247.jpg",
+  "ownership": "公有"
+ },
+ {
+  "id": "dahu-zhugaowuwuwuhuo",
+  "name": "大湖竹篙屋吳屋伙房",
+  "category": "歷史建築",
+  "level": "",
+  "town": "大湖鄉",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2021-03-16",
+  "address": "大湖鄉大寮村5鄰竹高屋42號",
+  "lat": 24.416772,
+  "lng": 120.862093,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20210505000002",
+  "caseId": "20210505000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-04-28/c293a5b6-691c-4710-8320-4233cc7290b7/大湖竹篙屋吳屋伙房.jpg",
+  "ownership": "私有"
+ },
+ {
+  "id": "dahu-jingchashushuzhang",
+  "name": "大湖警察署署長宿舍",
+  "category": "歷史建築",
+  "level": "",
+  "town": "大湖鄉",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2018-03-15",
+  "address": "大湖鄉中山路86號",
+  "lat": 24.424427,
+  "lng": 120.866937,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20180412000001",
+  "caseId": "20180412000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-02/22b11698-7cdb-4bc9-ab65-1f62b8454216/IMG_8852.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "dahu-kaipijinianbei",
+  "name": "大湖開闢紀念碑",
+  "category": "歷史建築",
+  "level": "",
+  "town": "大湖鄉",
+  "types": [
+   "碑碣"
+  ],
+  "announced": "2019-05-09",
+  "address": "大湖鄉富興村16鄰法雲禪寺11號法雲禪寺主殿後方",
+  "lat": 24.419186,
+  "lng": 120.864417,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20190530000004",
+  "caseId": "20190530000004",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2022-08-12/f1bdffd6-ecc5-4b5c-8338-85e0349adac1/大湖開闢紀念碑.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "dahu-zhenzaijinianta",
+  "name": "大湖震災記念塔",
+  "category": "歷史建築",
+  "level": "",
+  "town": "大湖鄉",
+  "types": [
+   "碑碣"
+  ],
+  "announced": "2019-05-09",
+  "address": "大湖鄉大寮村龜山1號法寶寺之右側便道後方菜園及竹林處",
+  "lat": 24.4201109,
+  "lng": 120.86433899999997,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20190530000008",
+  "caseId": "20190530000008",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-02/f675a7bc-1db4-40ae-8fbe-ede8d1133545/2021829_210829_29.jpg",
+  "ownership": "公有"
+ },
+ {
+  "id": "dahu-lianhebaojiashiwu",
+  "name": "聯合保甲事務所",
+  "category": "歷史建築",
+  "level": "",
+  "town": "大湖鄉",
+  "types": [
+   "辦公廳舍"
+  ],
+  "announced": "2018-03-16",
+  "address": "大湖鄉明湖村13鄰中原路58號",
+  "lat": 24.424191,
+  "lng": 120.866032,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20180412000002",
+  "caseId": "20180412000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-15/2bb6c0ac-8d6b-47d1-99bd-9c6084a53a0d/IMG_8856.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "zhuolan-junminmiao",
+  "name": "卓蘭軍民（昭忠）廟",
+  "category": "縣定古蹟",
+  "level": "縣(市)定古蹟",
+  "town": "卓蘭鎮",
+  "types": [
+   "寺廟"
+  ],
+  "announced": "2014-05-20",
+  "address": "卓蘭鎮老庄里1鄰2-6號",
+  "lat": 24.31105,
+  "lng": 120.83439,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/monument/20140520000001",
+  "caseId": "20140520000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2023-06-26/294d173d-4681-4df3-9110-143499c335c4/卓蘭軍民(昭忠)廟.jpg",
+  "ownership": "不明"
+ },
+ {
+  "id": "zhuolan-guoxiaorishisushe",
+  "name": "卓蘭國小日式宿舍",
+  "category": "歷史建築",
+  "level": "",
+  "town": "卓蘭鎮",
+  "types": [
+   "宅第"
+  ],
+  "announced": "2014-04-28",
+  "address": "卓蘭鎮新厝里94、95號",
+  "lat": 24.312481,
+  "lng": 120.82402,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20140428000002",
+  "caseId": "20140428000002",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-02/926c0952-258f-4ddd-b267-12088db43f8c/2021829_210829_5.jpg",
+  "ownership": "公有"
+ },
+ {
+  "id": "zhuolan-zhanshijishutang",
+  "name": "卓蘭詹氏繼述堂",
+  "category": "歷史建築",
+  "level": "",
+  "town": "卓蘭鎮",
+  "types": [
+   "祠堂"
+  ],
+  "announced": "2007-09-19",
+  "address": "卓蘭鎮老庄里信義路14號",
+  "lat": 24.3108422982523,
+  "lng": 120.826576669714,
+  "open": "",
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20070919000001",
+  "caseId": "20070919000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2021-09-02/2a35d6f2-bd1f-404b-b05c-2b18a62ba044/IMG_8860.jpg",
+  "ownership": "私有"
+ },
+ {
+  "id": "zhuolan-linwujudahugongzuo",
+  "name": "林務局大湖工作站卓蘭辦公室",
+  "category": "歷史建築",
+  "level": "",
+  "town": "卓蘭鎮",
+  "types": [
+   "其他設施"
+  ],
+  "announced": "2021-03-16",
+  "address": "卓蘭鎮新厝里中山路114號",
+  "lat": 24.312972,
+  "lng": 120.824861,
+  "open": null,
+  "url": "https://nchdb.boch.gov.tw/assets/advanceSearch/historicalBuilding/20240729000001",
+  "caseId": "20240729000001",
+  "officialImg": "https://data.boch.gov.tw/upload/representImageFile/2024-07-29/37b93026-3d08-4d89-b211-e122ee6440f5/林務局大湖工作站卓蘭辦公室.jpg",
+  "ownership": "公有"
+ }
+]

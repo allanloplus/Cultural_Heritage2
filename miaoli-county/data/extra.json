@@ -1,0 +1,71 @@
+{
+  "intro": [
+    {"who": "A", "text": "嗨，我是 Allan Lo！今天我們從臺鐵苗栗車站出發，這裡是山城苗栗的中心。"},
+    {"who": "R", "text": "我是阿拉蕾！苗栗是不是只有山？我聽說這裡叫山城。"},
+    {"who": "A", "text": "山城沒錯，可是苗栗也有海線喔。臺鐵到了竹南就分成山線和海線，一邊穿過丘陵，一邊沿著海岸。"},
+    {"who": "R", "text": "那這裡有幾處文化資產？"},
+    {"who": "A", "text": "有形文化資產一共89處，國定古蹟1處、縣定古蹟17處、歷史建築67處，還有4處文化景觀。"},
+    {"who": "R", "text": "唯一的國定古蹟是誰？快告訴我！"},
+    {"who": "A", "text": "是後龍的鄭崇和墓。他是竹塹開臺進士鄭用錫的父親，所以這趟也能和新竹市的進士第串在一起。"},
+    {"who": "R", "text": "還有三義的勝興車站、龍騰斷橋，公館的出磺坑，南庄的郵便局，光聽名字就想出發！"},
+    {"who": "A", "text": "苗栗也是賽夏族、泰雅族和道卡斯族的家，還有客家庄的伙房和白沙屯媽祖。中午記得留肚子吃粄條。"},
+    {"who": "R", "text": "那我們出發吧！先打開文資地圖，看看山線和海線哪邊的點點比較多！"}
+  ],
+  "timeIntro": [
+    {"who": "R", "text": "Allan，苗栗的時光地圖要從哪裡開始看？"},
+    {"who": "A", "text": "十七世紀這裡是道卡斯族、賽夏族和泰雅族的土地，西班牙人和荷蘭人沒有真的來統治，所以第一期叫原住民族社會。"},
+    {"who": "A", "text": "清代客家人和閩南人一路開墾，1889年才設立苗栗縣；日治時期再疊上臺灣堡圖和蕃地地形圖。"},
+    {"who": "R", "text": "那我要在老地圖上找找看，貓裡、後壠和吞霄以前長什麼樣子！"},
+    {"who": "A", "text": "好，把透明度拉一拉，山線的鐵道和海邊的街庄就會浮出來了！"}
+  ],
+  "planIntro": [
+    {"who": "A", "text": "苗栗的景點分散在山線、海線和南庄、大湖的山區，彼此相隔十幾公里，行程預設開車比較方便。"},
+    {"who": "R", "text": "苗栗市區和竹南、頭份也可以騎 YouBike，山區就很少站點囉！"},
+    {"who": "A", "text": "想搭火車的話，山線到三義、銅鑼，海線到談文、大山、白沙屯；去南庄、大湖山區前，記得先查颱風或豪雨後的道路管制。"},
+    {"who": "R", "text": "中午我要吃客家粄條，下午到勝興車站拍斷橋，行程就這樣決定了！"}
+  ],
+  "gameIntro": [
+    {"who": "R", "text": "山城海線遊戲場開張！問答王、時光排序、猜猜我是誰、翻翻樂，還有山城海線擲骰大冒險！"},
+    {"who": "A", "text": "題目從鄭崇和墓、中港慈裕宮，一路考到龍騰斷橋、出磺坑和談文車站，看你能不能全部答對。"},
+    {"who": "R", "text": "Allan，擲骰子我要像舊山線的火車一樣，一路衝上勝興車站的最高點！"},
+    {"who": "A", "text": "哈哈，那就從苗栗車站出發，比比看吧！"}
+  ],
+  "reactions": [
+    {"who": "R", "text": "答對了！你根本就是苗栗山城通！"},
+    {"who": "A", "text": "正確答案！給你一個大大的讚。"},
+    {"who": "R", "text": "哎呀，答錯了，沒關係，看看解說再挑戰！"},
+    {"who": "A", "text": "可惜！差一點點，下次一定行。"},
+    {"who": "R", "text": "換我擲骰子囉！看我的！"},
+    {"who": "A", "text": "恭喜你贏了！今天的客家粄條和大湖草莓算我的！"},
+    {"who": "R", "text": "耶！這一局是我贏了，要不要再來一局？"},
+    {"who": "A", "text": "平手！你們兩個都是文資高手。"},
+    {"who": "R", "text": "時光排序完成！你從清代的鄭崇和墓一路排到今天的舊山線，好厲害！"},
+    {"who": "A", "text": "恭喜集到新的護照印章！"},
+    {"who": "R", "text": "全部配對成功，記憶力滿分！"},
+    {"who": "A", "text": "嗯，這一題我們一起看看解說。"}
+  ],
+  "starts": [
+    {"id": "miaoli", "name": "臺鐵苗栗車站", "lat": 24.56976, "lng": 120.82248},
+    {"id": "zhunan", "name": "臺鐵竹南車站", "lat": 24.68663, "lng": 120.88067},
+    {"id": "hsr", "name": "高鐵苗栗站（後龍鎮）", "lat": 24.60575, "lng": 120.82611},
+    {"id": "sanyi", "name": "臺鐵三義車站", "lat": 24.42068, "lng": 120.77398},
+    {"id": "countyhall", "name": "苗栗縣政府", "lat": 24.5634, "lng": 120.82149},
+    {"id": "gps", "name": "我的目前位置", "lat": null, "lng": null},
+    {"id": "pick", "name": "在地圖上點選出發點", "lat": null, "lng": null}
+  ],
+  "plans": {
+    "1": {"name": "一日：山線三義與銅鑼（勝興車站、龍騰斷橋、魚藤坪與內社川鐵橋、大安溪鐵橋、建中國小奉安所、關刀山地震紀念碑、銅鑼車站）", "days": [
+      ["sanyi-shengxinghuoche", "sanyi-shengxingchezhan", "sanyi-yutengpingduanqiao", "sanyi-yutengpingtieqiao", "sanyi-neishechuantieqiao", "sanyi-daanxitieqiao", "sanyi-jianzhongguoxiao", "sanyi-sanchagongxuexiaosushe", "tongluo-guandaoshandizhenbei", "tongluo-chezhan", "tongluo-jiutongluofenzhu"]
+    ]},
+    "2": {"name": "二日：山線一天 ＋ 苗栗市、公館與南庄一天（文昌祠、賴氏節孝坊、苗栗車站倉庫、出磺坑、南庄郵便局、田美永和宮）", "days": [
+      ["sanyi-shengxinghuoche", "sanyi-shengxingchezhan", "sanyi-yutengpingduanqiao", "sanyi-yutengpingtieqiao", "sanyi-neishechuantieqiao", "sanyi-daanxitieqiao", "sanyi-jianzhongguoxiao", "sanyi-sanchagongxuexiaosushe", "tongluo-guandaoshandizhenbei", "tongluo-chezhan", "tongluo-jiutongluofenzhu"],
+      ["miaoli-laishijiexiaofang", "miaoli-wenchangci", "miaoli-taitiemiaolizhan", "miaoli-taiwanshengliang", "gongguan-chuhuangkeng", "nanzhuang-youbianju", "nanzhuang-linwujunanzhuangda", "nanzhuang-linwujunanzhuang", "nanzhuang-yongchanggongmiao", "nanzhuang-tianmeiyonghegong"]
+    ]},
+    "3": {"name": "三日：再加海線一天（中港慈裕宮、竹南蛇窯、談文與大山車站、外埔石滬、鄭崇和墓、通霄神社、苑裡）", "days": [
+      ["sanyi-shengxinghuoche", "sanyi-shengxingchezhan", "sanyi-yutengpingduanqiao", "sanyi-yutengpingtieqiao", "sanyi-neishechuantieqiao", "sanyi-daanxitieqiao", "sanyi-jianzhongguoxiao", "sanyi-sanchagongxuexiaosushe", "tongluo-guandaoshandizhenbei", "tongluo-chezhan", "tongluo-jiutongluofenzhu"],
+      ["miaoli-laishijiexiaofang", "miaoli-wenchangci", "miaoli-taitiemiaolizhan", "miaoli-taiwanshengliang", "gongguan-chuhuangkeng", "nanzhuang-youbianju", "nanzhuang-linwujunanzhuangda", "nanzhuang-linwujunanzhuang", "nanzhuang-yongchanggongmiao", "nanzhuang-tianmeiyonghegong"],
+      ["zhunan-zhonggangciyugong", "zhunan-sheyao", "zaoqiao-tanwenchezhan", "houlong-dashanhuochezhan", "houlong-waipushihuqun", "houlong-zhengchonghemu", "tongxiao-dajingqueshijinian", "tongxiao-shenshe", "tongxiao-hutoushanriluzhan", "yuanli-gongyoulingshoushi"]
+    ]}
+  },
+  "food": []
+}
