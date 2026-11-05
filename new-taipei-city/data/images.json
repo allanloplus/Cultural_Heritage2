@@ -292,7 +292,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:%E6%BB%AC%E5%B0%BE%E5%B0%8F%E5%AD%B8%E6%A0%A1%E7%A6%AE%E5%A0%82juillet2016FUJI3246.jpg",
    "artist": "Taiwankengo",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/danshui-huweixiaoxuexiaoli-0.webp",
+   "small": "img/danshui-huweixiaoxuexiaoli-0-s.webp"
   }
  ],
  "danshui-huweishuidao": [
@@ -302,7 +304,9 @@
    "page": "https://commons.wikimedia.org/wiki/File:2017%E6%BB%AC%E5%B0%BE%E6%B0%B4%E9%81%93.jpg",
    "artist": "Taiwankengo",
    "license": "CC BY-SA 4.0",
-   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "local": "img/danshui-huweishuidao-0.webp",
+   "small": "img/danshui-huweishuidao-0-s.webp"
   }
  ],
  "danshui-huweihunanyonggumu": [
