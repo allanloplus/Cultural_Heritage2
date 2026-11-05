@@ -1,0 +1,311 @@
+{
+  "intro": [
+    {
+      "who": "A",
+      "text": "嗨，我是 Allan Lo！今天我們從桃園國際機場出發，很多旅客第一次踏上臺灣，就是在桃園落地。"
+    },
+    {
+      "who": "R",
+      "text": "我是阿拉蕾！可是大家都說桃園只是機場，下了飛機就直接去臺北了，真的有文化資產嗎？"
+    },
+    {
+      "who": "A",
+      "text": "那就太可惜了！桃園的老名字叫桃仔園，從凱達格蘭族與泰雅族的土地，到客家和閩南移民開墾的埤塘台地，故事多到逛不完。"
+    },
+    {
+      "who": "R",
+      "text": "那這裡有幾處文化資產？"
+    },
+    {
+      "who": "A",
+      "text": "有形文化資產一共145處，國定古蹟2處、市定古蹟30處、歷史建築107處，還有聚落建築群、考古遺址和4處文化景觀。"
+    },
+    {
+      "who": "R",
+      "text": "兩處國定古蹟是哪兩個？快告訴我！"
+    },
+    {
+      "who": "A",
+      "text": "一個是大溪月眉的李騰芳古宅，清代舉人的宅第；另一個是觀音海邊的白沙岬燈塔，日治時期就開始為船隻指路。"
+    },
+    {
+      "who": "R",
+      "text": "我還聽說大溪老街的牌樓、桃園忠烈祠的神社建築、新屋范姜古厝，還有角板山和泰雅族部落都很有名！"
+    },
+    {
+      "who": "A",
+      "text": "沒錯，大溪光是文資就有44處，記得留肚子吃豆干；去復興區山上之前，也要先查颱風或豪雨後的路況。"
+    },
+    {
+      "who": "R",
+      "text": "那我們出發吧！先打開文資地圖，看看大溪的點點有多密！"
+    }
+  ],
+  "timeIntro": [
+    {
+      "who": "R",
+      "text": "Allan，桃園的時光地圖要從哪裡開始看？"
+    },
+    {
+      "who": "A",
+      "text": "十七世紀這裡是凱達格蘭族南崁社、坑仔社和泰雅族的天下，西班牙人和荷蘭人只在北部沿海短暫活動，所以第一期叫原住民族社會。"
+    },
+    {
+      "who": "A",
+      "text": "清代閩客移民在台地上挖埤塘、開圳道，還用土牛溝劃出番界；大嵙崁靠樟腦和茶葉變成熱鬧的河港。"
+    },
+    {
+      "who": "R",
+      "text": "那日治時期呢？我要找找桃仔園街和大嵙崁街以前長什麼樣子！"
+    },
+    {
+      "who": "A",
+      "text": "可以疊上臺灣堡圖、1921年地形圖和美軍地圖，山區再切換蕃地地形圖，把透明度拉一拉就看得到！"
+    }
+  ],
+  "planIntro": [
+    {
+      "who": "A",
+      "text": "桃園市區和中壢的景點比較集中，行程預設騎 YouBike，火車站和捷運站附近的站點很多。"
+    },
+    {
+      "who": "R",
+      "text": "那大溪、龍潭和復興呢？我看地圖上離市區有點遠耶！"
+    },
+    {
+      "who": "A",
+      "text": "那幾區景點分散，建議改成開車；去復興區走北橫公路之前，記得先查颱風或豪雨後的坍方管制，進部落也要尊重部落規範。"
+    },
+    {
+      "who": "R",
+      "text": "中午我要在大溪老街吃豆干，晚上到龍岡吃米干，行程就這樣決定了！"
+    }
+  ],
+  "gameIntro": [
+    {
+      "who": "R",
+      "text": "桃仔園遊戲場開張！問答王、時光排序、猜猜我是誰、翻翻樂，還有桃仔園擲骰大冒險！"
+    },
+    {
+      "who": "A",
+      "text": "題目從李騰芳古宅、白沙岬燈塔，一路考到大溪老街、桃園忠烈祠和角板山，看你能不能全部答對。"
+    },
+    {
+      "who": "R",
+      "text": "Allan，擲骰子我要像機場捷運一樣，咻一下直達終點！"
+    },
+    {
+      "who": "A",
+      "text": "哈哈，那就從桃園國際機場出發，比比看吧！"
+    }
+  ],
+  "reactions": [
+    {
+      "who": "R",
+      "text": "答對了！你根本就是桃仔園文資通！"
+    },
+    {
+      "who": "A",
+      "text": "正確答案！給你一個大大的讚。"
+    },
+    {
+      "who": "R",
+      "text": "哎呀，答錯了，沒關係，看看解說再挑戰！"
+    },
+    {
+      "who": "A",
+      "text": "可惜！差一點點，下次一定行。"
+    },
+    {
+      "who": "R",
+      "text": "換我擲骰子囉！看我的！"
+    },
+    {
+      "who": "A",
+      "text": "恭喜你贏了！今天的大溪豆干和龍岡米干算我的！"
+    },
+    {
+      "who": "R",
+      "text": "耶！這一局是我贏了，要不要再來一局？"
+    },
+    {
+      "who": "A",
+      "text": "平手！你們兩個都是文資高手。"
+    },
+    {
+      "who": "R",
+      "text": "時光排序完成！你從清代的埤塘和番界，一路排到今天的機場捷運，好厲害！"
+    },
+    {
+      "who": "A",
+      "text": "恭喜集到新的護照印章！"
+    },
+    {
+      "who": "R",
+      "text": "全部配對成功，記憶力滿分！"
+    },
+    {
+      "who": "A",
+      "text": "嗯，這一題我們一起看看解說。"
+    }
+  ],
+  "starts": [
+    {
+      "id": "airport",
+      "name": "桃園國際機場第一航廈（大園區）",
+      "lat": 25.08139,
+      "lng": 121.23741
+    },
+    {
+      "id": "hsr",
+      "name": "高鐵桃園站（中壢區青埔）",
+      "lat": 25.01372,
+      "lng": 121.21414
+    },
+    {
+      "id": "taoyuan",
+      "name": "臺鐵桃園車站",
+      "lat": 24.98934,
+      "lng": 121.31357
+    },
+    {
+      "id": "zhongli",
+      "name": "臺鐵中壢車站",
+      "lat": 24.95332,
+      "lng": 121.22616
+    },
+    {
+      "id": "daxi",
+      "name": "大溪老街（大溪中正公園）",
+      "lat": 24.88315,
+      "lng": 121.28545
+    },
+    {
+      "id": "gps",
+      "name": "我的目前位置",
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": "pick",
+      "name": "在地圖上點選出發點",
+      "lat": null,
+      "lng": null
+    }
+  ],
+  "plans": {
+    "1": {
+      "name": "一日：大溪（齋明寺、李騰芳古宅、和平路與中央路老街、石板古道、大溪公園、大溪公會堂與武德殿、慈湖）",
+      "days": [
+        [
+          "daxi-zhaimingsi",
+          "daxi-litengfangguzhai",
+          "daxi-hepinglujinfa",
+          "daxi-hepinglulijixing",
+          "daxi-hepingluxiexing",
+          "daxi-hepinglushengyuan",
+          "daxi-shibangudao",
+          "daxi-gongyuan",
+          "daxi-gonghuitang",
+          "daxi-wudedian",
+          "daxi-zhongyangluliao",
+          "daxi-cihulingqin"
+        ]
+      ]
+    },
+    "2": {
+      "name": "二日：大溪一天 ＋ 桃園與中壢市區一天（桃園忠烈祠、景福宮、土地改革陳列館、中壢燃藜第、馬祖新村、龍岡）",
+      "days": [
+        [
+          "daxi-zhaimingsi",
+          "daxi-litengfangguzhai",
+          "daxi-hepinglujinfa",
+          "daxi-hepinglulijixing",
+          "daxi-hepingluxiexing",
+          "daxi-hepinglushengyuan",
+          "daxi-shibangudao",
+          "daxi-gongyuan",
+          "daxi-gonghuitang",
+          "daxi-wudedian",
+          "daxi-zhongyangluliao",
+          "daxi-cihulingqin"
+        ],
+        [
+          "taoyuan-zhonglieci",
+          "taoyuan-jingfugong",
+          "taoyuan-damiaokoupaichusuo",
+          "taoyuan-jingchajurishisu",
+          "taoyuan-tudigaigechenlie",
+          "zhongli-ranlidi",
+          "zhongli-guoxiaorishisushe",
+          "zhongli-jingchajurishisu",
+          "zhongli-mazuxincun",
+          "zhongli-longgangyuanhuan"
+        ]
+      ]
+    },
+    "3": {
+      "name": "三日：大溪、桃園中壢市區 ＋ 客家庄與海岸一天（龍潭武德殿與聖蹟亭、土牛溝、楊梅道東堂、新屋范姜古厝、蚵間石滬、白沙岬燈塔）",
+      "days": [
+        [
+          "daxi-zhaimingsi",
+          "daxi-litengfangguzhai",
+          "daxi-hepinglujinfa",
+          "daxi-hepinglulijixing",
+          "daxi-hepingluxiexing",
+          "daxi-hepinglushengyuan",
+          "daxi-shibangudao",
+          "daxi-gongyuan",
+          "daxi-gonghuitang",
+          "daxi-wudedian",
+          "daxi-zhongyangluliao",
+          "daxi-cihulingqin"
+        ],
+        [
+          "taoyuan-zhonglieci",
+          "taoyuan-jingfugong",
+          "taoyuan-damiaokoupaichusuo",
+          "taoyuan-jingchajurishisu",
+          "taoyuan-tudigaigechenlie",
+          "zhongli-ranlidi",
+          "zhongli-guoxiaorishisushe",
+          "zhongli-jingchajurishisu",
+          "zhongli-mazuxincun",
+          "zhongli-longgangyuanhuan"
+        ],
+        [
+          "longtan-wudedian",
+          "longtan-guoxiaorishisushe",
+          "longtan-shengjiting",
+          "yangmei-tuniugouyangmei",
+          "yangmei-daodongtangshuang",
+          "xinwu-fanjiangzutang",
+          "xinwu-fanjianglaowu",
+          "xinwu-nonghuicangku",
+          "xinwu-hejianshihuqun",
+          "guanyin-baishajiadengta"
+        ]
+      ]
+    },
+    "fuxing": {
+      "label": "山城：復興",
+      "name": "復興區一日（大溪陵寢、角板山賓館與薰風閣、溪口吊橋、志繼、巴陵橋；北橫公路出發前請查路況）",
+      "days": [
+        [
+          "daxi-lingqin",
+          "fuxing-jiguopaijiaotang",
+          "fuxing-jiaobanshanbinguan",
+          "fuxing-jiaobanshanxunfeng",
+          "fuxing-zuojiujianzongdu",
+          "fuxing-xinzhulinquguanli",
+          "fuxing-xikoudiaoqiao",
+          "fuxing-ziligengshengzhi",
+          "fuxing-balingqiaojibaling",
+          "fuxing-balongqiaojinian",
+          "fuxing-rizhidanyaojunxie"
+        ]
+      ]
+    }
+  },
+  "food": []
+}
