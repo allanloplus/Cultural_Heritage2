@@ -31,6 +31,16 @@
 
 Settings → Pages → Build and deployment → Source 選 **Deploy from a branch**，Branch 選 **`main`**、資料夾 **`/ (root)`**。
 
+### 部署失敗怎麼辦
+
+本 repo 約 650 MB（大多是語音與照片），GitHub Pages 每次部署都要搬移整個網站，偶爾會在 GitHub 端逾時。部署失敗時**網站不會停擺**，會繼續使用上一個成功的版本。
+
+- 收到「pages build and deployment」失敗通知，且失敗的是 **deploy** 這一步（約 10 分鐘、`Timeout reached`）：到 **Actions** 分頁點該次執行，按 **Re-run all jobs**。
+- 若重跑一直停在 **Queued**／轉圈、按 **Cancel workflow** 也沒反應：那是 GitHub 端卡住的紀錄，網頁上取消不了。只要 `main` 有新的提交（合併任何 PR），GitHub 就會重新部署最新版本，卡住的那次不用理會。
+- 2026-11-07 曾發生一次（PR #13 合併後），以合併下一個 PR 的方式恢復。
+
+縣市頁的共用程式與樣式網址帶有版本戳記（`?v=…`，由第一網站的 `tools/build_data.py` 產生），新版部署後瀏覽器會自動抓新檔，不會沿用舊快取。
+
 ---
 
 Copyright © 2026 Allan Lo. 文字內容與程式碼版權所有；第三方資料與照片依各自授權。
