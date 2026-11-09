@@ -3,7 +3,6 @@
 導覽員 **Allan Lo** 與 AI 小助手 **阿拉蕾** 帶你逛臺灣各縣市的文化資產。
 
 - 規劃設計：Allan Lo，https://www.123hi.org，2026年11月
-- 使用 AI 工具：Claude Opus 5.5
 
 這是網站的**第二個 repo**。GitHub Pages 每個網站上限 1 GB，全臺做完約 1.23 GB，所以縣市分放兩個網站：
 
